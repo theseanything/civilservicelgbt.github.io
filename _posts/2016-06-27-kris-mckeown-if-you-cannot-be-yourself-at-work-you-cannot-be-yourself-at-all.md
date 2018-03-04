@@ -1,5 +1,5 @@
 ---
-title: 		"If you can't be yourself at work, you can't be yourself at all'
+title: 		"If you can't be yourself at work, you can't be yourself at all"
 author:		Kris McKeown
 excerpt: 	We've asked civil servants to blog about why it's important to #beyourself this Pride. Kris McKeown works for Disclosure Scotland and writes about why being an LGBT Ally is important.
 
