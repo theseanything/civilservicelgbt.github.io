@@ -45,7 +45,7 @@ We've started thinking about how we can celebrate LGBT History Month in 2018. If
 
 ### Our action plan
 
-In late 2015 we published our [action plan](http://ukcsra.com/2015/11/01/a-blueprint-for-improving-the-experiences-of-lgb-people-in-the-civil-service/) and have been working to deliver this over the last 18 months. 
+In late 2015 we published our [action plan](/2015/11/01/a-blueprint-for-improving-the-experiences-of-lgb-people-in-the-civil-service/) and have been working to deliver this over the last 18 months. 
 
 ## Until next time...
 
