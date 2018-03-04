@@ -3,10 +3,9 @@ title: 			"Civil Service departments shine in Stonewall Index"
 author: 			"Civil Service Rainbow Alliance"
 excerpt: 		"Stonewall have launched their Workplace Equality Index for 2018."
 
-category: 		news stonewall
 layout: 			news
 
-permalink: /2018/01/31/civil-service-departments-shine-in-stonewall-index/
+permalink: 		/2018/01/31/civil-service-departments-shine-in-stonewall-index/
 ---
 Stonewall have launched their [Workplace Equality Index for 2018](https://stonewall.org.uk/wei). This year, 9 Civil Service organisations feature in the Top 100 - with a number of central government departments re-entering the list after several years.
 

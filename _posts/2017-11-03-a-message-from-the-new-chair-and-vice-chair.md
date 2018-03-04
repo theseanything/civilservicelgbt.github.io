@@ -3,8 +3,6 @@ title: "A message from the new Chair and Vice-Chair"
 author: "Kate Scott-Hughes and John Peart"
 excerpt: "Kate Scott-Hughes and John Peart are the new Chair and Vice-Chair of CSRA. This post introduces them, their priorities, and what's coming next."
 
-category: news
-
 layout: news
 
 permalink: /2017/11/03/a-message-from-the-new-chair-and-vice-chair/
