@@ -49,6 +49,7 @@ home-news:			true
 home-events:			true
 home-publications:	true
 home-consultations:	true
+home-manuals:		false
 
 # HEADER
 
@@ -166,6 +167,7 @@ remote_theme: civilservicelgbt/cslgbt-theme # Github Pages specific
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
