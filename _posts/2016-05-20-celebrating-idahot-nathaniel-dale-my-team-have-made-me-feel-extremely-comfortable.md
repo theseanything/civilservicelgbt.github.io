@@ -14,6 +14,7 @@ permalink: /2016/05/20/celebrating-idahot-nathaniel-dale-my-team-have-made-me-fe
 
 “Why can’t I find someone so I can have kids!?” demanded my sister. “You’re never going to have them anyway because you’re a lesbian,” she added.
 
+I was a lesbian. I was bisexual. I am now a gay man. When you explore and experience so many identities, you find similarities between them. The biggest similarity between every stage of my life is that I have always encountered a term that is described as a ‘phobia’ -  whether homophobia, transphobia or biphobia. 
 
 Today is IDAHOT – an International Day of International Day Against Homophobia, Transphobia and Biphobia. It helps people understand what people like me are faced with on a daily basis. 
 
