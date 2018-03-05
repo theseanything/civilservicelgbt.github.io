@@ -29,6 +29,6 @@ Andy Holmes is an active LGBT ally within the Ministry of Justice LGBT employee 
 
 Several departments have also jumped up the Index outside the Top 100. Public Health England have jumped more than 60 places in this year's Index - rising to 115th - and the Ministry of Housing, Communities and Local Government (formerly DCLG) rose by more than 110 places in this year's index to 199th place. The Department for International Trade rose 143 places in the Index this year too. 
 
-*Congratulations to everyone in the Index - and especially those in the Top 100.**
+**Congratulations to everyone in the Index - and especially those in the Top 100.**
 
 We recognise that the Stonewall Index is an important tool for putting LGBT inclusion at work on the agenda of Civil Service organisations. We're going to launching new work this year to support networks in improving their workplace inclusion, and in entering the Index for 2019. 
