@@ -14,7 +14,7 @@ slug:				/our-plan-for-improving-LGBT-civil-servant-experiences
 
 ## Consultation description
 
-This week, we published [our plan for improving the experiences of LGBT+ civil servants: a consultation]. 
+This week, we published [our plan for improving the experiences of LGBT+ civil servants: a consultation](/publication/our-plan-for-improving-LGBT-civil-servant-experiences/). 
 
 The consultation document sets out ideas for how the Civil Service Rainbow Alliance should evolve, and how its work should change. 
 
