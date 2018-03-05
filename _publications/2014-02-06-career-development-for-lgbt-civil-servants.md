@@ -2,7 +2,8 @@
 title: 'Career development for LGBT civil servants'
 author: Civil Service Rainbow Alliance
 excerpt: "YouGov research finds Civil Service is LGBT friendly employer."
-layout: post
+
+layout: publication
 
 permalink: /2014/02/06/career-development-for-lgbt-civil-servants/
 ---
