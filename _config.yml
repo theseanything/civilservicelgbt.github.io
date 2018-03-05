@@ -138,7 +138,7 @@ collections:
         layout: consultation
   events:
     output: true
-    permalink: /event/:title/
+    permalink: /event/:year/:month/:day/:title/
     defaults:
       values:
         layout: event
