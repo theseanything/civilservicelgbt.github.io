@@ -20,4 +20,4 @@ The consultation document sets out ideas for how the Civil Service Rainbow Allia
 
 Our first action has been to change the name of our network to the Civil Service LGBT+ Network. The rest is now up to you: tell us what you think about our ideas and what you'd like to see done differently.
 
-You can respond either using the [online form]({{ page.consultation-link }}) or by [emailing us](info@civilservice.lgbt).
+You can respond either using the [online form]({{ page.consultation-link }}) or by [emailing us](mailto:info@civilservice.lgbt).
