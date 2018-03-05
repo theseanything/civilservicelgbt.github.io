@@ -2,7 +2,7 @@
 title:  						"Event template"
 excerpt:	  					"A brief description of the event."
 
-event-date: 					2000-01-01 00:00:00
+event-date: 					2000-01-01 00:00:01
 registration-close-date: 	1999-12-01 # Optional
 event-location: 				"123 Example Road, Example City, EX1 X23"
 
