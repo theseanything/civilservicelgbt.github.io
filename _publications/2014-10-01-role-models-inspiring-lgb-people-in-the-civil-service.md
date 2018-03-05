@@ -7,6 +7,16 @@ layout: publication
 
 permalink: /2014/10/01/role-models-inspiring-lgb-people-in-the-civil-service/
 ---
+
+<!-- Include the following to generate a Table of Contents -->
+* Table of contents will generate here
+{:toc}
+<!-- Don't touch the Table of Contents above -->
+
+<!-- Include this line to process the Markdown and format the content properly -->
+<div id="page-content" markdown="1">
+<!-- Don't remove the line of code above -->
+
 We are really pleased to be publishing the first Civil Service wide <a href="http://ukcsra.com/turing/wp-content/uploads/CSRA-Role-Models-V3.pdf">role model</a> guide that features lesbian, gay, bisexual, and other staff with a minority sexual orientation (LGB).
 
 The Civil Service, like the wider society it serves, has come a long way in its attitudes towards sexual orientation equality. It was only as recent as the 1980s that the Civil Service ended its practice of not promoting staff that openly identified as LGB to senior positions. The fact that some thirty years later, we can publish a role models guide that celebrates the positive role that LGB civil servants play across the whole Civil Service is great progress.
@@ -18,3 +28,8 @@ The role models featured in this guide are from a broad cross-section of Departm
 We hope that you enjoy reading this guide and we would like to thank all of the role models who have contributed to this guide but who also act as visible champion of LGB equality in their day to day work.
 
 This will be a living document, and more role models will be added to the online version of this guide over time, so if you want to be included in a future update please contact us via the details provided at the end of the guide.
+
+
+<!-- Include this line to process the Markdown and format the content properly -->
+</div>
+<!-- Don't remove the line of code above -->
