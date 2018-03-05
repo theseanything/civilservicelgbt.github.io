@@ -1,7 +1,7 @@
 ---
 title:  		"Our plan for improving the experiences of LGBT+ civil servants: a consultation"
 author:		"Civil Service LGBT+ Network"
-excerpt: 	"This is a consultation about the future work of the Civil Service LGBT+ network."
+excerpt: 	"This is a consultation about the future work of the Civil Service LGBT+ Network."
 
 image: /image.png
 categories: publication
