@@ -157,7 +157,7 @@ collections:
 #####################################################
 #####################################################
 
-url: "//civilservicelgbt.github.io" # e.g. http://example.com
+url: "//civilservice.lgbt" # e.g. http://example.com
 baseurl: "" # e.g. /blog
 
 markdown: kramdown
