@@ -163,7 +163,7 @@ collections:
 #####################################################
 #####################################################
 
-url: "https://civilservice.lgbt" # e.g. http://example.com
+url: "http://civilservice.lgbt" # e.g. http://example.com
 baseurl: "" # e.g. /blog
 
 markdown: kramdown
