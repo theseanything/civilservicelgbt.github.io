@@ -124,7 +124,7 @@ google-analytics: "UA-47423042-2" # GA ID code
 permalink: /news/:year/:month/:day/:title:output_ext #This is the default permalink for the "_posts" folder.
 
 collections:
-  archive:
+  archives:
     output: true
     permalink: /archive/:title/
     defaults:
