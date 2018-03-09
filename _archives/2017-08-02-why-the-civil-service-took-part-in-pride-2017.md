@@ -5,7 +5,8 @@ excerpt: "The Civil Service has taken part in several Pride events across the UK
 
 layout: news
 
-permalink: /2017/08/02/why-the-civil-service-took-part-in-pride-2017/
+permalink: /archives/2017/08/02/why-the-civil-service-took-part-in-pride-2017/
+redirect_from: /2017/08/02/why-the-civil-service-took-part-in-pride-2017/
 ---
 This summer, hundreds of Civil Service staff have been taking part in Pride events across the country. So far, lesbian, gay, bisexual and trans (LGBT) staff and allies have been to London, Nottingham, and Hull Pride - and more will be attending Edinburgh Pride amongst others in August.
 

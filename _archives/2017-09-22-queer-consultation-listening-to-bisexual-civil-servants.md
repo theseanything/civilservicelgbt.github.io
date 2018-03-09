@@ -5,7 +5,7 @@ excerpt: "Mary Peart, CSRA's bisexuality rep, writes about how you can help supp
 
 layout: news
 
-permalink: /archive/2017/09/22/queer-consultation-listening-to-bisexual-civil-servants/
+permalink: /archives/2017/09/22/queer-consultation-listening-to-bisexual-civil-servants/
 redirect_from: /2017/09/22/queer-consultation-listening-to-bisexual-civil-servants/
 ---
 

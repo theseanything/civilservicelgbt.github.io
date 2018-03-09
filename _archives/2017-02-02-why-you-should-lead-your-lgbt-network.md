@@ -5,7 +5,8 @@ excerpt: "Ofcom LGBT network chair, Sam Ruiz, offers his words of wisdom to anyb
 
 layout: news
 
-permalink: /2017/02/02/a-beginners-guide-to-leading-an-lgbt-network/
+permalink: /archives/2017/02/02/a-beginners-guide-to-leading-an-lgbt-network/
+redirect_from: /2017/02/02/a-beginners-guide-to-leading-an-lgbt-network/
 ---
 
 I arrived at Ofcom just over a year ago, as a new starter on the graduate scheme. By the time I found out about the mythical Affinity Network for LGBT colleagues, I’d already clocked that Ofcom was a pretty gay-friendly place to work. I’d been open with all my co-workers about having a boyfriend, and had found a handful of fellow LGBT colleagues.

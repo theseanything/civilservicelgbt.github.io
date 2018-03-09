@@ -5,7 +5,8 @@ excerpt: "Here's what happened at our most recent, and biggest ever, annual conf
 
 layout: news
 
-permalink: /2017/02/28/csra-hosts-in-biggest-conference-ever/
+permalink: /archives/2017/02/28/csra-hosts-in-biggest-conference-ever/
+redirect_from: /2017/02/28/csra-hosts-in-biggest-conference-ever/
 ---
 Last Thursday, we hosted our regular conference for LGBT civil servants. The conference was at the BEIS Conference Centre in central London. More than 200 civil servants representing representing over 40 government departments and agencies attended the event.
 

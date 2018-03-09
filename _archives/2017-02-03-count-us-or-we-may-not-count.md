@@ -5,7 +5,8 @@ excerpt: "Dr Justin Varney is a member of Public Health England Rainbow Alliance
 
 layout: news
 
-permalink: /2017/02/03/count-us-or-we-may-not-count/
+permalink: /archives/2017/02/03/count-us-or-we-may-not-count/
+redirect_from: /2017/02/03/count-us-or-we-may-not-count/
 ---
 It seems particularly apt that this year's [Lesbian, Gay, Bisexual and Trans History Month](//lgbthistorymonth.org.uk) theme is justice. 
 

@@ -5,7 +5,7 @@ excerpt: 	"Stuart Andrews shares his thoughts on what it's like working in the C
 
 layout: 		news
 
-permalink: 	/archive/2017/09/22/stuart-andrews-open-conversations-on-bivisibilityday/
+permalink: 	/archives/2017/09/22/stuart-andrews-open-conversations-on-bivisibilityday/
 redirect_from: /2017/09/22/stuart-andrews-open-conversations-on-bivisibilityday/
 ---
 

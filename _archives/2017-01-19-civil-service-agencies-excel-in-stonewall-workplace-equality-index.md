@@ -5,7 +5,8 @@ excerpt: "Congratulations to the 11 Civil Service organisations who placed in th
 
 layout: news
 
-permalink: /2017/01/19/civil-service-agencies-excel-in-stonewall-workplace-equality-index/
+permalink: /archives/2017/01/19/civil-service-agencies-excel-in-stonewall-workplace-equality-index/
+redirect_from: /2017/01/19/civil-service-agencies-excel-in-stonewall-workplace-equality-index/
 ---
 
 Today Stonewall has released [the results of the 2017 Workplace Equality Index](http://www.stonewall.org.uk/get-involved/workplace/workplace-equality-index). The index is an annual ranking of the top 100 most LGBT-inclusive organisations in the country.
