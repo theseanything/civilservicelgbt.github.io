@@ -5,7 +5,8 @@ excerpt: 	"On Saturday, the Civil Service took part in the parade at Pride in Lo
 
 layout: news
 
-permalink: /2016/06/29/biggest-ever-civil-service-group-marches-at-pride-in-london/
+permalink: /archives/2016/06/29/biggest-ever-civil-service-group-marches-at-pride-in-london/
+redirect_from: /2016/06/29/biggest-ever-civil-service-group-marches-at-pride-in-london/
 ---
 
 More than 200 LGBT civil servants and allies marched as part of our Civil Service marching group. The group, which represented staff from dozens of government departments and executive agencies, is the largest ever showing of LGBT diversity from the Civil Service at London Pride.

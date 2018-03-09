@@ -5,7 +5,8 @@ excerpt: "The Civil Service Rainbow Alliance marched at Pride in London once aga
 
 layout: news
 
-permalink: /2015/06/30/csra-marches-at-pride-london/
+permalink: /archives/2015/06/30/csra-marches-at-pride-london/
+redirect_from: /2015/06/30/csra-marches-at-pride-london/
 ---
 
 On Saturday, more than 150 civil servants participated in the Pride in London parade. This year marked the 8th time that CSRA has led a Civil Service marching group. LGBT and straight ally staff marched together to show the inclusivity of the Civil Service.

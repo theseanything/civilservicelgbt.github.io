@@ -5,7 +5,8 @@ excerpt: 'As part of LGBT History Month, we’re highlighting the stories of LGB
 
 layout: news
 
-permalink: /2016/02/24/gavin-thomas-we-wanted-to-ensure-lgbt-colleagues-are-supported-and-encouraged/
+permalink: /archives/2016/02/24/gavin-thomas-we-wanted-to-ensure-lgbt-colleagues-are-supported-and-encouraged/
+redirect_from: /2016/02/24/gavin-thomas-we-wanted-to-ensure-lgbt-colleagues-are-supported-and-encouraged/
 ---
 
 I work at Ofsted. We inspect and regulate services that care for children and young people, and services providing education and skills for learners of all ages. I focus on social care for my job. I also help to run our department’s LGBT network.

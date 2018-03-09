@@ -5,7 +5,8 @@ excerpt: "As part of LGBT History Month, we’re highlighting the stories of LGB
 
 layout: news
 
-permalink: /2016/02/19/stephen-foreshew-cain-civil-servants-have-been-at-the-forefront-of-equality-work/
+permalink: /archives/2016/02/19/stephen-foreshew-cain-civil-servants-have-been-at-the-forefront-of-equality-work/
+redirect_from: /2016/02/19/stephen-foreshew-cain-civil-servants-have-been-at-the-forefront-of-equality-work/
 ---
 
 This month is <a href="http://www.lgbthistorymonth.org.uk/">LGBT History Month</a>. LGBT History Month happens each year in February. It’s a chance to reflect on the positive contributions that lesbian, gay, bisexual and trans people make to our society, and to promote diversity and inclusion.

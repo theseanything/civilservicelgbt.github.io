@@ -5,7 +5,8 @@ excerpt: 	"Emily Miles, Director of Group Strategy at the Department for the Env
 
 layout: news
 
-permalink: /2016/09/19/emily-miles-why-i-declare-my-diversity/
+permalink: /archives/2016/09/19/emily-miles-why-i-declare-my-diversity/
+redirect_from: /2016/09/19/emily-miles-why-i-declare-my-diversity/
 ---
 
 In the last few years, whenever I’m asked to tick a box on diversity data, I declare that I’m bisexual. It only comes up when I’m filling out the diversity monitoring form for a job application, or filling out the annual staff survey – or registering in a new department, as I recently have done on the HR system in Defra.

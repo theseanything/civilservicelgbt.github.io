@@ -4,7 +4,8 @@ author: 		Civil Service Rainbow Alliance
 excerpt: 	"A statement on use of venues that host and organise homophobic events by the Civil Service."
 layout: 		post
 
-permalink: 	/2015/02/17/use-of-the-emmanuel-centre/
+permalink: 	/archives/2015/02/17/use-of-the-emmanuel-centre/
+redirect_from: 	/2015/02/17/use-of-the-emmanuel-centre/
 ---
 
 There is serious concern about the venues being used across the Civil Service for conferences/events. It appears that some host and (importantly) organise events that CSRA would consider to be homophobic. This has the effect of making some LGB* staff  deeply uncomfortable about attending Civil Service events at these venues. For example, at a recent away day, some CSRA members chose to boycott the event, which was unfortunate because it meant they did not join their colleagues for an election planning session and because they had to have awkward conversations with their management chains.

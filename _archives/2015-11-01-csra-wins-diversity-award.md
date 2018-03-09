@@ -5,7 +5,8 @@ excerpt: 	"The “Championing Lesbian, Gay, Bisexual & Transgender People Award�
 
 layout: news
 
-permalink: /2015/11/01/csra-wins-diversity-award/
+permalink: /archives/2015/11/01/csra-wins-diversity-award/
+redirect_from: /2015/11/01/csra-wins-diversity-award/
 ---
 
 The <a href="http://www.diversityandinclusionawards.com/">Civil Service Diversity and Inclusion Awards</a> were last month. Congratulations to Ollie Entwistle and Kate Scott-Hughes who won the “Championing Lesbian, Gay, Bisexual &amp; Transgender People Award”!

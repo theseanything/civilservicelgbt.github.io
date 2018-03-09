@@ -5,7 +5,8 @@ excerpt: "As part of LGBT History Month, we're highlighting the stories of LGB* 
 
 layout: news
 
-permalink: /2016/02/14/kate-scott-hughes-i-was-really-fortunate-to-start-with-the-cps-when-i-did/
+permalink: /archives/2016/02/14/kate-scott-hughes-i-was-really-fortunate-to-start-with-the-cps-when-i-did/
+redirect_from: /2016/02/14/kate-scott-hughes-i-was-really-fortunate-to-start-with-the-cps-when-i-did/
 ---
 I joined the CPS in 2001, starting as an Admin Assistant in St Albans, working with the HR and facilities teams.
 

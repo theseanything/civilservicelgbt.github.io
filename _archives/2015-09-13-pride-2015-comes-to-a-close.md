@@ -5,7 +5,8 @@ excerpt: 	"Pride season comes to a close for 2015; here's a look back at CSRA's 
 
 layout: news
 
-permalink: /2015/09/13/pride-2015-comes-to-a-close/
+permalink: /archives/2015/09/13/pride-2015-comes-to-a-close/
+redirect_from: /2015/09/13/pride-2015-comes-to-a-close/
 ---
 
 Pride season has come to an end for this year. Hundreds of civil servants - both LGBT and allies - have attended Pride events all over the UK.

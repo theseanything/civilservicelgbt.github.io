@@ -5,7 +5,8 @@ excerpt: This month is the International Day Against Homophobia, Biphobia and Tr
 
 layout: news
 
-permalink: /2016/05/20/celebrating-idahot-nathaniel-dale-my-team-have-made-me-feel-extremely-comfortable/
+permalink: /archives/2016/05/20/celebrating-idahot-nathaniel-dale-my-team-have-made-me-feel-extremely-comfortable/
+redirect_from: /2016/05/20/celebrating-idahot-nathaniel-dale-my-team-have-made-me-feel-extremely-comfortable/
 ---
 
 “Aren’t you going to get AIDS?” The question was asked by an 11-year-old as I walked from one school class to another. I was 14 at the time. 

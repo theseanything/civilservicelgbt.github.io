@@ -5,7 +5,8 @@ excerpt: 'CSRA has publish the first ever Civil Service role model guide for LGB
 
 layout: news
 
-permalink: /2014/10/01/csra-publishes-role-models-guide/
+permalink: /archives/2014/10/01/csra-publishes-role-models-guide/
+redirect_from: /2014/10/01/csra-publishes-role-models-guide/
 ---
 
 On 1 October 2014, CSRA published the first ever Civil Service role models guide for LGBT staff - **Role models: inspring LGBT people in the Civil Service** - at an event hosted by the Department for Environment, Food and Rural Affairs.

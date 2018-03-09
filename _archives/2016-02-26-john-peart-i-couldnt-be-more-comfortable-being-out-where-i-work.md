@@ -7,7 +7,8 @@ excerpt: "As part of LGBT History Month, we’re highlighting the stories of LGB
 
 layout: news
 
-permalink: /2016/02/26/john-peart-i-couldnt-be-more-comfortable-being-out-where-i-work/
+permalink: /archives/2016/02/26/john-peart-i-couldnt-be-more-comfortable-being-out-where-i-work/
+redirect_from: /2016/02/26/john-peart-i-couldnt-be-more-comfortable-being-out-where-i-work/
 ---
 "<em>What did you do last night?</em>"
 

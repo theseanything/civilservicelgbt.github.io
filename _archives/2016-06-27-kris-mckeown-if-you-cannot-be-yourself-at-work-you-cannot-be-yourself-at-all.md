@@ -5,7 +5,8 @@ excerpt: 	We've asked civil servants to blog about why it's important to #beyour
 
 layout: 		news
 
-permalink: 	/2016/06/27/kris-mckeown-if-you-cannot-be-yourself-at-work-you-cannot-be-yourself-at-all/
+permalink: 	/archives/2016/06/27/kris-mckeown-if-you-cannot-be-yourself-at-work-you-cannot-be-yourself-at-all/
+redirect_from: 	/2016/06/27/kris-mckeown-if-you-cannot-be-yourself-at-work-you-cannot-be-yourself-at-all/
 ---
 
 I have always been a believer in the notion that you do not have to be part of a particular gender, race, religion or sexuality in order to have empathy and affinity with those who are.

@@ -5,7 +5,8 @@ excerpt: "Dr Justin Varney, National Lead for Adult Health and Wellbeing at Publ
 
 layout: news
 
-permalink: /2017/01/17/how-phe-keeps-its-lgbt-network-in-good-shape/
+permalink: /archives/2017/01/17/how-phe-keeps-its-lgbt-network-in-good-shape/
+redirect_from: /2017/01/17/how-phe-keeps-its-lgbt-network-in-good-shape/
 ---
 
 Over the last three years PHE Rainbow Alliance has grown and built on the legacy and experiences of staff from the previous LGBT staff networks from the sender organisations. We have benefited from very strong and visible commitment to lesbian, gay, bisexual and trans issues in both our internal and external work from our chief executive Duncan Selbie, National Executive LGBT Champion Prof. Kevin Fenton and our Corporate Director of HR, Tony Vickers-Byrne. This support is reiterated during corporate inclusion for all staff and through our internet pages on diversity and inclusion. We also have a corporate objective to see year on year improvement in our Stonewall Equality Index ranking and score. I’m really proud that we saw significant improvements between the 2014 and 2015 scores.

@@ -5,7 +5,8 @@ excerpt: 'Stonewall today released the results of the 2016 Workplace Equality In
 
 layout: news
 
-permalink: /2016/01/19/stonewall-workplace-equality-index-shows-civil-service-is-falling-behind-on-lgb-diversity/
+permalink: /archives/2016/01/19/stonewall-workplace-equality-index-shows-civil-service-is-falling-behind-on-lgb-diversity/
+redirect_from: /2016/01/19/stonewall-workplace-equality-index-shows-civil-service-is-falling-behind-on-lgb-diversity/
 ---
 Stonewall today released the results of the 2016 Workplace Equality Index; a league table of the 100 most inclusive employers for LGBT people in the UK.
 

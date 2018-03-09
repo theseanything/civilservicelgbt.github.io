@@ -5,7 +5,8 @@ excerpt: "Civil Service blocks use of venues organising and hosting 'gay cure th
 
 layout: news
 
-permalink: /2015/04/13/civil-service-blocks-venues-used-for-gay-cure-therapies/
+permalink: /archives/2015/04/13/civil-service-blocks-venues-used-for-gay-cure-therapies/
+redirect_from: /2015/04/13/civil-service-blocks-venues-used-for-gay-cure-therapies/
 ---
 
 In February, we set out our concerns about some Government Departments' <a href="/2015/02/17/use-of-the-emmanuel-centre/">use of the Emmanuel Centre</a>, specifically events that promoted 'gay cure therapies'. As we said at the time, we do not consider it appropriate for the Civil Service to use this venue. Government Department's, and the Civil Service as a whole, have various public sector equality duties under the Equality Act to ensure that discrimination is eliminated and that equality is advanced. Hosting Civil Service events at venues like the Emmanuel Centre is not, in our view, compatible with these duties.

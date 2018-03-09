@@ -5,7 +5,8 @@ excerpt: "We've asked civil servants to blog about why it's important to #beyour
 
 layout: news
 
-permalink: /2016/06/24/aaron-booth-ive-never-felt-like-i-had-to-hide-who-i-am/
+permalink: /archives/2016/06/24/aaron-booth-ive-never-felt-like-i-had-to-hide-who-i-am/
+redirect_from: /2016/06/24/aaron-booth-ive-never-felt-like-i-had-to-hide-who-i-am/
 ---
 
 One of the reasons I am proud to work for the Civil Service is because I've never felt like I had to hide who I am. 

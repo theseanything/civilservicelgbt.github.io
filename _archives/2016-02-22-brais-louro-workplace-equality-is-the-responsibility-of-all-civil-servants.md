@@ -5,7 +5,8 @@ excerpt: "As part of LGBT History Month, we’re highlighting the stories of LGB
 
 layout: news
 
-permalink: /2016/02/22/brais-louro-workplace-equality-is-the-responsibility-of-all-civil-servants/
+permalink: /archives/2016/02/22/brais-louro-workplace-equality-is-the-responsibility-of-all-civil-servants/
+redirect_from: /2016/02/22/brais-louro-workplace-equality-is-the-responsibility-of-all-civil-servants/
 ---
 
 I’m the kind of person who would only work in a place where I feel welcomed as a gay man. I don’t think that’s too much to ask, and I'm very happy to say that is exactly how I feel in the Civil Service. I joined in 2013, and I immediately felt welcomed into a more diverse workforce than any I had worked in before.

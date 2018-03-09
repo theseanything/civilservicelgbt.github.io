@@ -5,7 +5,8 @@ excerpt: "We partnered with Age UK's Opening Doors project to highlight 2014's L
 
 layout: news
 
-permalink: /2014/02/27/csra-and-opening-doors-partner-for-lgbt-history-month/
+permalink: /archives/2014/02/27/csra-and-opening-doors-partner-for-lgbt-history-month/
+redirect_from: /2014/02/27/csra-and-opening-doors-partner-for-lgbt-history-month/
 ---
 
 Yesterday evening, CSRA partnered with Age UK's Opening Doors project to highlight 2014's LGBT History Month. The event explored experiences of coming out in each of the decades since the end of World War II, and tied into LGBT History Month's "music" theme.

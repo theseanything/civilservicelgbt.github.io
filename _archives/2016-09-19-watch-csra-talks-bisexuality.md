@@ -7,7 +7,8 @@ video: 		https://www.youtube.com/embed/ZQtfWH89gjQ
 
 layout: 		news
 
-permalink: 	/2016/09/19/watch-csra-talks-bisexuality/
+permalink: 	/archives/2016/09/19/watch-csra-talks-bisexuality/
+redirect_from: 	/2016/09/19/watch-csra-talks-bisexuality/
 ---
 
 Earlier this month, we launched *CSRA Talks*, a new guest speaker series exploring issues affecting LGBT civil servants. We broadcast the entire event online; now you can watch it back.

@@ -5,7 +5,8 @@ excerpt: "We've asked civil servants to blog about why it's important to #beyour
 
 layout: news
 
-permalink: /2016/06/21/kylie-mulholland-our-community-is-very-sociable-relaxed-friendly-and-fun/
+permalink: /archives/2016/06/21/kylie-mulholland-our-community-is-very-sociable-relaxed-friendly-and-fun/
+redirect_from: /2016/06/21/kylie-mulholland-our-community-is-very-sociable-relaxed-friendly-and-fun/
 ---
 With summer stretching out ahead of us and the days getting longer and hotter, it can only mean that Pride season is almost here! I’ve been to London Pride in recent years and love the atmosphere of celebration. It’s always a brilliant fun and the after parties in Soho are not to be missed. The creeping [shadow of commercialisation](http://www.theguardian.com/commentisfree/2012/jul/06/conversation-pride-gay-rights-party) has put off some people I know, but I’m hopeful that the true spirit of activism continues to shine through and the event can retain its relevance. This year I’m heading to the biggest UK Pride festival in [Brighton](http://www.brighton-pride.org/), and am really looking forward to checking out the scene in this famously diverse and gay friendly city.
 

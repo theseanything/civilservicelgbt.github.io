@@ -5,7 +5,8 @@ excerpt: "We've asked civil servants to blog about why it's important to #beyour
 
 layout: news
 
-permalink: /2016/06/23/warren-hallett-the-home-office-gave-me-my-life-back/
+permalink: /archives/2016/06/23/warren-hallett-the-home-office-gave-me-my-life-back/
+redirect_from: /2016/06/23/warren-hallett-the-home-office-gave-me-my-life-back/
 ---
 I joined the Home Office in 2003. At the interview, I was asked about the motivations for applying. “Because the Home Office gave me my life back, and I can now be myself without fear of being persecuted.” I replied. “I want to give something back to the UK for giving me my life back.”
 

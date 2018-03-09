@@ -5,7 +5,8 @@ excerpt: "As part of LGBT History Month, we’re highlighting the stories of LGB
 
 layout: news
 
-permalink: /2016/02/29/oliver-entwistle-lets-make-history-month-a-catalyst-for-change-in-the-civil-service/
+permalink: /archives/2016/02/29/oliver-entwistle-lets-make-history-month-a-catalyst-for-change-in-the-civil-service/
+redirect_from: /2016/02/29/oliver-entwistle-lets-make-history-month-a-catalyst-for-change-in-the-civil-service/
 ---
 
 Over the last month we've been celebrating [LGBT History](http://lgbthistorymonth.org.uk) Month across the Civil Service and we’ve been telling the story of why the month is so important to our members. For me, this year’s theme of religion, belief and faith has a personal significance. As an openly gay Christian, I have first-hand experience of the prejudice that still exists between communities. I've experienced the good, the bad and the ugly.

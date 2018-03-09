@@ -5,7 +5,8 @@ excerpt: "As part of LGBT History Month, we're highlighting the stories of LGB* 
 
 layout: news
 
-permalink: /2016/02/17/charlotte-jackson-i-will-continue-to-champion-difference/
+permalink: /archives/2016/02/17/charlotte-jackson-i-will-continue-to-champion-difference/
+redirect_from: /2016/02/17/charlotte-jackson-i-will-continue-to-champion-difference/
 ---
 As an 'out' lesbian, I often get asked "when did you first realise you were…?". That question invariably sets in motion a recollection of first crushes and childhood role models (<em>thank you Belinda Carlisle and Calamity Jane</em>).
 

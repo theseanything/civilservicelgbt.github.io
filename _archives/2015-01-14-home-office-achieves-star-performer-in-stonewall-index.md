@@ -5,7 +5,8 @@ excerpt: "The 2015 results for the Stonewall Workplace Equality Index are out, a
 
 layout: news
 
-permalink: /2015/01/14/home-office-achieves-star-performer-in-stonewall-index/
+permalink: /archives/2015/01/14/home-office-achieves-star-performer-in-stonewall-index/
+redirect_from: /2015/01/14/home-office-achieves-star-performer-in-stonewall-index/
 ---
 
 The Home Office has achieved ‘Star Performer’ status in a Workplace Equality Index compiled by Stonewall, the lesbian, gay and bisexual charity.

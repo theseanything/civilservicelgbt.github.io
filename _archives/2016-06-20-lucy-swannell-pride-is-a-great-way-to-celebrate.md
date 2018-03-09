@@ -5,7 +5,8 @@ excerpt: "We've asked civil servants to blog about why it's important to #beyour
 
 layout: news
 
-permalink: /2016/06/20/lucy-swannell-pride-is-a-great-way-to-celebrate/
+permalink: /archives/2016/06/20/lucy-swannell-pride-is-a-great-way-to-celebrate/
+redirect_from: /2016/06/20/lucy-swannell-pride-is-a-great-way-to-celebrate/
 ---
 
 I used to go to Pride as a teenager in London with my sister who is gay. It used to be in our local park in South London, Brockwell Park. 

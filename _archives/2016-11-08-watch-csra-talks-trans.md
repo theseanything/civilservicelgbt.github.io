@@ -7,7 +7,8 @@ video:		https://www.youtube.com/embed/lN_rkhyFgOA
 
 layout: 		news
 
-permalink: 	/2016/11/08/watch-csra-talks-trans/
+permalink: 	/archives/2016/11/08/watch-csra-talks-trans/
+redirect_from: 	/2016/11/08/watch-csra-talks-trans/
 ---
 
 Earlier this month, we held *CSRA Talks Trans*, part of a new guest speaker series exploring issues affecting LGBT civil servants. The event was held at the Department for Business, Energy and Industrial Strategy. We recorded it so you can watch it back.

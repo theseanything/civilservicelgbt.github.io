@@ -5,7 +5,8 @@ excerpt: 'As part of LGBT History Month, we’re highlighting the stories of LGB
 
 layout: news
 
-permalink: /2016/02/29/julie-pope-the-essence-of-staff-networks-will-always-be-the-people/
+permalink: /archives/2016/02/29/julie-pope-the-essence-of-staff-networks-will-always-be-the-people/
+redirect_from: /2016/02/29/julie-pope-the-essence-of-staff-networks-will-always-be-the-people/
 ---
 
 I’m a writer in my spare time, so stories are important to me. My characters have voices that want to be heard, a tale to tell and a message to convey. My LGBT activism is much the same.

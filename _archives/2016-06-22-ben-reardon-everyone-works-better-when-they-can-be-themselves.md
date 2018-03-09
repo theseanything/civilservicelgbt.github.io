@@ -6,7 +6,8 @@ excerpt: "We've asked civil servants to blog about why it's important to #beyour
 
 layout: news
 
-permalink: /2016/06/22/ben-reardon-everyone-works-better-when-they-can-be-themselves/
+permalink: /archives/2016/06/22/ben-reardon-everyone-works-better-when-they-can-be-themselves/
+redirect_from: /2016/06/22/ben-reardon-everyone-works-better-when-they-can-be-themselves/
 ---
 
 Being yourself should be the easiest thing in the world to do, right? I mean; it's *you*! You know who you are. You know how you feel. You know how to be. You are you!
