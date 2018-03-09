@@ -5,7 +5,8 @@ excerpt: "Mary Peart, CSRA's bisexuality rep, writes about how you can help supp
 
 layout: news
 
-permalink: /2017/09/22/queer-consultation-listening-to-bisexual-civil-servants/
+permalink: /archive/2017/09/22/queer-consultation-listening-to-bisexual-civil-servants/
+redirect_from: /2017/09/22/queer-consultation-listening-to-bisexual-civil-servants/
 ---
 
 I am writing this blog post while hurtling through the British countryside on a train from Sheffield to London. I travelled to Sheffield today to conduct the final in a series of interviews and focus groups aiming to understand the experiences of bisexual, queer, asexual, and pansexual civil servants.

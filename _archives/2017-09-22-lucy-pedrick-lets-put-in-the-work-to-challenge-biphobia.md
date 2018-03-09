@@ -5,7 +5,8 @@ excerpt: "Lucy Pedrick shares some thoughts on what it's like being a civil serv
 
 layout: news
 
-permalink: /2017/09/22/lucy-pedrick-lets-put-in-the-work-to-challenge-biphobia/
+permalink: /archive/2017/09/22/lucy-pedrick-lets-put-in-the-work-to-challenge-biphobia/
+redirect_from: /2017/09/22/lucy-pedrick-lets-put-in-the-work-to-challenge-biphobia/
 ---
 Imagine that you tell your family that you’ve got an exciting new job and they laugh and don’t believe you. 
 

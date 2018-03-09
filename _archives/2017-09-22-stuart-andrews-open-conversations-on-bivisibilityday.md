@@ -5,7 +5,8 @@ excerpt: 	"Stuart Andrews shares his thoughts on what it's like working in the C
 
 layout: 		news
 
-permalink: 	/2017/09/22/stuart-andrews-open-conversations-on-bivisibilityday/
+permalink: 	/archive/2017/09/22/stuart-andrews-open-conversations-on-bivisibilityday/
+redirect_from: /2017/09/22/stuart-andrews-open-conversations-on-bivisibilityday/
 ---
 
 I wanted to share my experiences for Bi Visibility Day. The Civil Service Rainbow Alliance are doing a piece of work to support colleagues identifying as bisexual, pansexual, asexual, queer, or with other minority sexual identities and I have agreed to give them some information on my experiences working in the Civil Service and identifying as bisexual. I wanted to share my response here too in case others felt they could draw on my support.
