@@ -2,6 +2,8 @@
 layout: page
 title: Our Constitution
 excerpt: "Our constitution defines the rules by which the Civil Service LGBT+ Network must operate."
+
+permalink: /about/constitution/
 ---
 
 ## 1. Name
@@ -14,7 +16,7 @@ The name of the organisation is the **Civil Service LGBT+ Network** (hereafter r
 
 **CSLGBT+** operates a membership system for individuals who are civil servants in central government departments, agencies and their associated public bodies.
 
-The focus of **CSLGBT+** is on issues of sexual orientation and identity. a:gender’s focus is on issues of gender identity.
+The focus of **CSLGBT+** is on issues of sexual orientation and gender identity.
 
 **CSLGBT+** is an independent organisation that is neither affiliated with the management of the Civil Service nor the staff unions, and is independent of both.
 

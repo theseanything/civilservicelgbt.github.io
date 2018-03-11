@@ -2,6 +2,8 @@
 layout: page
 title: About
 excerpt: "The Civil Service LGBT+ Network helps to create a more diverse, inclusive and equal place to work for lesbian, gay, bisexual and trans civil servants."
+
+permalink: /about/
 ---
 
 We're the Civil Service LGBT+ Network. We represent the interests of an estimated 20,000 lesbian, gay, bisexual and transgender people working in the UK Civil Service. 
@@ -14,7 +16,7 @@ Our mission is to support and challenge the Civil Service to become the most inc
 2. building a national community of LGBT+ civil servants
 3. representing the needs of LGBT+ staff to central Civil Service policy teams and the Senior Civil Service
 
-> Read our **[constitution](/about/constitution/)** and our **[mission and values]()**
+> Read our **[constitution](/about/constitution)** and our **[mission statement](/about/mission-statement)**
 
 ## Our team
 
