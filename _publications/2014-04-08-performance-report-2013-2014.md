@@ -20,9 +20,13 @@ redirect_from: /2014/04/08/delivered-for-you-in-20132014-our-annual-performance-
 
 > This report was produced by the Civil Service Rainbow Alliance, under a former leadership team.
 
+## Publication description
+
 Every year, we report back to you on the impact we’ve had and the progress we’ve made as an organisation. This year, we’ve achieved an incredible amount against a backdrop of significant change and a difficult environment.
 
 Today, we’re releasing ‘Delivered for You’, our annual performance report. This report provides an honest self-assessment of what we have an have not been able to do during the past year.
+
+**[Download the report](/assets/documents/2014-04-08-delivered-for-you.pdf)**
 
 
 <!-- Include this line to process the Markdown and format the content properly -->
