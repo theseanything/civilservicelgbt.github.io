@@ -5,7 +5,8 @@ excerpt: "We've published the first ever Civil Service role model guide for LGB 
 
 layout: publication
 
-permalink: /2014/10/01/role-models-inspiring-lgb-people-in-the-civil-service/
+permalink: /publication/2014/10/01/role-models-inspiring-lgb-people-in-the-civil-service/
+redirect_from: /2014/10/01/role-models-inspiring-lgb-people-in-the-civil-service/
 ---
 
 <!-- Include the following to generate a Table of Contents -->

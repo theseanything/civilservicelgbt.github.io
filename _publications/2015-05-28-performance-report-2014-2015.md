@@ -5,7 +5,8 @@ excerpt: "Today, we are publishing our annual performance report, 'Delivered for
 
 layout: publication
 
-permalink: /2015/05/28/delivered-for-you-2014-2015/
+permalink: /publication/2015/05/28/delivered-for-you-2014-2015/
+redirect_from: /2015/05/28/delivered-for-you-2014-2015/
 ---
 
 <!-- Include the following to generate a Table of Contents -->

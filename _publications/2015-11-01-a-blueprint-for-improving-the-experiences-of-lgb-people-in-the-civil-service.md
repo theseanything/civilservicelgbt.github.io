@@ -5,7 +5,8 @@ excerpt: "We've published a new action plan to make the Civil Service better for
 
 layout: publication
 
-permalink: /2015/11/01/a-blueprint-for-improving-the-experiences-of-lgb-people-in-the-civil-service/
+permalink: /publication/2015/11/01/a-blueprint-for-improving-the-experiences-of-lgb-people-in-the-civil-service/
+redirect_from: /2015/11/01/a-blueprint-for-improving-the-experiences-of-lgb-people-in-the-civil-service/
 ---
 
 
