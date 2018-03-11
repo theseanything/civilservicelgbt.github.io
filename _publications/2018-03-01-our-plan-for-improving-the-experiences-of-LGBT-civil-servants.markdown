@@ -3,9 +3,6 @@ title:  			"Our plan for improving the experiences of LGBT+ civil servants: a co
 author:			"Civil Service LGBT+ Network"
 excerpt: 		"This is a consultation about the future work of the Civil Service LGBT+ Network."
 
-image: 			/image.png
-categories: 		publication
-
 layout: 			publication
 slug: 			/our-plan-for-improving-LGBT-civil-servant-experiences
 ---
