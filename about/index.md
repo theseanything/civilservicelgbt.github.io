@@ -14,7 +14,7 @@ Our mission is to support and challenge the Civil Service to become the most inc
 2. building a national community of LGBT+ civil servants
 3. representing the needs of LGBT+ staff to central Civil Service policy teams and the Senior Civil Service
 
-Read our **[constitution]()** and our **[mission and values]**()
+Read our **[constitution]()** and our **[mission and values]()**
 
 ## Our team
 
