@@ -26,6 +26,10 @@ Every year, we report back to you on the impact we’ve had and the progress we�
 
 Today, we’re releasing ‘Delivered for You’, our annual performance report. This report provides an honest self-assessment of what we have an have not been able to do during the past year.
 
+## Download the report
+
+This report is available as a PDF download.
+
 **[Download the report](/assets/documents/2014-04-08-delivered-for-you.pdf)**
 
 
