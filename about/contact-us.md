@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact us
-excerpt: "Content here."
+excerpt: "Our contact details, in case you want to get in touch."
 
 permalink: /about/contact-us/
 ---
