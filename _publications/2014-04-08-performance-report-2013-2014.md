@@ -5,7 +5,8 @@ excerpt: "We do a lot for LGB civil servants. Each year, we publish a performanc
 
 layout: publication
 
-permalink: /2014/04/08/delivered-for-you-in-20132014-our-annual-performance-report/
+permalink: /publication/2014/04/08/delivered-for-you-in-20132014-our-annual-performance-report/
+redirect_from: /2014/04/08/delivered-for-you-in-20132014-our-annual-performance-report/
 ---
 
 <!-- Include the following to generate a Table of Contents -->
@@ -16,6 +17,8 @@ permalink: /2014/04/08/delivered-for-you-in-20132014-our-annual-performance-repo
 <!-- Include this line to process the Markdown and format the content properly -->
 <div id="page-content" markdown="1">
 <!-- Don't remove the line of code above -->
+
+> This report was produced by the Civil Service Rainbow Alliance, under a former leadership team.
 
 Every year, we report back to you on the impact we’ve had and the progress we’ve made as an organisation. This year, we’ve achieved an incredible amount against a backdrop of significant change and a difficult environment.
 
