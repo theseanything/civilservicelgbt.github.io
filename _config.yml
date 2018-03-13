@@ -92,17 +92,17 @@ logo-favicon-large: "/assets/images/site/favicon-96x96.png"
 facebook-app-id: "..." # For Facebook OpenGraph integration
 facebook-profile-id: "..." # For Facebook OpenGraph integration
 facebook-admin-id: "..." # For Facebook OpenGraph integration
-facebook-url:	"https://facebook.com/cslgbt"
-facebook-handle: "cslgbt" # Automatically pre-pends http://facebook.com/
+facebook-url:	"https://facebook.com/civilservicelgbt"
+facebook-handle: "civilservicelgbt" # Automatically pre-pends http://facebook.com/
 
 twitter-url: "https://twitter.com/cslgbt" # Twitter handle i.e. joebloggs
 twitter-handle: "cslgbt" # Twitter handle i.e. joebloggs
 
-flickr-url:  "https://www.flickr.com/photos/cslgbt"
-flickr-handle:  "cslgbt"
+flickr-url:  "https://www.flickr.com/photos/civilservicelgbt/"
+flickr-handle:  "civilservicelgbt"
 
-instagram-url:  "https://www.instagram.com/cslgbt"
-instagram-handle:  "cslgbt"
+instagram-url:  "https://www.instagram.com/civilservicelgbt"
+instagram-handle:  "civilservicelgbt"
 
 github-url:  "https://github.com/civilservicelgbt"
 github-handle:  "civilservicelgbt"
