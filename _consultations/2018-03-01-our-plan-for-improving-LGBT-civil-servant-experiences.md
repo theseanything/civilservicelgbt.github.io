@@ -6,7 +6,7 @@ excerpt:	  			"Tell us what you think about our ideas for the future of the Civi
 date:   				2018-03-01
 
 consultation-link: 	https://civilservicelgbt.typeform.com/to/mMXCuG
-end-date: 			2018-04-01
+end-date: 			2018-04-20
 
 layout: 				consultation
 slug:				/our-plan-for-improving-LGBT-civil-servant-experiences

@@ -43,7 +43,7 @@ This plan is open for consultation for the next month. We’d like to know what 
 
 This document explains our plans for the cross-government LGBT+ network for the next 2 years. It builds upon the Civil Service Rainbow Alliance’s “LGB* Action Plan”, released in November 2015.
 
-The plans in this document are open for consultation. The consultation will close on 1 April 2018. Following the close of the consultation, we will publish a full work plan and an annual report on our progress in delivering that plan.
+The plans in this document are open for consultation. The consultation will close on 20 April 2018. Following the close of the consultation, we will publish a full work plan and an annual report on our progress in delivering that plan.
 
 This consultation is open to everyone who has a minority sexual orientation or gender identity working in the UK Civil Service. This includes all staff working in departments and agencies and non-departmental public bodies listed on GOV.UK. It also includes staff from crown bodies that are affiliated with the Civil Service Rainbow Alliance.
 
