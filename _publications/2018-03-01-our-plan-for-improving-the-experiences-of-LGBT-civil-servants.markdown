@@ -49,10 +49,10 @@ This consultation is open to everyone who has a minority sexual orientation or g
 
 You can respond to this consultation in two ways:
 
-1. by sending your feedback to [info@ukcsra.com](mailto:info@ukcsra.com)
-2. by completing our online questionnaire, which can be found at [www.ukcsra.com](http://www.ukcsra.com)
+1. by sending your feedback to [info@civilservice.lgbt](mailto:info@civilservice.lgbt)
+2. by completing our online questionnaire, which can be found at [www.civilservice.lgbt](http://www.civilservice.lgbt)
 
-We’re also looking for volunteers to help us deliver this plan. If you’re interested, please contact us at [info@ukcsra.com](mailto:info@ukcsra.com). 
+We’re also looking for volunteers to help us deliver this plan. If you’re interested, please contact us at [info@civilservice.lgbt](mailto:info@civilservice.lgbt). 
 
 ## What our network should be for
 
@@ -90,10 +90,10 @@ This plan covers 4 priority areas, and some proposals for how we can act on them
 
 This plan is subject to consultation. If you have ideas for different ways we could address the issues highlighted in this document, then we'd love to hear it. You can send your feedback in two ways:
 
-1. by sending your feedback to [info@ukcsra.com](mailto:info@ukcsra.com)
-2. by completing our online questionnaire, which can be found at [www.ukcsra.com](http://www.ukcsra.com)
+1. by sending your feedback to [info@civilservice.lgbt](mailto:info@civilservice.lgbt)
+2. by completing our online questionnaire, which can be found at [www.civilservice.lgbt](http://www.civilservice.lgbt)
 
-We’re also looking for volunteers to help us deliver this plan. If you’re interested, please contact us at [info@ukcsra.com](mailto:info@ukcsra.com).
+We’re also looking for volunteers to help us deliver this plan. If you’re interested, please contact us at [info@civilservice.lgbt](mailto:info@civilservice.lgbt).
 
 ### Priority areas
 
@@ -116,7 +116,7 @@ Instead of a few large volunteer teams with broad remits, we will be establishin
 
 **Over the next month, we intend to disband the old team structure, replacing ‘officers’ and ‘representatives’ with a new system of ‘project leaders’ and ‘local organisers’.** This will give people clear ownership of a piece of work they can lead, and also not ask too much of volunteers. Each volunteer team will work with either the Chair or Vice-Chair to develop a clear project plan, so that they can focus on doing the important part: delivering for LGBT+ civil servants.
 
-**For each of the projects outlined below, we need volunteers.** Please contact [info@ukcsra.com](mailto:info@ukcsra.com) if you would like to lead one of the projects here, or if you have ideas of your own.
+**For each of the projects outlined below, we need volunteers.** Please contact [info@civilservice.lgbt](mailto:info@civilservice.lgbt) if you would like to lead one of the projects here, or if you have ideas of your own.
 
 ## Strong and stable networks
 
