@@ -10,7 +10,7 @@ permalink: 		/2018/06/30/pride-in-london-joining-instructions/
 
 ## Meeting point and arrival times
 
-### Collect your wristband from [INSERT] to [INSERT]
+### Collect your wristband from [INSERT] to [INSERT]
 
 You will need a wristband to access the parade waiting area.
 
