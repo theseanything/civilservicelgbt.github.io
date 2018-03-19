@@ -23,5 +23,3 @@ Reservations will happen in 2 waves:
 - the second will start at 10:00am on Monday 14 May.
 
 If you are unsuccessful in securing a ticket, you can join a waiting list. If more tickets become available, then you will be sent an email to take their place. You will have 24 hours to respond before your place is allocated to the next person on the list.
-
-<div style="width:100%; text-align:left;"><iframe src="https://eventbrite.co.uk/tickets-external?eid=44344963981&ref=etckt" frameborder="0" height="360" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
