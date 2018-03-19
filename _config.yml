@@ -166,6 +166,8 @@ collections:
 url: "https://www.civilservice.lgbt" # e.g. http://example.com
 baseurl: "" # e.g. /blog
 
+future: false
+
 markdown: kramdown
 
 # theme: cslgbt-theme # If compiling locally (i.e. not on Github Pages)
