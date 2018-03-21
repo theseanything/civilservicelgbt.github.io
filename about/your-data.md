@@ -1,6 +1,7 @@
 ---
 layout: publication
 title: Your privacy and data
+date: 2018-03-17
 excerpt: "This policy explains what we do with your data."
 
 permalink: /about/your-data/
