@@ -6,6 +6,15 @@ excerpt: "This policy explains what we do with your data."
 permalink: /about/your-data/
 ---
 
+<!-- Include the following to generate a Table of Contents -->
+* Table of contents will generate here
+{:toc}
+<!-- Don't touch the Table of Contents above -->
+
+<!-- Include this line to process the Markdown and format the content properly -->
+<div id="page-content" markdown="1">
+<!-- Don't remove the line of code above -->
+
 > This policy is in **alpha**. We’re still testing the details. [Send us feedback](/about/contact-us).
 
 The Civil Service LGBT+ Network is an volunteer-led employee network for the UK Civil Service; we follows Civil Service policies and procedures.
@@ -76,3 +85,7 @@ We keep this policy under review. Any updates to this policy will be published o
 ## How to contact us
 
 Please [contact us](/about/contact-us) if you have any questions about this policy or information we hold about you.
+
+<!-- Include this line to process the Markdown and format the content properly -->
+</div>
+<!-- Don't remove the line of code above -->
