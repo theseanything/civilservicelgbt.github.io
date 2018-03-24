@@ -13,11 +13,11 @@ slug:						/pride-in-london
 
 Join us as we march in the parade at Pride in London.
 
-**You must reserve a place to join the parade**. There are up to 200 places available.
+**You must reserve a place to join the parade**. We have been allocated 120 places in the parade, and we will also have a large float as part of the event.
 
 You can register up to 2 tickets; one for you, and one for a friend. 
 
-To ensure all places are fairly allocated, it will not be possible to register large groups, or on behalf of an entire network as part of this process.
+To ensure all places are fairly allocated, it is not be possible to register large groups, or on behalf of an entire network as part of this process.
 
 Reservations will happen in 2 waves:
 
