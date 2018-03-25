@@ -6,6 +6,7 @@ excerpt: 		"Here's everything we're planning for Pride this year."
 layout: 			news
 
 permalink: 		/2018/03/26/civil-service-pride-2018/
+redirect_from: /pride/
 image: 			/assets/images/posts/pride-2018.png
 ---
 
