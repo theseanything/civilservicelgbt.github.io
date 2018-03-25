@@ -6,6 +6,7 @@ excerpt: 		"We've changed our name. The Civil Service Rainbow Alliance is now th
 layout: 			news
 
 permalink: 		/2018/03/26/say-hello-civil-service-lgbt-network/
+image: /assets/images/posts/say-hello-cslgbt.png
 ---
 
 **Today, we're changing our name to become the Civil Service LGBT+ Network**. This blog post tells you a little about why we’re doing that, and what it means in practice.
