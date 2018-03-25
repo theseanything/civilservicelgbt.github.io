@@ -21,7 +21,7 @@ As usual, we are planning to take part in multiple Pride events this year. So fa
 
 Thanks to the work of our regional organisers, we also expect to take part in Pride events in Nottingham, Glasgow and Edinburgh.
 
-[a:gender](http://www.agender.org.uk) are also planning to take part in Sparkle.
+[a:gender](http://www.agender.org.uk) are also planning to take part in the [Sparkle Weekend](https://www.sparkle.org.uk/sparkle-in-the-park) in Manchester between 6 July 2018 and 8 July 2018.
 
 > If you would like to organise a Civil Service group as part of Pride in your local area, please [get in contact with us](/about/contact-us/).
 
