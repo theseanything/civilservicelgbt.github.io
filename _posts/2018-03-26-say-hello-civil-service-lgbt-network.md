@@ -15,7 +15,7 @@ image: /assets/images/posts/say-hello-cslgbt.png
 
 The *Civil Service Rainbow Alliance* is now more than a decade old. In that time we have helped to raise the visibility of staff with minority sexual orientations and gender identities.
 
-The contexts in which LGBT+ civil servants work are now, though, are radically different from just a decade ago when CSRA was in its infancy. The law is substantially different now, the workplace has changed too, and the challenges facing LGBT+ civil servants are new. 
+The contexts in which LGBT+ civil servants work now, though, are radically different from just a decade ago when CSRA was in its infancy. The law is substantially different now, the workplace has changed too, and the challenges facing LGBT+ civil servants are new. 
 
 We want to ensure that this network is relevant for the next 10 years and beyond, so we’ve been thinking about what comes next for CSRA. We’ve [launched a consultation](/publication/our-plan-for-improving-LGBT-civil-servant-experiences/), which [you can feedback on](/consultation/our-plan-for-improving-LGBT-civil-servant-experiences/), and we’re changing our name too as a first step.
 
