@@ -1,5 +1,5 @@
 ---
-title: 			"Preparing for Pride 2018"
+title: 			"What we've got planned for Pride 2018"
 author: 			"Civil Service LGBT+ Network"
 excerpt: 		"Here's everything we're planning for Pride this year."
 
