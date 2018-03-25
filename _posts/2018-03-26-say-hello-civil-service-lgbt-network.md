@@ -37,7 +37,7 @@ Our new name comes with some new branding, but more importantly, we’ve changed
 
 - **Twitter** where our handle is now [@cslgbt](https://www.twitter.com/cslgbt).
 - **Facebook** where our Facebook Page is now at [facebook.com/civilservicelgbt](https://www.facebook.com/civilservicelgbt)
-- **Instagram** where our handle is [@civilservicelgbt](https://www.instagram.com/civilservicelgbt]
+- **Instagram** where our handle is [@civilservicelgbt](https://www.instagram.com/civilservicelgbt)
 - **Flickr** where we’ve changed to [civilservicelgbt](https://www.flickr.com/photos/civilservicelgbt/) too.
 
 **Our email addresses have changed too**. You can now reach us at [info@civilservice.lgbt](mailto:info@civilservice.lgbt), and any other email addresses we use now end in @civilservice.lgbt.
