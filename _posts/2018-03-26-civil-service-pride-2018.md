@@ -1,6 +1,6 @@
 ---
 title: 			"Preparing for Pride 2018"
-author: 			"John Peart"
+author: 			"Civil Service LGBT+ Network"
 excerpt: 		"Here's everything we're planning for Pride this year."
 
 layout: 			news
