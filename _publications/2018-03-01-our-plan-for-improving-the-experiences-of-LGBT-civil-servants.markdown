@@ -27,7 +27,7 @@ In November 2017, we took over responsibility for leading the cross-government n
 
 For more than a decade, this network has helped to raise the visibility of staff with minority sexual orientations and gender identities. 
 
-The network has evolved in that time. It started as a network just for lesbian, gay and bisexual civil servants focused on community building. Today, we regularly host social, networking, and learning and development events for hundreds of staff across the country. We are also a representative organisation with dozens of volunteers and more than 1,300 members nationally, as well as connections with all the Civil Service departmental and agency LGBT+ networks. Importantly, the network also now explicitly welcomes staff who identify as trans too.
+The network has evolved in that time. It started as a network of networks, just for lesbian, gay and bisexual civil servants, focused on community building. Today, we regularly host social, networking, and learning and development events for hundreds of staff across the country. We are also a representative organisation with dozens of volunteers and more than 1,300 members nationally, as well as connections with all the Civil Service departmental and agency LGBT+ networks. Importantly, the network also now explicitly welcomes staff who identify as trans too.
 
 As a network, the Civil Service Rainbow Alliance needs to continue to evolve. The contexts in which LGBT+ civil servants work are now radically different from just a decade ago. The law is substantially different now, and the challenges facing LGBT+ civil servants are new. We want to ensure that this network is relevant for the next 10 years and beyond.
 
