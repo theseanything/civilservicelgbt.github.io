@@ -7,4 +7,4 @@ layout: page
 
 **Latest site build:** 		{{ "now" | date: "%d-%m-%Y %H:%M" }}
 
-**Version number:**			0.5.3
+**Version number:**			0.5.4
