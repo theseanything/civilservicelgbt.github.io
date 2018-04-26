@@ -157,6 +157,12 @@ collections:
     defaults:
       values:
         layout: manual
+  notices:
+    output: true
+    permalink: /notices/:title/
+    defaults:
+      values:
+        layout: news
 
 #####################################################
 #####################################################
