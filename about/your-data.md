@@ -16,9 +16,9 @@ permalink: /about/your-data/
 <div id="page-content" markdown="1">
 <!-- Don't remove the line of code above -->
 
-> This policy is in **alpha**. We’re still testing the details. [Send us feedback](/about/contact-us).
+> This policy is in **beta**. We’re still testing the details. [Send us feedback](/about/contact-us).
 
-The Civil Service LGBT+ Network is an volunteer-led employee network for the UK Civil Service; we follows Civil Service policies and procedures.
+The Civil Service LGBT+ Network is an volunteer-led employee network for the UK Civil Service; we follow Civil Service policies and procedures.
 
 This policy explains how we use any personal information we collect about you when you use this website, [register as a member](/join-us) of our network, or use our services.
 
@@ -57,7 +57,7 @@ We use several third party services to store and use data you provide to us, so 
 
 By [joining our newsletter](/join-us), you become a member of the Civil Service LGBT+ Network. You can opt out of receiving our newsletter and related marketing communications at any time.
 
-If you no longer want to receive these emails, you can [unsubscribe](https://lgbt.us17.list-manage.com/unsubscribe?u=ff3af94531f92ff898a64d95c&id=a2cb7ebf53) at any time.
+If you no longer want to receive these emails, [you can unsubscribe](https://lgbt.us17.list-manage.com/unsubscribe?u=ff3af94531f92ff898a64d95c&id=a2cb7ebf53).
 
 ## Access to your information and correction
 
@@ -69,9 +69,9 @@ You can also [contact us](/about/contact-us) directly and we will provide you wi
 
 ## Cookies
 
-Cookies are text files placed on your computer to collected standard internet log information and visitor behaviour information. This information is used to track visitor use of the website and to compile statistical repots on website activity.
+Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. This information is used to track visitor use of the website and to compile statistical repots on website activity.
 
-For further information visit [www.aboutcookies.org](https://www.aboutcookies.org) or [www.allaboutcookies.org](https://www.allaboutcookies.org).
+For further information visit [www.aboutcookies.org](https://www.aboutcookies.org).
 
 You can set your browser not to accept cookies and the above websites tell you how to remove cookies from your browser. However, in a few cases, some of our website features may not function as a result.
 
@@ -81,7 +81,13 @@ Our website contains links to other websites. This policy only applies to this w
 
 ## Changes to this policy
 
-We keep this policy under review. Any updates to this policy will be published on this website. This policy was first published on 17 March 2018.
+We keep this policy under review. Any updates to this policy will be published on this website. This policy was first published on 27 April 2018.
+
+## Informing you of changes or issues
+
+If we make changes to the way we process your information, or we identify an issue with the way data is being managed, we will publish a notice on our website.
+
+[Read all notices](/notices/)
 
 ## How to contact us
 
