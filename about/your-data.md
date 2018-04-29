@@ -81,7 +81,7 @@ Our website contains links to other websites. This policy only applies to this w
 
 ## Changes to this policy
 
-We keep this policy under review. Any updates to this policy will be published on this website. This policy was first published on 27 April 2018.
+We keep this policy under review. Any updates to this policy will be published on this website. This policy was last updated on 27 April 2018.
 
 ## Informing you of changes or issues
 
