@@ -19,11 +19,6 @@ You can register up to 2 tickets; one for you, and one for a friend.
 
 To ensure all places are fairly allocated, it is not be possible to register large groups, or on behalf of an entire network as part of this process.
 
-Reservations will happen in 2 waves:
-
-- the first will start at 10:00am on Tuesday 1 May.
-- the second will start at 10:00am on Monday 14 May.
-
-If you are unsuccessful in securing a ticket, you can join a waiting list. If more tickets become available, then you will be sent an email to take their place. You will have 24 hours to respond before your place is allocated to the next person on the list.
+All places have now been filled. If you were unsuccessful in securing a ticket, you can join a waiting list. If more tickets become available, then you will be sent an email to take their place. You will have 24 hours to respond before your place is allocated to the next person on the list.
 
 All reservations also allow you to attend our post-parade social. The venue for this is still to be confirmed. 
