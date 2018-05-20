@@ -7,7 +7,7 @@ location: 					"Cardiff"
 email: 						suzanne.vincent-jones@gov.wales
 
 layout: 						event
-slug:						/pride-in-london
+slug:						/pride-cymru-cardiff
 ---
 
 Come and join the Welsh Government and Civil Service in Cardiff when we again take a stand at Pride Cymru – on 25 August and 26 August. You can also take your place in the fabulous annual Parade on the Saturday, 25 August.
