@@ -16,8 +16,8 @@ image: 			/assets/images/posts/pride-2018.png
 
 As usual, we are planning to take part in multiple Pride events this year. So far we have started planning for:
 
-- **Pride in London**, 7 July 2018: we have already applied to take part in Pride in London and our application has been approved.
-- **Manchester Pride**, 25 August 2018: we have started planning to take part in Manchester Pride this year, working with the Government Equalities Office.
+- [**Pride in London**](https://www.civilservice.lgbt/event/2018/08/25/pride-in-london/), 7 July 2018: we have a float and 120 places confirmed
+- [**Pride Cymru, Cardiff**](https://www.civilservice.lgbt/event/2018/08/25/pride-cymru-cardiff/), 25 August and 26 August 2018: the Welsh Government will be leading a parade group on 25 August, and a stall on both days
 
 Thanks to the work of our regional organisers, we also expect to take part in Pride events in Nottingham, Glasgow and Edinburgh.
 
@@ -33,21 +33,12 @@ More details will be released soon.
 
 ## Pride in London
 
-We have already applied for a place in the Pride in London parade on 7 July 2018, and this has been approved.
-
-Due to arrangements in place with the local council, Pride in London continue to limit the number of participants in the Parade. **This year, we have secured 120 places and also plan to have a large float as part of the parade**.
-
-### Secure your place
-
-**You must register to join our group in the parade.** To ensure places are allocated fairly, you must register as an individual: you will not be able to register as a large group or network.
-
-Reservations will happen in 2 waves:
-
-- the first will start at 10:00am on Tuesday 1 May
-- the second will start at 10:00am on Monday 14 May
-
-We will also be operating a waiting list. 
+**You must register to join our group in the parade.** All places have now been filled, but you can join our waiting list; as spaces become available, we'll add more people to the parade.
 
 For more information, please [visit the event page on our website](/event/2018/07/07/pride-in-london/).
 
+---
 
+**Editor's note**
+
+This post was updated on 20 May 2018 to add Pride Cymru, and update information for Pride in London.
