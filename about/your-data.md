@@ -67,7 +67,7 @@ You can also [contact us](/about/contact-us) directly and we will provide you wi
 
 ## Cookies
 
-Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. This information is used to track visitor use of the website and to compile statistical repots on website activity.
+Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. This information is used to track visitor use of the website and to compile statistical reports on website activity.
 
 For further information visit [www.aboutcookies.org](https://www.aboutcookies.org).
 
