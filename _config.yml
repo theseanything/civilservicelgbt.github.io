@@ -181,7 +181,6 @@ markdown: kramdown
 remote_theme: civilservicelgbt/cslgbt-theme # Github Pages specific
 
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-redirect-from
 
