@@ -3,7 +3,7 @@ title: 			"Data notice: 30 April 2017"
 author: 		"Civil Service LGBT+ Network"
 excerpt: 		"This data notice explains changes to the way we store data on Mailchimp, following an issue we identified."
 
-layout: 			news
+layout: 			notice
 ---
 
 When you register for our newsletter, we ask you for some personal information, including your name, email address, and whether you are LGBT+. 

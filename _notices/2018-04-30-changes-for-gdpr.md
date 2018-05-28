@@ -2,7 +2,7 @@
 title:  				"We’re making some changes for GDPR"
 excerpt:  			"Data protection law is changing from 25 May 2018; so we’re making some changes to our policies and processes."
 
-layout: 				news
+layout: 				notice
 ---
 
 You've probably heard that data protection law is changing. From 25 May 2018, the General Data Protection Regulation (“GDPR”) comes into effect.
