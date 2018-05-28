@@ -16,8 +16,6 @@ permalink: /about/your-data/
 <div id="page-content" markdown="1">
 <!-- Don't remove the line of code above -->
 
-> This policy is in **beta**. We’re still testing the details. [Send us feedback](/about/contact-us).
-
 The Civil Service LGBT+ Network is an volunteer-led employee network for the UK Civil Service; we follow Civil Service policies and procedures.
 
 This policy explains how we use any personal information we collect about you when you use this website, [register as a member](/join-us) of our network, or use our services.
