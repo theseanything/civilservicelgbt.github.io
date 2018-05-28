@@ -5,7 +5,7 @@ excerpt: 		"This is our plan for delivering our over the next two years."
 
 layout: 			publication
 
-draft: true
+draft: 			false
 ---
 
 <!-- Include the following to generate a Table of Contents -->
