@@ -1,0 +1,87 @@
+---
+title:  			"Civil Service LGBT+ Network Business Plan: 2018 to 2020"
+author:			"Civil Service LGBT+ Network"
+excerpt: 		"This is our plan for delivering our over the next two years."
+
+layout: 			publication
+
+draft: true
+---
+
+<!-- Include the following to generate a Table of Contents -->
+* Table of contents will generate here
+{:toc}
+<!-- Don't touch the Table of Contents above -->
+
+<!-- Include this line to process the Markdown and format the content properly -->
+<div id="page-content" markdown="1">
+<!-- Don't remove the line of code above -->
+
+
+
+
+## Introduction 
+
+The Civil Service LGBT+ Network helps to create a more diverse, inclusive and equal place to work for lesbian, gay, bisexual and trans (LGBT+) civil servants. We represent the interests of an estimated 20,000 LGBT+ people working in the UK Civil Service.
+
+**This is our business plan for 2018 to 2020.** It explains the most significant work we will do over the next two years. 
+
+**We will publish an update to this plan every six months.** It will explain the progress we have made against objectives and targets in this plan.
+
+Our work helps us deliver against our four priorities:
+
+- **building strong and stable networks:** providing support and assurance for local networks, so that every civil servant can access a locally based LGBT+ network
+- **creating a diverse and inclusive community:** doing more to actively engage under-represented groups within the LGBT+ community, such as bisexual staff and women, and working on issues faced by people with multiple protected characteristics
+- **having a national impact:** ensuring that our activities are nationally inclusive and regionally based, and that people feel connected to a community regardless of where they live
+- **understanding and representing your needs:** ensuring that all our work is evidence based and that we accurately represent the views of our members to stakeholders
+
+## Our plan
+
+### Strong and stable networks
+
+To support the development of **strong and stable networks**, over the next two years we will:
+
+1. **establish a Heads of Networks Forum** to guide our work and share best practice
+2. **develop and share best practice policies and guidance that can be used across departments** so that networks can use these to internally influence their stakeholders to improve departmental policies and processes
+3. **support departments with the completion of the Stonewall Workplace Equality Index** by producing guidance on building including departments and a toolkit to support submissions
+
+### Diverse and inclusive community
+
+To **create a diverse and inclusive community**, in the next two years we will:
+
+1. **take part in at least 3 Pride events each year** and monitor the diversity of those taking part
+2. **create a new community space for bisexual civil servants**
+3. **establish a new LGBT+ and faith project** to understand the needs and experiences of LGBT+ people who also part of a religious community
+4. **establish a national LGBT+ allies programme** to help networks engage allies in their departments
+5. **establish joint projects with other cross-government networks** to explicitly highlight intersectionality of these groups 
+6. **run regular campaigns highlighting less visible communities within the LGBT+ population** such as LGBT+ women, transgender people, and LGBT+ people who are black or have a minority ethnicity
+
+### National reach
+
+To ensure that we have a **national reach** that supports civil servants wherever they live, we will:
+
+1. **pilot an online space for LGBT+ civil servants to network** helping LGBT+ staff to connect with others in their local area, even when they can't physically meet
+2. **support local organisers** by creating re-usable toolkits to help anyone set up events or activities in their local area
+3. **pilot a national LGBT+ mentoring scheme** for LGBT+ civil servants looking for a mentor
+4. **establish more networking and social events outside London**
+
+### Understanding and representing your needs
+
+To ensure we **understand and represent your needs**, we are going to:
+
+1. **advocate for standardised sexual orientation and gender identity monitoring in Civil Service systems and processes** so that we better understand the needs and experiences of LGBT+ civil servants compared with other civil servants
+2. **ensure networks have access to the main findings of the Civil Service People Survey results for LGBT+ staff** and how their own departments compare with others across government
+
+## Timetable and milestones
+
+We have created a roadmap that shows when we plan to deliver this work.
+
+[View the roadmap on Trello](https://trello.com/b/t77sCYza)
+
+## Help us deliver this plan
+
+**We need volunteers to help us deliver this plan.** You can use your volunteer days or support our network using as your “corporate contribution”. All our current [volunteering opportunities are listed on this website](). If you'd like to get involved, or you have a question, please [contact us](/about/contact-us/).
+
+<!-- Include this line to process the Markdown and format the content properly -->
+</div>
+<!-- Don't remove the line of code above -->
