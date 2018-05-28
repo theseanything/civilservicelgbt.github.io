@@ -7,6 +7,6 @@ layout: page
 
 **Latest site build:** 		{{ "now" | date: "%d-%m-%Y %H:%M" }}
 
-**Version number:**			0.8.1
+**Version number:**			0.8.2
 
 **Latest major changes:**	Add preview mode
