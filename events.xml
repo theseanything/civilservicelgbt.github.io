@@ -1,0 +1,4 @@
+---
+---
+
+{% include rss/events.html %}
