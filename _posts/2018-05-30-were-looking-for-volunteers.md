@@ -43,9 +43,9 @@ You'll be asked to organise our major governance fora, ensure they are minuted, 
 
 Some of the projects we want people to lead at the moment include:
 
-- **Developing a best practice toolkit for departments**: this toolkit should help departments and agencies be inclusive employers, and help them demonstrate this in the Stonewall Workplace Equality Index
-- **Developing a toolkit for completing the Stonewall Workplace Equality Index**: this toolkit should provide departments or agencies with model answers for completing the Stonewall Workplace Equality Index, which they can adapt for their own circumstances
-- **Establishing an mentoring programme**: in this role, you'll design and launch a national mentoring programme for LGBT+ civil servants
+- **Developing a best practice toolkit for departments**: you'll create a toolkit that helps departments and agencies be inclusive employers, and help them demonstrate this in the Stonewall Workplace Equality Index
+- **Developing a toolkit for completing the Stonewall Workplace Equality Index**: you'll curate model answers for completing the Stonewall Workplace Equality Index, which departments can adapt for their own circumstances
+- **Establishing an mentoring programme**: you'll design and launch a national mentoring programme for LGBT+ civil servants
 
 These are just some examples. We're looking for people who can help us deliver all the projects explained in our [business plan](https://www.civilservice.lgbt/publication/business-plan-2018-to-2020/).
 
