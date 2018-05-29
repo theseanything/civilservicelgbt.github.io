@@ -20,6 +20,7 @@ We're looking for people who can spare a few hours every month to help us do our
 
 - [Blog editor](#blog-editor)
 - [Governance lead](#governance-lead)
+- [Project leaders](#project-leaders) (multiple posts)
 - [Regional organisers](#regional-organisers) (multiple posts)
 - [Social events coordinators](#social-events-coordinators) (multiple posts)
 - [Social media manager](#social-media-manager)
@@ -35,6 +36,18 @@ You'll be asked to produce or find blog posts each month on timely topics. That 
 **Do you minutes and constitutions excite you?** We're looking for someone to run our Steering Group and Heads of Networks Forum.
 
 You'll be asked to organise our major governance fora, ensure they are minuted, and follow up on any actions. You'll also be responsible for keeping our constitution up to date and acting as returning officer for any elections.
+
+## Project leaders
+
+**Do you like delivering things?** We're looking for people who can be responsible for leading pieces of work. We'll work with you to develop a plan for delivery and timeline, and then you just have to go and make it happen.
+
+Some of the projects we want people to lead at the moment include:
+
+- **Developing a best practice toolkit for departments**: this toolkit should help departments and agencies be inclusive employers, and help them demonstrate this in the Stonewall Workplace Equality Index
+- **Developing a toolkit for completing the Stonewall Workplace Equality Index**: this toolkit should provide departments or agencies with model answers for completing the Stonewall Workplace Equality Index, which they can adapt for their own circumstances
+- **Establishing an mentoring programme**: in this role, you'll design and launch a national mentoring programme for LGBT+ civil servants
+
+These are just some examples. We're looking for people who can help us deliver all the projects explained in our [business plan](https://www.civilservice.lgbt/publication/business-plan-2018-to-2020/).
 
 ## Regional organisers
 
