@@ -16,6 +16,11 @@ We've just published [our business plan](https://www.civilservice.lgbt/publicati
 
 We're looking for people who can spare a few hours every month to help us do our work. Below are some of the roles we are looking to fill. **If you're interested, please email us at [info@civilservice.lgbt](mailto:info@civilservice.lgbt).**
 
+## Roles available
+
+- [Blog editor](#blog-editor)
+- [Social media manager](#social-media-manager)
+
 ## Blog editor
 
 **Are you good with words?** We're looking for someone who can manage the blog on our website. 
