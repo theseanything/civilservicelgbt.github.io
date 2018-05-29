@@ -20,6 +20,8 @@ We're looking for people who can spare a few hours every month to help us do our
 
 - [Blog editor](#blog-editor)
 - [Governance lead](#governance-lead)
+- [Regional organisers](#regional-organisers) (multiple posts)
+- [Social events coordinators](#social-events-coordinators) (multiple posts)
 - [Social media manager](#social-media-manager)
 
 ## Blog editor
@@ -30,10 +32,27 @@ You'll be asked to produce or find blog posts each month on timely topics. That 
 
 ## Governance lead
 
-**Do you minutes and constitutions excite you?** We're looking for someone to run our Board and Heads of Networks Forum.
+**Do you minutes and constitutions excite you?** We're looking for someone to run our Steering Group and Heads of Networks Forum.
 
 You'll be asked to organise our major governance fora, ensure they are minuted, and follow up on any actions. You'll also be responsible for keeping our constitution up to date and acting as returning officer for any elections.
 
+## Regional organisers
+
+**Do you want to organise things in your local area?** We're looking for people who want to run events or lead other activities in each region of the UK.
+
+You'll be asked to do some of the following:
+
+- lead a Civil Service group at your local Pride, with help from us to advertise it
+- deliver ad-hoc events using toolkits we provide
+- help us with campaigns by doing simple things like tweeting and putting up posters in your local offices
+
+We're looking for more than one regional organiser in each area, so don't worry; you won't have to do all of those things yourself (unless you want to!).
+
+## Social events coordinators
+
+**Are you good with people and networking?** We're looking for people who want to organise local social events. **We're specifically looking for volunteers outside of London.**
+
+It's a small ask: you just need to organise one event a month, and tell us where it will be so that we can advertise it. The events can be anything you like, from drinks at a local bar to coffee mornings and everything in between.
 
 ## Social media manager
 
