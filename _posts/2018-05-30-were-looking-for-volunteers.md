@@ -19,6 +19,7 @@ We're looking for people who can spare a few hours every month to help us do our
 ## Roles available
 
 - [Blog editor](#blog-editor)
+- [Governance lead](#governance-lead)
 - [Social media manager](#social-media-manager)
 
 ## Blog editor
@@ -27,9 +28,15 @@ We're looking for people who can spare a few hours every month to help us do our
 
 You'll be asked to produce or find blog posts each month on timely topics. That might be for an important date in the calendar — like LGBT History Month or Bi Visibility Day — or for a particular topic we want to highlight — like Pride.
 
+## Governance lead
+
+**Do you minutes and constitutions excite you?** We're looking for someone to run our Board and Heads of Networks Forum.
+
+You'll be asked to organise our major governance fora, ensure they are minuted, and follow up on any actions. You'll also be responsible for keeping our constitution up to date and acting as returning officer for any elections.
+
+
 ## Social media manager
 
 **Do you know how to build a following?** We're looking for someone to manage our Facebook, Twitter and Instagram accounts.
 
-You'll be asked to keep our feeds filled with the things we're doing, like highlighting our events or publicising our blog posts. 
-
+You'll be asked to keep our feeds filled with the things we're doing, like highlighting our events or publicising our blog posts. You'll also be asked to produce regular monitoring reports on our social media reach.
