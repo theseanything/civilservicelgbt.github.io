@@ -2,7 +2,7 @@
 title:  						"Civil Service at Pride in Glasgow"
 excerpt:	  					"Join the Civil Service LGBT+ Network and the Scottish Government LGBTI network Edinburgh's annual Pride event."
 
-date:	 					2018-07-14
+date:	 					2018-07-14 12:00
 location: 					"Glasgow"
 
 layout: 						event
