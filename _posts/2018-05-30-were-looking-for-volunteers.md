@@ -5,7 +5,9 @@ excerpt: 		"Can you help us to make things better for LGBT+ civil servants? Here
 
 layout: 			news
 
-permalink: 		/2018/05/30/were-looking-for-volunteers
+permalink: 		/2018/06/01/were-looking-for-volunteers
+
+preview: true
 ---
 
 The **Civil Service LGBT+ Network** is run entirely by volunteers. It's thanks to them that we can host our socials, run our conferences and keep the pressure on the Civil Service to do the right things for you. 
