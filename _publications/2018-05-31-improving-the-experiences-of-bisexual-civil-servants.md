@@ -19,7 +19,7 @@ preview: 		true
 
 ## Introduction
 
-The Civil Service People Survey shows that colleagues identifying as bisexual staff and staff with the “other” minority sexual orientations consistently report lower engagement and lower wellbeing than their gay, lesbian and heterosexual colleagues. They are also more likely to report being a victim of bullying, harassment and discrimination.
+The Civil Service People Survey shows that colleagues identifying as bisexual or with “other” minority sexual orientations consistently report lower engagement and lower wellbeing than their gay, lesbian and heterosexual colleagues. They are also more likely to report being a victim of bullying, harassment and discrimination.
 
 We wanted to understand these results in more detail so we could do something about them.
 
@@ -35,7 +35,7 @@ This document summarises the findings, and the things the Civil Service LGBT+ Ne
 
 Respondents to our consultation cited a lack of community and a lack of visible role models for bisexual civil servants and those with other minority sexual orientations.
 
-To start to address these issues, we will run a series of community events for colleagues called “BiSpace”. These will include small, safe-space events that are not centred around bar/club culture. These will be accompanied by a mailing list in order to share information. 
+To start to address these issues, we will run a series of community events for colleagues called “Bi Space”. These will include small, safe-space events that are not centred around bar/club culture. These will be accompanied by a mailing list in order to share information. 
 
 ### Bi-visibility
 
