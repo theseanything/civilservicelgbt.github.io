@@ -6,8 +6,6 @@ excerpt: 		"Can you help us to make things better for LGBT+ civil servants? Here
 layout: 			news
 
 permalink: 		/2018/05/30/were-looking-for-volunteers
-
-preview:			true
 ---
 
 The **Civil Service LGBT+ Network** is run entirely by volunteers. It's thanks to them that we can host our socials, run our conferences and keep the pressure on the Civil Service to do the right things for you. 
@@ -33,7 +31,7 @@ You'll be asked to produce or find blog posts each month on timely topics. That 
 
 ## Governance lead
 
-**Do you minutes and constitutions excite you?** We're looking for someone to run our Steering Group and Heads of Networks Forum.
+**Do minutes and constitutions excite you?** We're looking for someone to run our Steering Group and Heads of Networks Forum.
 
 You'll be asked to organise our major governance fora, ensure they are minuted, and follow up on any actions. You'll also be responsible for keeping our constitution up to date and acting as returning officer for any elections.
 
@@ -45,7 +43,7 @@ Some of the projects we want people to lead at the moment include:
 
 - **Developing a best practice toolkit for departments**: you'll create a toolkit that helps departments and agencies be inclusive employers, and help them demonstrate this in the Stonewall Workplace Equality Index
 - **Developing a toolkit for completing the Stonewall Workplace Equality Index**: you'll curate model answers for completing the Stonewall Workplace Equality Index, which departments can adapt for their own circumstances
-- **Establishing an mentoring programme**: you'll design and launch a national mentoring programme for LGBT+ civil servants
+- **Establishing a mentoring programme**: you'll design and launch a national mentoring programme for LGBT+ civil servants
 
 These are just some examples. We're looking for people who can help us deliver all the projects explained in our [business plan](https://www.civilservice.lgbt/publication/business-plan-2018-to-2020/).
 
