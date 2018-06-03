@@ -43,7 +43,7 @@ Respondents to our consultation said they can sometimes feel that their identity
 
 To start to address these issues, we will:
 
-- work with departmental LGBT+ networks to support them to be actively inclusive of those who identify as bisexual, asexual and with another minority identity
+- work with departmental LGBT+ networks to support them to be actively inclusive of those who identify as bisexual, pansexual, asexual, queer or with other minority identities
 - as part of our plan to share best practice across departments, work with Civil Service diversity and inclusion teams to ensure departments know how to recognise these identities and sign-post staff to relevant materials, networks and role models that specifically cater to their needs
 - continue to celebrate Bisexual Visibility Day and raise the profile of bisexual civil servants, as seen in our [CSRA Talks Bisexuality event](/archives/2016/09/19/watch-csra-talks-bisexuality/), blogs and [Civil Service Impact Index](https://www.civilservice.lgbt/impact-index).
 
@@ -51,7 +51,7 @@ To start to address these issues, we will:
 
 Respondents to our consultation said that they often found themselves in a position where they were perceived as a source of knowledge on LGBT+ issues amongst their colleagues. Whilst an environment of open questions and peer-to-peer learning is a positive one, this put considerable strain on those individuals who may not have the information themselves, may not feel comfortable answering personal questions, and who are also trying to do their day job. They said this sense of strain was sometimes exacerbated by a well-intentioned desire to role model and do things for others. 
 
-To support those civil servants in these situations, we will work with colleagues to develop a “Bisexuality 101” and “Asexuality 101” and “Polyamory 101” factsheets. These can be shared by networks and HR functions in order to raise awareness of these identities in the general workforce. They can also be used as a source of information which bisexual, asexual and polyamorous people can share with their colleagues in order to avoid answering all the questions themselves.
+To support those civil servants in these situations, we will work with colleagues to develop a series of factsheets. These can be shared by networks and HR functions in order to raise awareness of the full range of LGBT+ identities in the general workforce. They can also be used as a source of information which bisexual, asexual and polyamorous people can share with their colleagues in order to avoid answering all the questions themselves.
 
 ### Bullying, harassment and discrimination
 
