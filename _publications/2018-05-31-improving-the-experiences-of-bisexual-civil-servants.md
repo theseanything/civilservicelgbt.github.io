@@ -4,8 +4,6 @@ author:			"Mary Peart, Civil Service LGBT+ Network"
 excerpt: 		"Last year, we undertook research into the experiences of civil servants who identified as bisexual, pansexual, asexual and queer. This publication summarises the findings and the actions we propose to take."
 
 layout: 			publication
-
-preview: 		true
 ---
 
 <!-- Include the following to generate a Table of Contents -->
