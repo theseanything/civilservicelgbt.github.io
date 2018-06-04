@@ -8,7 +8,7 @@ location: 					"Edinburgh"
 layout: 						event
 slug:						/pride-edinburgh
 
-preview:						true
+email: 						info@civilservice.lgbt
 ---
 
 Join the Civil Service LGBT+ Network and the Scottish Government LGBTI network at this year's Pride event in Edinburgh.
