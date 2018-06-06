@@ -2,7 +2,7 @@
 title: 'Civil Service LGBT+ social, London'
 excerpt: Our monthly social and networking event in London.
 date: 2018-06-07T18:00:00.000Z
-location: London
+location: 'Lord Moon of the Mall, London'
 link: >-
   https://www.eventbrite.co.uk/e/civil-service-lgbt-social-london-tickets-39611776891
 email: info@civilservice.lgbt
