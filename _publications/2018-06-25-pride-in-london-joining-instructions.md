@@ -1,11 +1,12 @@
 ---
-title: 			"Pride in London 2018: What you need to know"
-author: 			"Civil Service LGBT+ Network"
-excerpt: 		"Here are the important things to know if you’re coming to London Pride 2018 with the Civil Service."
-
-layout: 			publication
-
-permalink: 		/2018/06/25/pride-in-london-joining-instructions/
+title: 'Pride in London 2018: What you need to know'
+author: Civil Service LGBT+ Network
+excerpt: >-
+  Here are the important things to know if you’re coming to London Pride 2018
+  with the Civil Service.
+layout: publication
+permalink: /2018/06/25/pride-in-london-joining-instructions/
+published: true
 ---
 
 <!-- Include the following to generate a Table of Contents -->
@@ -29,7 +30,7 @@ This guidance is for civil servants who are joining the cross-government Pride i
 
 This year's Pride in London theme is #PrideMatters. 
 
-Tweet us @cslgbt or email us at [info@civilservice.lgbt](mailto:info@civilservice.lgbt) to tell us why Pride matters to you as civil servant.
+Tweet us [@cslgbt](https://www.twitter.com/cslgbt) or email us at [info@civilservice.lgbt](mailto:info@civilservice.lgbt) to tell us why Pride matters to you as civil servant.
 
 ### We have a float
 
