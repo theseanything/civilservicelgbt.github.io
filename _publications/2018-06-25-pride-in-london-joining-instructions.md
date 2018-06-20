@@ -54,7 +54,7 @@ We will leave the meeting point and move into the parade form-up area at 1:45pm.
 
 ### Lining up in the parade
 
-Our group must arrive at the Parade form up area on Portland Place by 2:15pm.
+Our group must arrive at the Parade form up area on Portland Place by 2:10pm.
 
 This year, the Civil Service is in Group F, near the back of the parade. 
 
