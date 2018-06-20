@@ -8,6 +8,7 @@ layout: publication
 permalink: /2018/06/25/pride-in-london-joining-instructions/
 published: true
 draft: true
+preview: true
 ---
 
 <!-- Include the following to generate a Table of Contents -->
