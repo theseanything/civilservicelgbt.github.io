@@ -249,9 +249,9 @@ prose:
         field:
           element: "text"
           type: "text"
-          value: CURRENT_DATETIME
+          value: "2000-01-01 00:00"
           label: "Post date"
-          placeholder: CURRENT_DATETIME
+          placeholder: "2000-01-01 00:00"
       - name: "permalink"
         field:
           element: "text"
@@ -290,9 +290,9 @@ prose:
         field:
           element: "text"
           type: "text"
-          value: CURRENT_DATETIME
+          value: "2000-01-01 00:00"
           label: "Post date"
-          placeholder: CURRENT_DATETIME
+          placeholder: "2000-01-01 00:00"
       - name: "permalink"
         field:
           element: "text"
@@ -325,15 +325,14 @@ prose:
         field:
           element: "text"
           type: "text"
-          value: CURRENT_DATETIME
           label: "Post date"
-          placeholder: CURRENT_DATETIME
+          placeholder: "2000-01-01 00:00"
       - name: "registration-close-date"
         field:
           element: "text"
           type: "text"
           label: "Registration closing date"
-          placeholder: CURRENT_DATETIME
+          placeholder: "2000-01-01 00:00"
       - name: "location"
         field:
           element: "text"
