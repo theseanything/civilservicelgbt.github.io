@@ -245,6 +245,12 @@ prose:
           type: "text"
           value: "Civil Service LGBT+ Network"
           label: "Author"
+      - name: "permalink"
+        field:
+          element: "text"
+          type: "text"
+          label: "Permalink"
+          placeholder: "/2018/01/01/name-of-post"
       - name: "date"
         field:
           element: "text"
@@ -252,3 +258,11 @@ prose:
           value: CURRENT_DATETIME
           label: "Post date"
           placeholder: CURRENT_DATETIME
+      - name: "preview"
+        field: 
+          element: "button"
+          label: "Publish as preview?"
+          help: "If this is set to 'true' this post won't show up on the site loop, but will be accessible with the direct URL."
+          on: "true"
+          off: "false"
+          
