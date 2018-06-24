@@ -1,14 +1,15 @@
 ---
+layout: publication
 title: 'Pride in London 2018: What you need to know'
 author: Civil Service LGBT+ Network
 excerpt: >-
   Here are the important things to know if you’re coming to London Pride 2018
   with the Civil Service.
-layout: publication
 permalink: /2018/06/25/pride-in-london-joining-instructions/
 published: true
 draft: true
-preview: true
+preview: false
+date: '2018-06-24 13:57 +0100'
 ---
 
 <!-- Include the following to generate a Table of Contents -->
