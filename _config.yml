@@ -269,6 +269,47 @@ prose:
           label: "Publish as preview?"
           help: "If this is set to 'true' this post won't show up on the site loop, but will be accessible with the direct URL."
           value: false
+    _notices:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "notice"
+      - name: "title"
+        field:
+          element: "text"
+          type: "text"
+          label: "Post title"
+          placeholder: "Enter your post title here"
+      - name: "author"
+        field:
+          element: "text"
+          type: "text"
+          value: "Civil Service LGBT+ Network"
+          label: "Author"
+      - name: "date"
+        field:
+          element: "text"
+          type: "text"
+          value: "2000-01-01 00:00"
+          label: "Post date"
+          placeholder: "2000-01-01 00:00"
+      - name: "permalink"
+        field:
+          element: "text"
+          type: "text"
+          label: "Permalink"
+          placeholder: "/2018/01/01/name-of-post"
+      - name: "excerpt"
+        field:
+          element: "textarea"
+          label: "Excerpt"
+          placeholder: "Enter the short summary for the post here."
+      - name: "preview"
+        field: 
+          element: "checkbox"
+          label: "Publish as preview?"
+          help: "If this is set to 'true' this post won't show up on the site loop, but will be accessible with the direct URL."
+          value: false
     _publications:
       - name: "layout"
         field:
