@@ -206,51 +206,51 @@ plugins:
 #####################################################
 
 prose:
-	siteurl: 'https://www.civilservice.lgbt/'
-	media: 'assets'
-	ignore:
-	- .gitattributes
-	- .gitignore
-	- 404.html
-	- CNAME
-	- README.md
-	- _config.yml
-	- archives.md
-	- consultations.md
-	- events.md
-	- events.xml
-	- feed.xml
-	- index.md
-	- manuals.md
-	- networks.md
-	- news.md
-	- notices.md
-	- publications.md
-	- /_archives
-	metadata:
-		_posts:
-			- name: "layout"
-			  field:
-				element: "hidden"
-				value: "news"
-			- name: "title"
-			  field:
-				element: "text"
-				type: "text"
-				value: "news"
-				label: "Post title"
-				placeholder: "Enter your post title here"
-			- name: "author"
-			  field:
-				element: "text"
-				type: "text"
-				value: "news"
-				label: "Author"
-				placeholder: "Who wrote this post?"
-			- name: "date"
-			  field:
-				element: "text"
-				type: "text"
-				value: CURRENT_DATETIME
-				label: "Post date"
-				placeholder: CURRENT_DATETIME
+  siteurl: 'https://www.civilservice.lgbt/'
+  media: 'assets'
+  ignore:
+  - .gitattributes
+  - .gitignore
+  - 404.html
+  - CNAME
+  - README.md
+  - _config.yml
+  - archives.md
+  - consultations.md
+  - events.md
+  - events.xml
+  - feed.xml
+  - index.md
+  - manuals.md
+  - networks.md
+  - news.md
+  - notices.md
+  - publications.md
+  - /_archives
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "news"
+      - name: "title"
+        field:
+          element: "text"
+          type: "text"
+          value: "news"
+          label: "Post title"
+          placeholder: "Enter your post title here"
+      - name: "author"
+        field:
+          element: "text"
+          type: "text"
+          value: "news"
+          label: "Author"
+          placeholder: "Who wrote this post?"
+      - name: "date"
+        field:
+          element: "text"
+          type: "text"
+          value: CURRENT_DATETIME
+          label: "Post date"
+          placeholder: CURRENT_DATETIME
