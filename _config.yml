@@ -245,12 +245,6 @@ prose:
           type: "text"
           value: "Civil Service LGBT+ Network"
           label: "Author"
-      - name: "permalink"
-        field:
-          element: "text"
-          type: "text"
-          label: "Permalink"
-          placeholder: "/2018/01/01/name-of-post"
       - name: "date"
         field:
           element: "text"
@@ -258,6 +252,17 @@ prose:
           value: CURRENT_DATETIME
           label: "Post date"
           placeholder: CURRENT_DATETIME
+      - name: "permalink"
+        field:
+          element: "text"
+          type: "text"
+          label: "Permalink"
+          placeholder: "/2018/01/01/name-of-post"
+      - name: "excerpt"
+        field:
+          element: "textarea"
+          label: "Excerpt"
+          placeholder: "Enter the short summary for the post here."
       - name: "preview"
         field: 
           element: "button"
@@ -265,4 +270,45 @@ prose:
           help: "If this is set to 'true' this post won't show up on the site loop, but will be accessible with the direct URL."
           on: "true"
           off: "false"
-          
+    _publications:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "publication"
+      - name: "title"
+        field:
+          element: "text"
+          type: "text"
+          label: "Post title"
+          placeholder: "Enter your publication title here"
+      - name: "author"
+        field:
+          element: "text"
+          type: "text"
+          value: "Civil Service LGBT+ Network"
+          label: "Author"
+      - name: "date"
+        field:
+          element: "text"
+          type: "text"
+          value: CURRENT_DATETIME
+          label: "Post date"
+          placeholder: CURRENT_DATETIME
+      - name: "permalink"
+        field:
+          element: "text"
+          type: "text"
+          label: "Permalink"
+          placeholder: "/2018/01/01/name-of-post"
+      - name: "excerpt"
+        field:
+          element: "textarea"
+          label: "Excerpt"
+          placeholder: "Enter the short summary for the post here."
+      - name: "preview"
+        field: 
+          element: "button"
+          label: "Publish as preview?"
+          help: "If this is set to 'true' this post won't show up on the site loop, but will be accessible with the direct URL."
+          on: "true"
+          off: "false"
