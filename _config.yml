@@ -237,16 +237,14 @@ prose:
         field:
           element: "text"
           type: "text"
-          value: "news"
           label: "Post title"
           placeholder: "Enter your post title here"
       - name: "author"
         field:
           element: "text"
           type: "text"
-          value: "news"
+          value: "Civil Service LGBT+ Network"
           label: "Author"
-          placeholder: "Who wrote this post?"
       - name: "date"
         field:
           element: "text"
