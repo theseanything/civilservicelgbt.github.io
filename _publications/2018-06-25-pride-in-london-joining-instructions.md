@@ -6,8 +6,6 @@ excerpt: >-
   Here are the important things to know if you’re coming to London Pride 2018
   with the Civil Service.
 permalink: /2018/06/25/pride-in-london-joining-instructions/
-published: true
-draft: true
 date: '2018-06-24 13:57 +0100'
 preview: 'true'
 ---
