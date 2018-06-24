@@ -265,11 +265,15 @@ prose:
           placeholder: "Enter the short summary for the post here."
       - name: "preview"
         field: 
-          element: "button"
+          element: "select"
           label: "Publish as preview?"
           help: "If this is set to 'true' this post won't show up on the site loop, but will be accessible with the direct URL."
-          on: "true"
-          off: "false"
+          value: false
+          options:
+          - name: "False"
+            value: false
+          - name: "True"
+            value: true
     _publications:
       - name: "layout"
         field:
@@ -307,8 +311,12 @@ prose:
           placeholder: "Enter the short summary for the post here."
       - name: "preview"
         field: 
-          element: "button"
+          element: "select"
           label: "Publish as preview?"
           help: "If this is set to 'true' this post won't show up on the site loop, but will be accessible with the direct URL."
-          on: "true"
-          off: "false"
+          value: false
+          options:
+          - name: "False"
+            value: false
+          - name: "True"
+            value: true
