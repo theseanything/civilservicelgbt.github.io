@@ -310,3 +310,62 @@ prose:
           label: "Publish as preview?"
           help: "If this is set to 'true' this post won't show up on the site loop, but will be accessible with the direct URL."
           value: false
+    _events:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "event"
+      - name: "title"
+        field:
+          element: "text"
+          type: "text"
+          label: "Post title"
+          placeholder: "Enter your publication title here"
+      - name: "date"
+        field:
+          element: "text"
+          type: "text"
+          value: CURRENT_DATETIME
+          label: "Post date"
+          placeholder: CURRENT_DATETIME
+      - name: "registration-close-date"
+        field:
+          element: "text"
+          type: "text"
+          label: "Registration closing date"
+          placeholder: CURRENT_DATETIME
+      - name: "location"
+        field:
+          element: "text"
+          type: "text"
+          label: "Event location"
+          placeholder: "123 Example Road, Example City, EX1 X23"
+      - name: "link"
+        field:
+          element: "text"
+          type: "text"
+          label: "Event page link"
+          placeholder: "e.g. https://www.eventbrite.com/event-link"
+      - name: "email"
+        field:
+          element: "text"
+          type: "text"
+          label: "Event organiser email"
+          placeholder: "e.g. info@civilservice.lgbt"
+      - name: "slug"
+        field:
+          element: "text"
+          type: "text"
+          label: "Permalink"
+          placeholder: "/name-of-post"
+      - name: "excerpt"
+        field:
+          element: "textarea"
+          label: "Excerpt"
+          placeholder: "Enter the short summary for the post here."
+      - name: "preview"
+        field: 
+          element: "checkbox"
+          label: "Publish as preview?"
+          help: "If this is set to 'true' this post won't show up on the site loop, but will be accessible with the direct URL."
+          value: false
