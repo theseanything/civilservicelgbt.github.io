@@ -278,7 +278,7 @@ prose:
         field:
           element: "text"
           type: "text"
-          label: "Post title"
+          label: "Publication title"
           placeholder: "Enter your publication title here"
       - name: "author"
         field:
@@ -319,8 +319,8 @@ prose:
         field:
           element: "text"
           type: "text"
-          label: "Post title"
-          placeholder: "Enter your publication title here"
+          label: "Event title"
+          placeholder: "Enter your event title here"
       - name: "date"
         field:
           element: "text"
@@ -355,13 +355,66 @@ prose:
         field:
           element: "text"
           type: "text"
-          label: "Permalink"
+          label: "Slug"
           placeholder: "/name-of-post"
       - name: "excerpt"
         field:
           element: "textarea"
           label: "Excerpt"
           placeholder: "Enter the short summary for the event here."
+      - name: "preview"
+        field: 
+          element: "checkbox"
+          label: "Publish as preview?"
+          help: "If this is set to 'true' this post won't show up on the site loop, but will be accessible with the direct URL."
+          value: false
+    _consultations:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "publication"
+      - name: "title"
+        field:
+          element: "text"
+          type: "text"
+          label: "Consultation title"
+          placeholder: "Enter your consultation title here"
+      - name: "author"
+        field:
+          element: "text"
+          type: "text"
+          value: "Civil Service LGBT+ Network"
+          label: "Author"
+      - name: "date"
+        field:
+          element: "text"
+          type: "text"
+          value: "2000-01-01 00:00"
+          label: "Post date"
+          placeholder: "2000-01-01 00:00"
+      - name: "end-date"
+        field:
+          element: "text"
+          type: "text"
+          label: "Consultation end date"
+          placeholder: "2000-01-01 00:00"
+      - name: "consultation-link"
+        field:
+          element: "text"
+          type: "text"
+          label: "Consultation link"
+          placeholder: "e.g. https://www.surveymonkey.com/consultation-link"
+      - name: "slug"
+        field:
+          element: "text"
+          type: "text"
+          label: "Slug"
+          placeholder: "/name-of-post"
+      - name: "excerpt"
+        field:
+          element: "textarea"
+          label: "Excerpt"
+          placeholder: "Enter the short summary for the consultation here."
       - name: "preview"
         field: 
           element: "checkbox"
