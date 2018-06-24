@@ -303,7 +303,7 @@ prose:
         field:
           element: "textarea"
           label: "Excerpt"
-          placeholder: "Enter the short summary for the post here."
+          placeholder: "Enter the short summary for the publication here."
       - name: "preview"
         field: 
           element: "checkbox"
@@ -362,7 +362,7 @@ prose:
         field:
           element: "textarea"
           label: "Excerpt"
-          placeholder: "Enter the short summary for the post here."
+          placeholder: "Enter the short summary for the event here."
       - name: "preview"
         field: 
           element: "checkbox"
