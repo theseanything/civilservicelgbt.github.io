@@ -7,7 +7,8 @@ excerpt: >-
   with the Civil Service.
 permalink: /2018/06/25/pride-in-london-joining-instructions/
 date: '2018-06-24 13:57 +0100'
-preview: true
+preview: false
+published: true
 ---
 
 <!-- Include the following to generate a Table of Contents -->
