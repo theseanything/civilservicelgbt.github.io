@@ -1,16 +1,20 @@
 ---
-title:  				"Our plan for improving the experiences of LGBT+ civil servants"
-author:				"Civil Service LGBT+ Network"
-excerpt:	  			"Tell us what you think about our ideas for the future of the Civil Service LGBT+ Network."
-
-date:   				2018-03-01
-
-consultation-link: 	https://civilservicelgbt.typeform.com/to/mMXCuG
-end-date: 			2018-04-20
-
-layout: 				consultation
-slug:				/our-plan-for-improving-LGBT-civil-servant-experiences
+title: Our plan for improving the experiences of LGBT+ civil servants
+author: Civil Service LGBT+ Network
+excerpt: >-
+  Tell us what you think about our ideas for the future of the Civil Service
+  LGBT+ Network.
+date: '2018-03-01'
+consultation-link: 'https://civilservicelgbt.typeform.com/to/mMXCuG'
+end-date: 2018-04-20T00:00:00.000Z
+layout: consultation
+slug: /our-plan-for-improving-LGBT-civil-servant-experiences
+published: true
 ---
+
+## Consultation outcome
+
+We used the information you provided as part of this consultation to create our [business plan](https://www.civilservice.lgbt/publication/business-plan-2018-to-2020/) for 2018 to 2020.
 
 ## Consultation description
 
