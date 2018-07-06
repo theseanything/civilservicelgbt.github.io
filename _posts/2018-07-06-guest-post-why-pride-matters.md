@@ -3,7 +3,7 @@ layout: news
 author: 'Sue Owen, Permanent Secretary and Civil Service Diversity Champion'
 date: '2018-07-06'
 preview: false
-published: false
+published: true
 title: 'Guest post: Why Pride Matters'
 permalink: /2018/07/06/pride-matters-sue-owen
 excerpt: >-
