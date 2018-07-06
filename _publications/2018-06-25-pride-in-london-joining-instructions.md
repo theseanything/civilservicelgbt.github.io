@@ -52,11 +52,11 @@ Our initial meeting point will be Fitzroy Square Gardens. This is the same meeti
 
 You should aim to arrive at 1:00pm, where we will give out wristbands and take group photos.
 
-We will leave the meeting point and move into the parade form-up area at 1:45pm.
+We will leave the meeting point and move into the parade form-up area at around 2:00pm.
 
 ### Lining up in the parade
 
-Our group must arrive at the Parade form up area on Portland Place by 2:10pm.
+Our group needs to arrive at the Parade form up area on Portland Place at around 2:10pm.
 
 This year, the Civil Service is in Group F, near the back of the parade. 
 
@@ -70,11 +70,11 @@ Wristbands will be given to those who registered in advance first, and any uncol
 
 ### Collect your wristbands
 
-**We will only be handing out wristbands on the day**. You can collect your wristband on Saturday afternoon between 1:00pm and 1:30pm at our initial meeting point at Fitzroy Square Gardens.
+**We will only be handing out wristbands on the day**. You can collect your wristband on Saturday afternoon between 1:00pm and 1:45pm at our initial meeting point at Fitzroy Square Gardens.
 
 ### Spare wristbands
 
-Any wristbands that are uncollected by 1:30pm will be handed out to others so that all those that want to participate can do so. **If you were unsuccessful in securing a place online** and want one of our spare wristbands to join the group, please arrive at 1:25pm at the meeting point.
+Any wristbands that are uncollected by 1:45pm will be handed out to others so that all those that want to participate can do so. **If you were unsuccessful in securing a place online** and want one of our spare wristbands to join the group, please arrive at 1:30pm at the meeting point.
 
 ### If you can no longer attend
 
@@ -100,6 +100,10 @@ Additionally, Pride in London have asked that:
 - you **do not** use confetti cannons, coloured smoke or throw things into the crowd
 - you **do not** bring pets (except guide dogs) on the Parade route
 
+### End of the parade
+
+Unlike previous years, you should follow the parade float down Whitehall when the parade is complete and you have gone through the finishing arch.
+
 ## Dress code and t-shirts
 
 You should wear suitable clothing for the event, but there is no set dress code. Remember that you are representing the government at the event — so please don't wear anything that might cause embarrassment to you, the group or the Civil Service. 
@@ -108,13 +112,17 @@ T-shirts with Love is GREAT branding will be available on the day. Attendees sho
 
 If you would prefer to wear a work uniform, or t-shirts from your own Civil Service organisation, feel free to do so.
 
+## Weather
+
+It is forecast to be between 28 and 30 degrees on the day. Please bring water in *plastic* bottles and ensure that you are wearing suncream.  
+
 ## After the parade: social
 
 We will be holding post-parade social at the Civil Service Club in Westminster. We are operating a guest list to access the social: if you are not on the guest list, or if you are not already a member of the Civil Service Club, you will not be able to enter the venue.
 
 If you attend the parade as part of our parade group, or you registered for a social ticket when tickets became available, you are already on the list.
 
-Please note that the venue is limited in size, and so you may be refused entry if the venue is full.
+Please note that the venue is limited in size, and so you may be refused entry if the venue is full. If the venue is full, we'll overflow into St James's Park.
 
 ## Full guidance 
 
