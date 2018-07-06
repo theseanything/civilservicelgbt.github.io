@@ -3,7 +3,7 @@ layout: news
 author: Rachael Pool
 date: '2018-07-02'
 preview: false
-published: false
+published: true
 title: 'You are not alone: the power of staff networks'
 permalink: /2018/07/02/power-of-staff-networks
 excerpt: >-
