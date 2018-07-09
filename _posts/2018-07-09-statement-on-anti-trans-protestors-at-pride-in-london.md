@@ -3,7 +3,7 @@ layout: news
 author: Civil Service LGBT+ Network
 date: '2018-07-09'
 preview: true
-published: false
+published: true
 title: Statement on anti-trans protestors at Pride in London
 permalink: /2018/07/09/statement-trans-protest-pride-in-london
 excerpt: >-
@@ -20,7 +20,7 @@ We were proud this year, as we have for many years, to have trans people as part
 
 We are clear: trans people deserve to live with dignity and respect. The courage that trans people have to be themselves everyday in the face of such blatant transphobia is something for us all to admire. Trans people bring a diversity to the Civil Service that is a strength and a benefit to us all.
 
-We are aware and acknowledge [the statement from Pride in London](https://prideinlondon.org/news/2018/7/8/statement-from-pride-in-london-regarding-the-2018-protest-group) following these events. 
+We are aware of, and acknowledge, [the statement from Pride in London](https://prideinlondon.org/news/2018/7/8/statement-from-pride-in-london-regarding-the-2018-protest-group) following these events. 
 
 We think that the organisers were faced with a difficult set of choices in deciding how to react to the situation. They have said they will look into what they could have done differently, and we expectantly await their proposals for next year. We do not want to see this happen again. 
 
