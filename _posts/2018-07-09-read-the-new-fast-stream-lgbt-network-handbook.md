@@ -4,16 +4,14 @@ author: Rhys Roberts
 date: '2018-07-09'
 preview: false
 published: true
-title: Read the new Fast Stream LGBT+ Network handbook
+title: Introducing the new Fast Stream LGBT+ Network handbook
 excerpt: >-
   The Fast Stream LGBT+ network have written a new handbook to support LGBT+
   civil servants joining the Fast Stream. Fast Stream LGBT+ Network Chair Rhys
   Roberts introduces the new handbook.
 permalink: /2018/07/09/fast-stream-handbook
 ---
-> The Fast Stream LGBT+ network have written a new handbook.  It provides a great guide for LGBT+ Fast Streamers while also helping allies and managers provide better support.
-
-> The handbook’s author Niki Wood had the support of the Fast Stream LGBT+ network, Civil Service LGBT, LGBT Champions, A:Gender and other trusted sources. Fast Stream LGBT+ Network Chair Rhys Roberts introduces the new handbook.
+> The Fast Stream LGBT+ network have written a new handbook.  It provides a great guide for LGBT+ Fast Streamers while also helping allies and managers provide better support. The handbook’s author Niki Wood had the support of the Fast Stream LGBT+ network, Civil Service LGBT, LGBT Champions, A:Gender and other trusted sources. Fast Stream LGBT+ Network Chair Rhys Roberts introduces the new handbook.
 
 It is no secret that the Fast Stream is designed to be challenging. For many it requires moving away from support systems and moving around the country for three to four years. Combine that with your first posting probably being either your first job since university, first experience in the public sector or both. This is where being an LGBT+ Fast Streamer becomes tricky. When considering to bring your whole self to work, the prospect of revealing your sexual orientation or gender identity at each new posting can be intimidating and exhausting.
 
@@ -25,6 +23,6 @@ The network has come leaps and bounds since its initial creation. This handbook 
 
 ## Get involved
 
-If you'd like to get more involved, you can [find us on Facebook](https://facebook.com/groups/FastStreamLGBT) and follow us on Instagram [@fast_stream_lgbt](https://instagram.com/fast_stream_lgbt). 
+If you'd like to get more involved, you can [find us on Facebook](https://facebook.com/groups/FastStreamLGBT) and follow us on Instagram [@fast_stream_lgbt](https://instagram.com/fast_stream_lgbt). You can also subscribe to our mailing list by [emailing us](lgbt.fast.stream@gmail.com).
 
-You can also subscribe to our mailing list by [emailing us](lgbt.fast.stream@gmail.com).
+> **You can [download the new handbook](/publication/fast-stream-handbook) on the Civil Service LGBT+ Network website.**
