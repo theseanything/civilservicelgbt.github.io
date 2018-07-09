@@ -3,7 +3,7 @@ layout: publication
 author: Fast Stream LGBT+ Network
 date: '2018-07-09'
 preview: false
-published: false
+published: true
 title: Fast Stream LGBT+ Network handbook
 permalink: /publication/fast-stream-handbook
 excerpt: >-
@@ -18,4 +18,4 @@ The Fast Stream LGBT+ Network have created a handbook for LGBT+ entrants to the 
 
 This publication is available as a PDF.
 
-Download this publication
+[Download this publication](/assets/documents/2018-07-09-fast-stream-network-handbook.pdf)
