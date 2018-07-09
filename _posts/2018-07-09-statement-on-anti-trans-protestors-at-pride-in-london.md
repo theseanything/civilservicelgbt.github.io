@@ -2,7 +2,7 @@
 layout: news
 author: Civil Service LGBT+ Network
 date: '2018-07-09'
-preview: true
+preview: false
 published: true
 title: Statement on anti-trans protestors at Pride in London
 permalink: /2018/07/09/statement-trans-protest-pride-in-london
