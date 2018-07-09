@@ -11,7 +11,7 @@ excerpt: >-
   Roberts introduces the new handbook.
 permalink: /2018/07/09/fast-stream-handbook
 ---
-> The Fast Stream LGBT+ network have written a new handbook.  It provides a great guide for LGBT+ Fast Streamers while also helping allies and managers provide better support. The handbook’s author Niki Wood had the support of the Fast Stream LGBT+ network, Civil Service LGBT, LGBT Champions, A:Gender and other trusted sources. Fast Stream LGBT+ Network Chair Rhys Roberts introduces the new handbook.
+> The Fast Stream LGBT+ network have written a new handbook.  It provides a great guide for LGBT+ Fast Streamers while also helping allies and managers provide better support. The handbook’s author Niki Wood had the support of the Fast Stream LGBT+ network, Civil Service LGBT+ Network, LGBT Champions, A:Gender and other trusted sources. Fast Stream LGBT+ Network Chair Rhys Roberts introduces the new handbook.
 
 It is no secret that the Fast Stream is designed to be challenging. For many it requires moving away from support systems and moving around the country for three to four years. Combine that with your first posting probably being either your first job since university, first experience in the public sector or both. This is where being an LGBT+ Fast Streamer becomes tricky. When considering to bring your whole self to work, the prospect of revealing your sexual orientation or gender identity at each new posting can be intimidating and exhausting.
 
