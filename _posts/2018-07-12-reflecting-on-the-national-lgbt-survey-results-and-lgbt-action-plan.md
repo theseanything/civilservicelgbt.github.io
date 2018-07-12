@@ -13,6 +13,9 @@ excerpt: >-
 ---
 Last week, the Government announced the results of last year's national LGBT survey and its policy response: the LGBT Action Plan. We were delighted to be able to attend the launch event.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hear Kate Scott-Hughes, Chair of <a href="https://twitter.com/cslgbt?ref_src=twsrc%5Etfw">@cslgbt</a>, react to the <a href="https://twitter.com/hashtag/LGBTSurvey?src=hash&amp;ref_src=twsrc%5Etfw">#LGBTSurvey</a> and <a href="https://twitter.com/hashtag/LGBTActionPlan?src=hash&amp;ref_src=twsrc%5Etfw">#LGBTActionPlan</a> <a href="https://twitter.com/hashtag/EqualityBenefitsEveryone?src=hash&amp;ref_src=twsrc%5Etfw">#EqualityBenefitsEveryone</a> <a href="https://t.co/ERR4bBgnh9">pic.twitter.com/ERR4bBgnh9</a></p>&mdash; Women and Equalities (@WomenEqualities) <a href="https://twitter.com/WomenEqualities/status/1014187228552101888?ref_src=twsrc%5Etfw">July 3, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 ## What the results said
 
 The results of the national LGBT survey are incredibly exciting: more than 108,000 people responded to the survey making it the largest national survey of its kind anywhere in the world. This means there is an incredibly rich evidence base for government and the Civil Service to work from. 
@@ -54,4 +57,3 @@ The Civil Service has made several commitments in response to the findings of th
 We welcome the commitments that the Civil Service has made in response to the survey findings. We will work closely with the Civil Service Diversity and Inclusion team to ensure that the commitments that have been made are delivered. And, of course, we will continue to organise participation in pride events across the UK.
 
 > You can [read the full LGBT Action Plan](https://www.gov.uk/government/publications/lgbt-action-plan-2018-improving-the-lives-of-lesbian-gay-bisexual-and-transgender-people) on GOV.UK.
-
