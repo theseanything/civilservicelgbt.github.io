@@ -9,7 +9,7 @@ redirect_from:
 image: /assets/images/posts/pride-2018.png
 published: true
 date: '2018-07-12'
-preview: true
+preview: false
 permalink: /2018/07/12/civil-service-pride-2018/
 ---
 
