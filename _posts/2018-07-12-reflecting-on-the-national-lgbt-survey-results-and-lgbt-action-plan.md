@@ -3,7 +3,7 @@ layout: news
 author: Civil Service LGBT+ Network
 date: '2018-07-12'
 preview: false
-published: false
+published: true
 title: Reflecting on the national LGBT survey results and LGBT Action Plan
 permalink: 2018/07/12/national-lgbt-survey-reflections
 excerpt: >-
