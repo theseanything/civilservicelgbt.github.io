@@ -7,7 +7,7 @@ published: true
 title: Pride in London 2018 was our best yet
 permalink: 2017/07/12/pride-in-london-our-best-yet
 excerpt: Here's what we got up to in the Pride in London celebrations last weekend.
-video: 'https://youtu.be/4nscwPVGvvY'
+video: 'https://www.youtube.com/embed/4nscwPVGvvY'
 ---
 On 7 July 2018, we took part in Pride in London's annual celebrations and parade. This year was our best yet. 
 
