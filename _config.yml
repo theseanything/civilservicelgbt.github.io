@@ -207,7 +207,7 @@ plugins:
 
 prose:
   siteurl: 'https://www.civilservice.lgbt/'
-  media: 'assets'
+  media: 'assets/images/posts'
   ignore:
   - .gitattributes
   - .gitignore
