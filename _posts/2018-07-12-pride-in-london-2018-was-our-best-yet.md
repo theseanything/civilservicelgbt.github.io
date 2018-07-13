@@ -36,7 +36,7 @@ For the first time in more than 5 years, we also had a float as part of our para
 
 We've put a lot of the photos we took from the day on Flickr. If you've got more photos you'd like to share, [send them to us](/about/contact-us/).
 
-> [Look at the photos on Flickr]()
+> [Look at the photos on Flickr](https://www.flickr.com/gp/civilservicelgbt/230213)
 
 ## Thank yous
 
