@@ -4,7 +4,7 @@ author: Rhys Roberts
 date: '2018-07-09'
 preview: false
 published: true
-title: Introducing the new Fast Stream LGBT+ Network handbook
+title: The Fast Stream LGBT+ Network introduce their new handbook
 excerpt: >-
   The Fast Stream LGBT+ network have written a new handbook to support LGBT+
   civil servants joining the Fast Stream. Fast Stream LGBT+ Network Chair Rhys
