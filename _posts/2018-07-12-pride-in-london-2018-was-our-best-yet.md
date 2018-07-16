@@ -46,7 +46,7 @@ We'd also like to thank Dan, Jessica, Louis, Rebecca, Rob and Yiannis who acted 
 
 Thanks also to Sonia and Laurence from the Cabinet Office who designed our ‘Inclusive Civil Service’ placards and banners for the day.
 
-And of course thank you to everyone else to attended, either in the parade group or on the route cheering us on. You made the day extra special for us all.
+And of course thank you to everyone else who attended, either in the parade group or on the route cheering us on. You made the day extra special for us all.
 
 ## What we will do differently next time 
 
