@@ -18,7 +18,7 @@ What we have read has saddened and shocked us.
 
 We were proud this year, as we have for many years, to have trans people as part of our parade group. We will continue to champion the rights of trans people at work, and continue to support them in the Civil Service.
 
-We are clear: trans people deserve to live with dignity and respect. The courage that trans people have to be themselves everyday in the face of such blatant transphobia is something for us all to admire. Trans people bring a diversity to the Civil Service that is a strength and a benefit to us all.
+We are clear: trans people deserve to live with dignity and respect. The courage that trans people have to be themselves every day in the face of such blatant transphobia is something for us all to admire. Trans people bring a diversity to the Civil Service that is a strength and a benefit to us all.
 
 We are aware of, and acknowledge, [the statement from Pride in London](https://prideinlondon.org/news/2018/7/8/statement-from-pride-in-london-regarding-the-2018-protest-group) following these events. 
 
