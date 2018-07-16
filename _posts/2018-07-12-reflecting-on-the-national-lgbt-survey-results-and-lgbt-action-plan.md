@@ -40,7 +40,7 @@ In the workplace, the survey found that of the respondents who had a paid job in
 - more than 7 in 10 people said the most serious incident they experienced was not reported
 - respondents were more likely to find staff networks, trades unions and LGBT specific charitable organisations more helpful in handling the situations they faced
 
-These figures are more stark than results from other exercises like the Civil Service People Survey; in particularly in relation to the amount of workplace bullying and harassment that may be occurring. They also endorse the existence of networks like us. 
+These figures are more stark than results from other exercises like the Civil Service People Survey; particularly in relation to the amount of workplace bullying and harassment that may be occurring. They also endorse the existence of networks like us. 
 
 > You can [read the full results from the LGBT survey](https://www.gov.uk/government/publications/national-lgbt-survey-summary-report) on GOV.UK.
 
