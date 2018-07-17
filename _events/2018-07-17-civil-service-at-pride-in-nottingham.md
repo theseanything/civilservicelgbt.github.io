@@ -1,7 +1,7 @@
 ---
 layout: event
 preview: false
-published: false
+published: true
 title: Civil Service at Pride in Nottingham
 date: '2018-07-28'
 location: 'Meet at Castle Gate, Nottingham.'
