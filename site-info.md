@@ -9,4 +9,4 @@ layout: page
 
 **Version number:**			0.10.0
 
-**Latest major changes:** Add skip links and make accessibility improvements
+**Latest major changes:** Add skip links and make accessibility improvements.
