@@ -7,6 +7,6 @@ layout: page
 
 **Latest site build:** 		{{ "now" | date: "%d-%m-%Y %H:%M" }}
 
-**Version number:**			0.10.0
+**Version number:**			0.10.1
 
-**Latest major changes:** Add skip links and make accessibility improvements.
+**Latest major changes:** Re-instate notice page formats
