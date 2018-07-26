@@ -2,7 +2,7 @@
 title: 		"Use of the Emmanuel Centre"
 author: 		Civil Service Rainbow Alliance
 excerpt: 	"A statement on use of venues that host and organise homophobic events by the Civil Service."
-layout: 		post
+layout: 		news
 
 permalink: 	/archives/2015/02/17/use-of-the-emmanuel-centre/
 redirect_from: 	/2015/02/17/use-of-the-emmanuel-centre/
