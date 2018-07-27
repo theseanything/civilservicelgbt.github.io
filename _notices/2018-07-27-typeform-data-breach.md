@@ -3,7 +3,7 @@ layout: notice
 author: Civil Service LGBT+ Network
 date: '2018-07-27'
 preview: false
-published: false
+published: true
 title: Typeform data breach
 permalink: /2018/07/27/data-notice-typeform
 excerpt: >-
