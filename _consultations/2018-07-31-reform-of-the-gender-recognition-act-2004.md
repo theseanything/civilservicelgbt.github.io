@@ -12,8 +12,10 @@ slug: /reform-of-the-gender-recognition-act
 excerpt: >-
   The Government is consulting on reforms to the Gender Recognition Act 2004. As
   this has relevance to Civil Service LGBT+ Network members in their personal
-  lives, we are publicising the consultatiomn and encourage members to respond.
+  lives, we are publicising the consultation and encourage members to respond.
+
 ---
+
 **The Government is consulting on reforms to the Gender Recognition Act 2004. As this will have relevance to members of the Civil Service LGBT+ Network in their personal lives, we are publicising this consultation and encourage you to complete it.**
 
 ## Consultation description
