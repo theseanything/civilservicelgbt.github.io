@@ -413,7 +413,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "publication"
+          value: "consultation"
       - name: "title"
         field:
           element: "text"
