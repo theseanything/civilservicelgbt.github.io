@@ -3,7 +3,7 @@ layout: publication
 author: Government Equalities Office
 date: '2018-07-31'
 preview: false
-published: false
+published: true
 title: Reform of the Gender Recognition Act 2004
 end-date: '2018-10-19 23:00:00'
 consultation-link: >-
