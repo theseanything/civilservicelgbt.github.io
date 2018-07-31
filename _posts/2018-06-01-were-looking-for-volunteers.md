@@ -1,18 +1,43 @@
 ---
-title: 			"We're looking for volunteers"
-author: 			"Civil Service LGBT+ Network"
-excerpt: 		"Can you help us to make things better for LGBT+ civil servants? Here are the volunteering opportunities we currently have available."
-
-layout: 			news
-
-permalink: 		/2018/06/01/were-looking-for-volunteers
+layout: news
+title: We're looking for volunteers (Updated)
+author: Civil Service LGBT+ Network
+excerpt: >-
+  Can you help us to make things better for LGBT+ civil servants? Here are the
+  volunteering opportunities we currently have available.
+permalink: /2018/07/31/were-looking-for-volunteers
+published: true
+date: '2018-07-31 00:00'
+preview: false
+redirect_from:
+  - /2018/06/01/were-looking-for-volunteers
 ---
 
 The **Civil Service LGBT+ Network** is run entirely by volunteers. It's thanks to them that we can host our socials, run our conferences and keep the pressure on the Civil Service to do the right things for you. 
 
-We've just published [our business plan](https://www.civilservice.lgbt/publication/business-plan-2018-to-2020/) for the next 2 years. It sets out what we're trying to achieve between now and December 2020. To deliver it, we're going to need your help.
+We've published [our business plan](https://www.civilservice.lgbt/publication/business-plan-2018-to-2020/) in May for the next 2 years. It sets out what we're trying to achieve between now and December 2020. To deliver it, we're going to need your help.
 
-We're looking for people who can spare a few hours every month to help us do our work. Below are some of the roles we are looking to fill. **If you're interested, please email us at [info@civilservice.lgbt](mailto:info@civilservice.lgbt).**
+We're looking for people who can spare a few hours every month to help us do our work. Below are some of the roles we are looking to fill. 
+
+**Thank you to everyone who has expressed an interest in one of these roles so far.** You should have now received invites to a call over the next 2 weeks to help us place you in a role, and get you started on some projects and tasks. 
+
+If you haven't yet expressed an interest or didn't receive the invite, and want to get involved, you can join these conference calls. Email us at [info@civilservice.lgbt](mailto:info@civilservice.lgbt) and we'll send you the dial in details.
+
+## Conference call times
+
+**For blog editor and social media managers**, the call is at 09:30am to 10:00am on 3 August 2018.
+
+**For governance leads**, the call is from 09:30am to 10:00am on 2 August 2018.
+
+**For project leaders**, we'll hold two calls (you can dial in to either call for the same introduction). They will be at:
+
+- 10:00am to 10:30am on 2 August 2018
+- 10:00am to 10:30am on 3 August 2018
+
+**For regional organisers and social coordinators**, we'll hold to calls (you can dial in to either call for the same introduction). They will be at:
+
+- 10:00am to 10:30am on 7 August 2018
+- 10:30am to 11:00am on 10 August 2018
 
 ## Roles available
 
