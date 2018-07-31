@@ -1,5 +1,5 @@
 ---
-layout: publication
+layout: consultation
 author: Government Equalities Office
 date: '2018-07-31'
 preview: false
