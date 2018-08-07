@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Our team
-excerpt: "We are a volunteer-led network, made up of members from across the UK."
-
+excerpt: 'We are a volunteer-led network, made up of members from across the UK.'
 permalink: /about/our-team/
+published: true
 ---
 
 The **Civil Service LGBT+ Network** is led by a small team of volunteers. These volunteers give up their spare time to support LGBT+ civil servants.
@@ -13,12 +13,22 @@ The **Civil Service LGBT+ Network** is led by a small team of volunteers. These 
 | Chair			| [Kate Scott-Hughes](kate.scott-hughes@civilservice.lgbt)
 | Vice-Chair		| [John Peart](john.peart@civilservice.lgbt)
 
-## Project leads
+## Communications team
 
-We're looking for people to lead some exciting new projects. If you want to get involved, [email us](mailto:info@civilservice.lgbt).
+We're currently recruiting a team to manage our communications. If you'd like to get involved, [get in touch](mailto:info@civilservice.lgbt).
+
+## Governance team
+
+We're currently recruiting a team to lead our internal governance work. If you'd like to be involved, [email us](mailto:info@civilservice.lgbt).
 
 ## Local organisers
+
+Our local organisers help us deliver work in places near you. This includes our events, campaigns and social activities.
 
 | East Midlands | [David Wilson](mailto:DAVID.WILSON1@dwp.gsi.gov.uk) |
 |				| [Robert Naylor](mailto:robert.naylor@cqc.org.uk)    |
 | Scotland		| [Derek Bradford](mailto:derek.bradford@hmrc.gsi.gov.uk) |
+
+## Project leads
+
+We're looking for people to lead some exciting new projects. If you want to get involved, [send us an email](mailto:info@civilservice.lgbt).
