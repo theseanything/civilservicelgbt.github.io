@@ -1,7 +1,7 @@
 ---
 layout: event
 preview: false
-published: false
+published: true
 title: Civil Service at Leicester Pride
 date: '2018-09-01'
 location: 'Curve Theatre, Leicester'
