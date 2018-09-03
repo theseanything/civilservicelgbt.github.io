@@ -1,6 +1,6 @@
 ---
 layout: event
-preview: true
+preview: false
 published: true
 title: BiSpace Manchester
 date: '2018-09-24 12:30'

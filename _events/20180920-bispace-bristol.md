@@ -1,6 +1,6 @@
 ---
 layout: event
-preview: true
+preview: false
 published: true
 title: BiSpace Bristol
 date: '2018-09-20 12:30'
