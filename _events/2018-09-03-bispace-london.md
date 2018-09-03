@@ -1,7 +1,7 @@
 ---
 layout: event
-preview: false
-published: false
+preview: true
+published: true
 title: BiSpace London
 date: '2018-09-20 12:30'
 location: 'BEIS Conference Centre (Room C19), Victoria Street, London'
