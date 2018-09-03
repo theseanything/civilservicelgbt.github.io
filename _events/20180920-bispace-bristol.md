@@ -6,7 +6,7 @@ title: BiSpace Bristol
 date: '2018-09-20 12:30'
 location: 'Horizon House canteen, Bristol'
 link: 'https://www.eventbrite.co.uk/e/bispace-bristol-tickets-49735716868'
-slug: /2018/09/20/bispace-bristol
+slug: /bispace-bristol
 ---
 BiSpace is a new initiative led by bi+ civil servants, for bi+ civil servants. These regular events are a chance for bi, pan and queer civil servants to meet each other in both formal and more informal settings. 
 
