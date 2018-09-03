@@ -12,7 +12,7 @@ BiSpace is a new initiative led by bi+ civil servants, for bi+ civil servants. T
 
 To celebrate Bi Visibility Day, we're holding 3 BiSpace events in Bristol, London, and Manchester.
 
-## BiSpace London
+## BiSpace Bristol
 
 Come along to Horizon House canteen on 20 September at 12:30 to 14:00 in Bristol. 
 
