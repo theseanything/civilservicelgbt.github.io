@@ -14,7 +14,7 @@ To celebrate Bi Visibility Day, we're holding 3 BiSpace events in Bristol, Londo
 
 ## BiSpace Manchester
 
-Come along to Piccadilly Gate (room 1.06) on 24 September at 12:30 to 14:00 in London. 
+Come along to Piccadilly Gate (room 1.06) on 24 September at 12:30 to 14:00 in Manchester. 
 
 This will be a chilled lunch time event to meet fellow bi, pan and queer civil servants over lunch time and celebrate Bi Visibility Day.
 
