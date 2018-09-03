@@ -6,7 +6,7 @@ title: Civil Service at Leicester Pride
 date: '2018-09-01 11:30'
 location: 'Curve Theatre, Leicester'
 email: Robert.Naylor@cqc.org.uk
-slug: /2018/09/01/civil-service-leicester-pride
+slug: /civil-service-leicester-pride
 excerpt: 'Join us at Leicester Pride on 1 September, as we march in the parade.'
 ---
 Join us as the Civil Service participates in the march through Leicester to celebrate Pride. 
