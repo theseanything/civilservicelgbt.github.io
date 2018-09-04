@@ -28,5 +28,7 @@ We're launching BiSpace to coincide with Bi Visibility Day this September. Volun
 > You can sign up for each of these events on Eventbrite. 
 >
 > 20 September at 12:30 to 14:00 at Horizon House, Bristol.**[Sign up for the Bristol event](https://www.civilservice.lgbt/event/2018/09/20/bispace-bristol/)**
+>
 > 20 September at 12:30 to 14:00 at the BEIS Conference Centre, London. **[Sign up for the London event](https://www.civilservice.lgbt/event/2018/09/20/bispace-london/)**
+>
 > 24 September at 12:30 to 14:00 at Picadilly Gate, Manchester. **[Sign up for the Manchester event](https://www.civilservice.lgbt/event/2018/09/24/bispace-manchester/)**
