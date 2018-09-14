@@ -10,8 +10,8 @@ The **Civil Service LGBT+ Network** is led by a small team of volunteers. These 
 
 ## Leadership team
 
-| Chair			| [Kate Scott-Hughes](kate.scott-hughes@civilservice.lgbt)
-| Vice-Chair		| [John Peart](john.peart@civilservice.lgbt)
+| Chair			| [Kate Scott-Hughes](mailto:kate.scott-hughes@civilservice.lgbt)
+| Vice-Chair		| [John Peart](mailto:john.peart@civilservice.lgbt)
 
 ## Communications team
 
@@ -25,9 +25,13 @@ We're currently recruiting a team to lead our internal governance work. If you'd
 
 Our local organisers help us deliver work in places near you. This includes our events, campaigns and social activities.
 
-| East Midlands | [David Wilson](mailto:DAVID.WILSON1@dwp.gsi.gov.uk) |
-|				| [Robert Naylor](mailto:robert.naylor@cqc.org.uk)    |
-| Scotland		| [Derek Bradford](mailto:derek.bradford@hmrc.gsi.gov.uk) |
+| East Midlands | [David Wilson](mailto:DAVID.WILSON1@dwp.gsi.gov.uk)         |
+|				| [Robert Naylor](mailto:robert.naylor@cqc.org.uk)            |
+| North East    | [Lex Jurowscy](mailto:lex.jurowscy@hmrc.gsi.gov.uk)         |
+| Scotland		| [Derek Bradford](mailto:derek.bradford@hmrc.gsi.gov.uk)     |
+| South West    | [Andrew.Cowler](mailto: Andrew.Cowler@ofsted.gov.uk)        |
+| Wales         | [Jack Stephens](jack.stephens2@wales.gov)                   |
+| West Midlands | [Jo Forbes](mailto:Jo.FORBES@education.gov.uk)              | 
 
 ## Project leads
 
