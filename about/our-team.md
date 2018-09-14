@@ -35,4 +35,11 @@ Our local organisers help us deliver work in places near you. This includes our 
 
 ## Project leads
 
-We're looking for people to lead some exciting new projects. If you want to get involved, [send us an email](mailto:info@civilservice.lgbt).
+Our project leads help us to deliver the activities in our business plan. If you want to get involved, [send us an email](mailto:info@civilservice.lgbt).
+
+| Allies        | We're setting up this team now.                             	|
+| Bi inclusion  | [Mary Peart](mailto:mary.peart@civilservice.lgbt)           	|
+| Campaigns 	| We're setting up this team now. 								|
+| Inclusive policy | We're setting up this time now.							|
+| Mentoring     | We're setting up this team now.								|
+| People Survey analysis | We're setting up this team now. 						|
