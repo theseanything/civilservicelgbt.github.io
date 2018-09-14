@@ -19,7 +19,7 @@ We're currently recruiting a team to manage our communications. If you'd like to
 
 ## Governance team
 
-We're currently recruiting a team to lead our internal governance work. If you'd like to be involved, [email us](mailto:info@civilservice.lgbt).
+Our governance team runs our board and Heads of Networks forum, and maintains our constitution and policies. If you'd like to be involved, [email us](mailto:info@civilservice.lgbt).
 
 ## Local organisers
 
