@@ -10,8 +10,8 @@ The **Civil Service LGBT+ Network** is led by a small team of volunteers. These 
 
 ## Leadership team
 
-| Chair			| [Kate Scott-Hughes](mailto:kate.scott-hughes@civilservice.lgbt)
-| Vice-Chair		| [John Peart](mailto:john.peart@civilservice.lgbt)
+| Chair		   | [Kate Scott-Hughes](mailto:kate.scott-hughes@civilservice.lgbt) |
+| Vice-Chair   | [John Peart](mailto:john.peart@civilservice.lgbt)               |
 
 ## Communications team
 
