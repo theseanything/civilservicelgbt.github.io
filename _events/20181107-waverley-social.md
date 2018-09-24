@@ -1,7 +1,7 @@
 ---
 title: 'Civil Service LGBT+ social, Edinburgh'
 excerpt: Join us for our social in Edinburgh.
-date: 2018-11-07T18:00:00.000Z
+date: '2018-11-07 18:00:00'
 location: The Regent, 2 Montrose Terrace, Edinburgh, EH7 5DL
 email: STEVEN.BRITTAIN@dwp.gsi.gov.uk
 layout: event
