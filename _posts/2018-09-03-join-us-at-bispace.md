@@ -1,13 +1,14 @@
 ---
 layout: news
 author: Mary Peart
-date: '2018-09-30'
+date: '2018-09-03'
 preview: false
 published: true
 title: Join us at BiSpace
 excerpt: 'A new initiative led by bi+ civil servants, for bi+ civil servants.'
-permalink: /2018/09/30/join-us-at-bispace
+permalink: /2018/08/03/join-us-at-bispace
 image: /assets/images/posts/BiSpace.png
+redirect_from: /2018/08/30/join-us-at-bispace
 ---
 Last year, as the bi rep for the Civil Service Rainbow Alliance, I ran a consultation to understand the experiences of bisexual, pansexual, queer and asexual civil servants. I particularly wanted to understand why the Civil Service People Survey results showed that staff who identify as bisexual or with anothe minority sexual orientation, as having lower engagement and wellbeing than their gay, lesbian and heterosexual peers.
 
