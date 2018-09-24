@@ -6,9 +6,14 @@ preview: false
 published: true
 title: Join us at BiSpace
 excerpt: 'A new initiative led by bi+ civil servants, for bi+ civil servants.'
+<<<<<<< HEAD
 permalink: /2018/08/03/join-us-at-bispace
 image: /assets/images/posts/BiSpace.png
 redirect_from: /2018/08/30/join-us-at-bispace
+=======
+permalink: /2018/09/30/join-us-at-bispace
+image: /assets/images/posts/BiSpace-WithCSLogo.png
+>>>>>>> ce12589815ae075a860e0b3e0900df52d37350e6
 ---
 Last year, as the bi rep for the Civil Service Rainbow Alliance, I ran a consultation to understand the experiences of bisexual, pansexual, queer and asexual civil servants. I particularly wanted to understand why the Civil Service People Survey results showed that staff who identify as bisexual or with anothe minority sexual orientation, as having lower engagement and wellbeing than their gay, lesbian and heterosexual peers.
 
@@ -28,8 +33,11 @@ We're launching BiSpace to coincide with Bi Visibility Day this September. Volun
 
 > You can sign up for each of these events on Eventbrite. 
 >
-> 20 September at 12:30 to 14:00 at Horizon House, Bristol.**[Sign up for the Bristol event](https://www.civilservice.lgbt/event/2018/09/20/bispace-bristol/)**
+> 20 September at 12:30 to 14:00 at Horizon House, Bristol.
+> **[Sign up for the Bristol event](https://www.civilservice.lgbt/event/2018/09/20/bispace-bristol/)**
 >
-> 20 September at 12:30 to 14:00 at the BEIS Conference Centre, London. **[Sign up for the London event](https://www.civilservice.lgbt/event/2018/09/20/bispace-london/)**
+> 20 September at 12:30 to 14:00 at the BEIS Conference Centre, London. 
+> **[Sign up for the London event](https://www.civilservice.lgbt/event/2018/09/20/bispace-london/)**
 >
-> 24 September at 12:30 to 14:00 at Picadilly Gate, Manchester. **[Sign up for the Manchester event](https://www.civilservice.lgbt/event/2018/09/24/bispace-manchester/)**
+> 24 September at 12:30 to 14:00 at Picadilly Gate, Manchester.
+> **[Sign up for the Manchester event](https://www.civilservice.lgbt/event/2018/09/24/bispace-manchester/)**
