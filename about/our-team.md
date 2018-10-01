@@ -29,7 +29,7 @@ Our local organisers help us deliver work in places near you. This includes our 
 |				| [Robert Naylor](mailto:robert.naylor@cqc.org.uk)            |
 | North East    | [Lex Jurowscy](mailto:lex.jurowscy@hmrc.gsi.gov.uk)         |
 | Scotland		| [Derek Bradford](mailto:derek.bradford@hmrc.gsi.gov.uk)     |
-| South West    | [Andrew.Cowler](mailto: Andrew.Cowler@ofsted.gov.uk)        |
+| South West    | [Andrew Cowler](mailto: Andrew.Cowler@ofsted.gov.uk)        |
 | Wales         | [Jack Stephens](jack.stephens2@wales.gov)                   |
 | West Midlands | [Jo Forbes](mailto:Jo.FORBES@education.gov.uk)              | 
 
