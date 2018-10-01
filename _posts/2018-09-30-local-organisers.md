@@ -23,10 +23,12 @@ We ask our local organisers to do things like:
 
 ## Who's organising things near me?
 
-We've had lots of people come forward saying they'd like to help out. We've made a list of them on [our team page](/about/our-team/).
+We've had lots of people come forward saying they'd like to help out. We've started to make a list of them on [our team page](/about/our-team/).
 
 We're going to be regularly publishing any activities that this team of volunteers is planning. You'll be able to see them on [our events page](/events/).
 
 If you live or work near to one of our local organisers, and you'd like to help them organise something — or if you have an idea for an event of your own — email them or [let us know](/about/contact-us/) and we can put you in touch.
 
-If you're wondering why an event or activity isn't taking place near where you live, it's because we don't have anyone who's told us they'd like to help out. If *you'd* like to step forward, then [contact us](/about/contact-us/)
+## Why is there nothing near me?
+
+If you're wondering why an event or activity isn't taking place near where you live, it's because we don't have anyone who's told us they'd like to help out. If you'd like to step forward, then [contact us](/about/contact-us/).
