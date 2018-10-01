@@ -1,11 +1,11 @@
 ---
 layout: news
 author: John Peart
-date: '2018-09-30'
+date: "2018-09-30"
 preview: true
 published: true
-title: 'Getting the team together'
-excerpt: 'We've been setting up some teams to work on some new things. Here's an update on how it's going.'
+title: "Getting the team together"
+excerpt: "We've been setting up some teams to work on some new things. Here's an update on how it's going."
 permalink: /2018/09/30/getting-the-team-together
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: news
 author: Civil Service LGBT+ Network
-date: '2018-09-30'
+date: "2018-09-30"
 preview: true
 published: true
-title: 'LGBT+ civil servants near you'
-excerpt: 'Meet the volunteers who are doing things in their local area to make things better for LGBT+ civil servants like you.'
+title: "LGBT+ civil servants near you"
+excerpt: "Meet the volunteers who are doing things in their local area to make things better for LGBT+ civil servants like you."
 permalink: /2018/09/30/lgbt-civil-servants-near-you
 ---
 
