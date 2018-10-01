@@ -22,7 +22,7 @@ We're setting up the following teams:
 - teams in each part of the UK, made up of local organisers and social coordinators
 - a set of teams to help us deliver some specific projects
 
-This post will focus on the project teams. If you'd like to get involved in these teams -- or with any of our other work -- then [get in touch with us](/about/contact-us/).
+This post tells you about our new the project teams. If you'd like to get involved in these teams -- or with any of our other work -- then [get in touch with us](/about/contact-us/).
 
 ## The project teams
 
