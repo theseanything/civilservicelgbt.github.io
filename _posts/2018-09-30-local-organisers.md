@@ -5,7 +5,7 @@ date: "2018-09-30"
 preview: true
 published: true
 title: "LGBT+ civil servants near you"
-excerpt: "Meet the volunteers who are doing things in their local area to make things better for LGBT+ civil servants like you."
+excerpt: "We're putting together a team of volunteers to organise things your local area."
 permalink: /2018/09/30/lgbt-civil-servants-near-you
 ---
 
