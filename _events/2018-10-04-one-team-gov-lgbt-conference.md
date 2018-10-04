@@ -1,7 +1,7 @@
 ---
 layout: event
 preview: false
-published: false
+published: true
 title: One Team Gov LGBT+ Conference
 date: '"2018-10-11 10:30"'
 location: 'Crown Plaza Oxford Road, 55 Booth Street West, Manchester M15 6PQ'
