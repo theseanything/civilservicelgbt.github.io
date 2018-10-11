@@ -9,6 +9,10 @@ excerpt: >-
   We asked some of our volunteers to share their coming out story for National
   Coming Out Day. This is Jack's story.
 permalink: /2018/10/11/national-coming-out-day-jacks-story
+image: /assets/images/posts/prism-at-pride.jpg
+image-alt: >-
+  Jack with the PRISM network, and DCMS Permanent Secretary Sue Owen, at Pride
+  in London 2018
 ---
 > Jack Stephens works for the Welsh Government. Jack volunteers for both the Welsh Government LGBT+ network, Prism, and the Civil Service LGBT+ Network.
 
