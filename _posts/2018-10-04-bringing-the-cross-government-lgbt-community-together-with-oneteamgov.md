@@ -12,8 +12,6 @@ excerpt: >-
   setting up for National Coming Out Day in October
 permalink: /2018/10/04/one-team-gov-lgbt-conference
 ---
-![Rachel Poole]({{site.baseurl}}/assets/images/posts/rachel-poole.jpg)
-
 One of the best things about the Civil Service is our diversity and inclusion (D&I) policies. As the largest government department the DWP is committed to bringing about real change in the D&I space.
 
 I’m Rachel, DWPride’s Communications Lead. DWPride is the LGBT* network for DWP colleagues, it’s a voluntary role – one that I took on because I strongly believe that we should be able to work in an environment that’s inclusive to everybody.
