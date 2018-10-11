@@ -1,11 +1,13 @@
 ---
 layout: news
 author: John Peart
-date: "2018-09-30"
-preview: true
+date: '2018-09-30'
+preview: false
 published: true
-title: "Getting the team together"
-excerpt: "We've been setting up some teams to work on some new things. Here's an update on how it's going."
+title: Getting the team together
+excerpt: >-
+  We've been setting up some teams to work on some new things. Here's an update
+  on how it's going.
 permalink: /2018/09/30/getting-the-team-together
 ---
 
@@ -69,4 +71,3 @@ Look out for more on this in the coming months.
 ## Get involved
 
 We've had lots of people come forward so far to help: but many hands make light work, and we're always looking out for people who want to lend a hand. If you'd like to take part in any of these teams, please [contact us](/about/contact-us/) and we'll link you up with the right team.
-
