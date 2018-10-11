@@ -3,7 +3,7 @@ layout: news
 author: Rachel Poole
 date: '2018-10-04 00:00'
 preview: false
-published: false
+published: true
 title: Bringing the cross-government LGBT+ community together with OneTeamGov
 image: /assets/images/posts/rachel-poole.jpg
 image-alt: Rachel Poole
