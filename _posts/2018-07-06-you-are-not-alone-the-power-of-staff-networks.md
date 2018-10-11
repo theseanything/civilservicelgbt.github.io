@@ -1,15 +1,15 @@
 ---
 layout: news
-author: Rachael Poole
+author: Rachel Poole
 date: '2018-07-02'
 preview: false
 published: true
 title: 'You are not alone: the power of staff networks'
 permalink: /2018/07/02/power-of-staff-networks
 excerpt: >-
-  Rachael Poole works for the Department for Work and Pensions as a
-  communications officer. In this post, Rachael talks about volunteering at
-  Civil Service Live and why its important to promote staff networks.
+  Rachel Poole works for the Department for Work and Pensions as a
+  communications officer. In this post, Rachel talks about volunteering at Civil
+  Service Live and why its important to promote staff networks.
 ---
 At this very moment, one of my colleagues feels like a freak. One of your colleagues feels like a freak.
 
