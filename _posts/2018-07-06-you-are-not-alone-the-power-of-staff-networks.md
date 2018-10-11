@@ -10,6 +10,8 @@ excerpt: >-
   Rachel Poole works for the Department for Work and Pensions as a
   communications officer. In this post, Rachel talks about volunteering at Civil
   Service Live and why its important to promote staff networks.
+image: /assets/images/posts/rachel-poole.jpg
+image-alt: Rachel Poole
 ---
 At this very moment, one of my colleagues feels like a freak. One of your colleagues feels like a freak.
 
