@@ -3,7 +3,7 @@ layout: news
 author: 'Jack Stephens, Welsh Government'
 date: '2018-10-11'
 preview: false
-published: false
+published: true
 title: 'National Coming Out Day: Jack''s story'
 excerpt: >-
   We asked some of our volunteers to share their coming out story for National
