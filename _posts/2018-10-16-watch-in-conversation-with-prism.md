@@ -1,12 +1,12 @@
 ---
 layout: news
 author: 'PRISM, the Welsh Government LGBT+ Network'
-date: '2018-10-31'
+date: '2018-10-16'
 preview: false
 published: true
 title: 'Watch: In Conversation with PRISM'
 video: 'https://www.youtube.com/embed/dekPaBnxNHQ'
-permalink: /2018/10/31/in-conversation-with-prism
+permalink: /2018/10/16/in-conversation-with-prism
 excerpt: >-
   The Welsh Government’s LGBTI+ network, PRISM, have created a short film as
   part of the Iris Prize.
