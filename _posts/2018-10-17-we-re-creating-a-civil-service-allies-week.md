@@ -2,7 +2,7 @@
 layout: news
 author: Civil Service LGBT+ Network
 date: '2018-10-17'
-preview: true
+preview: false
 published: true
 title: We're creating a “Civil Service Allies Week”
 excerpt: >-
