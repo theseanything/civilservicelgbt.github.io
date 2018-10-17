@@ -31,8 +31,13 @@ That's what Allies Week will be for: to champion those doing lots already, and t
 
 We're hoping to hold our first Allies Week in the week from 29 October to 2 November 2018.
 
-We want to make Allies Week an annual event. This year we're going to start small, and next year we're hoping to have a full range of activities across the UK. Keep checking our [website](https://www.civilservice.lgbt), [Twitter](https://www.twitter.com/cslgbt), [Facebook](https://facebook.com/civilservicelgbt) for everything we're creating during Allies week.
+We want to make Allies Week an annual event. This year we're going to start small, and next year we're hoping to have a full range of activities across the UK. Keep checking our [website](https://www.civilservice.lgbt), [Twitter](https://www.twitter.com/cslgbt), [Facebook](https://facebook.com/civilservicelgbt) for everything we're doing during Allies week.
 
+> **Get involved**
+>
+> If you're an ally, and you want to get involved in Allies Week; [contact us](/about/contact-us/). 
+> 
+> Whether you want to write a blog, share a video, or run an event, we'd love to hear from you.
 
 [^1]: Based on data from the Office of National Statistics.
 [^2]: The People Survey included gender identity monitoring for the first time in 2017, but as this was an experimental question it doesn't provide a good basis to make a wider estimate at the moment.
