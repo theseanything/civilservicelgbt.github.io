@@ -13,7 +13,7 @@ redirect_from: /allies-week
 image: /assets/images/posts/Twitter%20(No%20date).png
 image-alt: Civil Service Allies Week
 ---
-The best estimates we have show that LGBT+ people make up about 2.5% of the population[^1]. As LGBT+ people, we are in a very small minority. 
+The best estimates we have show that LGBT+ people make up at least 2.5% of the population[^1]. As LGBT+ people, we are in a very small minority. 
 
 That's also true in the Civil Service. Based on responses to the Civil Service People Survey, we estimate up to 20,000 civil servants are lesbian, gay, bisexual or 'other'[^2]. We see and hear about LGBT+ civil servants doing fantastic work to make things better for people like them at work every day, but we also know that they couldn't do all of that without support from people who don't identify as LGBT+. 
 
@@ -39,5 +39,5 @@ We want to make Allies Week an annual event. This year we're going to start smal
 > 
 > Whether you want to write a blog, share a video, or run an event, we'd love to hear from you.
 
-[^1]: Based on data from the Office of National Statistics.
+[^1]: Data from the Office of National Statistics suggests that around 2.5% of the UK population identify as lesbian, gay or bisexual; the overall LGBT+ population is very likely higher.
 [^2]: The People Survey included gender identity monitoring for the first time in 2017, but as this was an experimental question it doesn't provide a good basis to make a wider estimate at the moment.
