@@ -31,4 +31,4 @@ Please paint the town red, or just spare a £1 for a red ribbon if you can.
 [^2]: PEP is a drug that is taken after a potential exposure to HIV to prevent you contracting HIV.
 
 *[PrEP]: Pre-exposure prophylaxis
-*[PEP]]: Post-exposure prophylaxis
+*[PEP]: Post-exposure prophylaxis
