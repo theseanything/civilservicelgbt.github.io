@@ -3,7 +3,7 @@ layout: event
 preview: false
 published: true
 title: 'Civil Service LGBT+ social, Bristol'
-date: '2018-11-06 18:00'
+date: '2018-11-06 17:00'
 location: 'The Phoenix, Bristol, BS2 9DB'
 link: >-
   https://www.eventbrite.co.uk/e/civil-service-lgbt-social-bristol-tickets-51541398711
