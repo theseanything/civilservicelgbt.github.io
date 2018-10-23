@@ -7,6 +7,6 @@ layout: page
 
 **Latest site build:** 		{{ "now" | date: "%d-%m-%Y %H:%M" }}
 
-**Version number:**			0.10.1
+**Version number:**			0.11.0
 
-**Latest major changes:** Re-instate notice page formats
+**Latest major changes:** Fix site loop including preview posts
