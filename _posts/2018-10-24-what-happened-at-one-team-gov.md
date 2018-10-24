@@ -5,7 +5,7 @@ date: '2018-10-24'
 title: "What happened at “OneTeamGov LGBT*”"
 permalink: /2018/10/24/what-happened-at-oneteamgov-lgbt
 excerpt: "Roisin Murray, one of our volunteers based in Manchester, went to the OneTeamGov LGBT* event this month. In this post, Roisin shares her thoughts from the day."
-preview: true
+preview: false
 published: true
 ---
 

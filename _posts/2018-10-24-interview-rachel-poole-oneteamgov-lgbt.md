@@ -5,7 +5,7 @@ date: '2018-10-24'
 title: "An interview with the organiser of “OneTeamGov LGBT*”"
 permalink: /2018/10/24/interview-rachel-poole-oneteamgov-lgbt
 excerpt: "One of our volunteers, Roisin, catches up with one of the organisers of the OneTeamGov LGBT* event that took place in Manchester this month."
-preview: true
+preview: false
 published: true
 ---
 
@@ -31,4 +31,4 @@ If we do it again - I don’t think it needs to change much, being able to provi
 
 So let’s do it again, let’s have more representation from across government – hopefully those that didn’t make it will make it next time. Let’s have more allies in the room, but still ensure that we have enough space for our champions who will drive forward this agenda. But most importantly, let’s do it again!
 
-***Roision:* Thanks Rachel.**
+***Roisin:* Thanks Rachel.**
