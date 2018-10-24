@@ -3,7 +3,7 @@ layout: news
 author: Roisin Murray
 date: '2018-10-24'
 title: "An interview with the organiser of “OneTeamGov LGBT*”"
-permalink: /2018/10/24/what-happened-at-oneteamgov-lgbt
+permalink: /2018/10/24/interview-rachel-poole-oneteamgov-lgbt
 excerpt: "One of our volunteers, Roisin, catches up with one of the organisers of the OneTeamGov LGBT* event that took place in Manchester this month."
 preview: true
 published: true
