@@ -1,6 +1,6 @@
 ---
 layout: news
-author: Civil Service LGBT+ Network
+author: Raymond Jenner
 date: '2018-10-29'
 preview: false
 published: true
