@@ -9,8 +9,7 @@ excerpt: >-
   Allies are important to making workplaces inclusive, so we're creating a week
   to celebrate our allies and to encourage others to help.
 permalink: /2018/10/17/we're-creating-an-allies-week
-redirect_from: /allies-week
-image: /assets/images/posts/Twitter%20(No%20date).png
+image: /assets/images/posts/allies-week-no-date.png
 image-alt: Civil Service Allies Week
 ---
 The best estimates we have show that LGBT+ people make up at least 2.5% of the population[^1]. As LGBT+ people, we are in a very small minority. 
