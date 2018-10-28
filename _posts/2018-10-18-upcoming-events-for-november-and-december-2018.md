@@ -22,7 +22,7 @@ More information about the event can be found on [our events page](https://www.c
 
 ## Socials
 
-We're currently holding 4 socials before Christmas: three in November, and one in December.
+We're currently holding 5 socials before Christmas: three in November, and one in December.
 
 ### November 
 
