@@ -5,8 +5,8 @@ date: '2018-10-29'
 preview: true
 published: true
 title: It’s Civil Service Allies Week
-excerpt: "This week, we‘re celebrating the allies making the Civil Service a great place to work for LGBT+ people."
-permalink: /2018/10/17/we're-creating-an-allies-week
+excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people."
+permalink: /2018/10/29/its-allies-week
 redirect-from: /allies-week
 image: /assets/images/posts/allies-week-no-date.png
 image-alt: Civil Service Allies Week

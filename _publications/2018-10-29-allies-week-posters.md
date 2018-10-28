@@ -6,7 +6,9 @@ preview: true
 published: true
 title: Civil Service Allies Week posters
 permalink: /publication/civil-service-allies-week-posters
-excerpt: "We‘ve created these posters for you to put up in your office for Allies Week."
+excerpt: "We’ve created these posters for you to put up in your office for Allies Week."
+categories:
+- alliesweek18
 ---
 <!-- Include the following to generate a Table of Contents -->
 * Table of contents will generate here
