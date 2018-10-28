@@ -18,6 +18,12 @@ As LGBT+ people, we are in a very small minority. That's also true in the Civil 
 
 So we've set up Allies week, to thank those doing their part and to encourage more colleagues to step up and be active allies in their organisations.
 
+## Civil Service Allies Week posts
+
+We'll be posting new blog posts and resources all week. Keep checking this page for updates.
+
+### Updates so far
+
 <ul class="loop">
 	<li>
 		<article>
