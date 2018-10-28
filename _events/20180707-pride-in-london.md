@@ -2,7 +2,7 @@
 title:  						"Civil Service at Pride in London"
 excerpt:	  					"Join us in the Pride in London parade."
 
-date:	 					2018-07-07 12:00
+event-date:	 					2018-07-07 12:00
 location: 					"London"
 link: 						https://www.eventbrite.com/e/civil-service-at-pride-in-london-registration-44344963981?aff=cslgbtwebsite
 email: 						info@civilservice.lgbt

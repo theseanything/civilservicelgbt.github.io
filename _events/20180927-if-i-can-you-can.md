@@ -3,7 +3,7 @@ layout: event
 preview: false
 published: true
 title: If I Can, You Can - Senior Speaker Series
-date: '2018-09-27 17:30'
+event-date: '2018-09-27 17:30'
 location: 'HM Treasury, 1 Horse Guards Road, London, SW1'
 link: https://www.eventbrite.co.uk/e/question-time-championing-race-tickets-50390317797
 slug: /if-i-can-you-can

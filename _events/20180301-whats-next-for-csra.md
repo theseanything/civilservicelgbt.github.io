@@ -2,7 +2,7 @@
 title:  						"What's next for CSRA: an event for networks"
 excerpt:	  					"Join us as we share out ideas for the future of the Civil Service Rainbow Alliance."
 
-date:	 					2018-03-01 10:30:00
+event-date:	 					2018-03-01 10:30:00
 location: 					"Room C12, BEIS Conference Centre, Victoria Street, London"
 link: 						https://www.eventbrite.co.uk/e/whats-next-for-csra-event-for-networks-tickets-42563082325
 email: 						info@civilservice.lgbt

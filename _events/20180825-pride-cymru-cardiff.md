@@ -2,7 +2,7 @@
 title:  						"Civil Service at Pride Cymru, Cardiff"
 excerpt:	  					"Join us in the Pride Cymru parade."
 
-date:	 					2018-08-25
+event-date:	 					2018-08-25
 location: 					"Cardiff"
 email: 						suzanne.vincent-jones@gov.wales
 

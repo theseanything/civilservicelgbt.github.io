@@ -2,7 +2,7 @@
 title:  						"Civil Service LGBT+ social, London"
 excerpt:	  					"Our monthly social and networking event in London."
 
-date:	 					2018-02-01 17:30:00
+event-date:	 					2018-02-01 17:30:00
 link: 						https://www.eventbrite.co.uk/e/civil-service-lgbt-social-london-tickets-39611223235
 email: 						info@civilservice.lgbt
 

@@ -3,7 +3,7 @@ layout: event
 preview: false
 published: true
 title: BiSpace Manchester
-date: '2018-09-24 12:30'
+event-date: '2018-09-24 12:30'
 location: 'Piccadilly Gate (room 1.06), Manchester'
 link: 'https://www.eventbrite.co.uk/e/bispace-manchester-tickets-49735606538'
 slug: /bispace-manchester

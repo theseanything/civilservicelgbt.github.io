@@ -3,7 +3,7 @@ layout: event
 preview: false
 published: true
 title: BiSpace Bristol
-date: '2018-09-20 12:30'
+event-date: '2018-09-20 12:30'
 location: 'Horizon House canteen, Bristol'
 link: 'https://www.eventbrite.co.uk/e/bispace-bristol-tickets-49735716868'
 slug: /bispace-bristol

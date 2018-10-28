@@ -3,7 +3,7 @@ layout: event
 preview: false
 published: true
 title: Kings Pool Suffrage Celebration
-date: '2018-09-24 10:45'
+event-date: '2018-09-24 10:45'
 location: 'Kings Pool, York, CR 01, 02 & 03'
 email: kate.scott-hughes@cps.gov.uk
 slug: /suffrage-relay-york

@@ -3,7 +3,7 @@ title: Civil Service at Pride Edinburgh
 excerpt: >-
   Join the Civil Service LGBT+ Network and the Scottish Government LGBTI network
   Edinburgh's annual Pride event.
-date: '2018-06-16 12:00'
+event-date: '2018-06-16 12:00'
 location: Edinburgh
 layout: event
 slug: /pride-edinburgh
