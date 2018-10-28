@@ -3,7 +3,7 @@ title: 'Civil Service LGBT+ social, Manchester'
 excerpt: Our regular social and networking event in Manchester.
 event-date: 2018-11-01 18:30:00
 location: VIA, Manchester
-event-link: https://www.eventbrite.co.uk/e/civil-service-lgbt-social-manchester-tickets-51945022962?ref=website
+link: https://www.eventbrite.co.uk/e/civil-service-lgbt-social-manchester-tickets-51945022962?ref=website
 email: MATTHEW.WALKER1@dwp.gsi.gov.uk
 layout: event
 slug: /2018/11/01/manchester-social

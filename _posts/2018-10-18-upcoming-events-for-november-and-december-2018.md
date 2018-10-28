@@ -26,12 +26,13 @@ We're currently holding 4 socials before Christmas: three in November, and one i
 
 ### November 
 
-- **1 November 2018**: London, location to be confirmed. More details can be found on [our event page](https://www.civilservice.lgbt/event/2018/11/01/london-social/), and you can [register on Eventbrite for updates](https://www.eventbrite.co.uk/e/civil-service-lgbt-social-london-tickets-39611882206).
-- **6 November 2018**: Bristol, at The Phoenix. More details can be found on [our event page](https://www.civilservice.lgbt/event/2018/11/06/bristol-social/), and you can [RSVP on Eventbrite for updates](https://www.eventbrite.co.uk/e/civil-service-lgbt-social-bristol-tickets-51541398711).
-- **7 November 2018**: Edinburgh, at The Regent. More details can be found on [the event page](https://www.civilservice.lgbt/event/2018/11/07/edinburgh-social/) and you can [RSVP on Eventbrite for updates](https://www.eventbrite.co.uk/e/civil-service-lgbt-social-edinburgh-tickets-51541360597).
+- **1 November 2018**: London, location to be confirmed. More details can be found on [our event page](https://www.civilservice.lgbt/event/2018/11/01/london-social/), and you can [register on Eventbrite for updates](https://www.eventbrite.co.uk/e/civil-service-lgbt-social-london-tickets-39611882206?ref=website).
+- **1 November 2018**: Manchester, at Via. More details can be found on [our event page](https://www.civilservice.lgbt/event/2018-11-01-manchester-social/), and you can [register on Eventbrite for updates](https://www.eventbrite.co.uk/e/civil-service-lgbt-social-manchester-tickets-51945022962?ref=website).
+- **6 November 2018**: Bristol, at The Phoenix. More details can be found on [our event page](https://www.civilservice.lgbt/event/2018/11/06/bristol-social/), and you can [RSVP on Eventbrite for updates](https://www.eventbrite.co.uk/e/civil-service-lgbt-social-bristol-tickets-51541398711?ref=website).
+- **7 November 2018**: Edinburgh, at The Regent. More details can be found on [the event page](https://www.civilservice.lgbt/event/2018/11/07/edinburgh-social/) and you can [RSVP on Eventbrite for updates](https://www.eventbrite.co.uk/e/civil-service-lgbt-social-edinburgh-tickets-51541360597?ref=website).
 
 ### December
 
-- **6 December 2018**: London, location to be confirmed. More details can be found on [our event page](https://www.civilservice.lgbt/event/2018/12/06/london-social/), and you can [register on Eventbrite for updates](https://www.eventbrite.co.uk/e/civil-service-lgbt-social-london-tickets-39611894242).
+- **6 December 2018**: London, location to be confirmed. More details can be found on [our event page](https://www.civilservice.lgbt/event/2018/12/06/london-social/), and you can [register on Eventbrite for updates](https://www.eventbrite.co.uk/e/civil-service-lgbt-social-london-tickets-39611894242?ref=website).
 
 > If you'd like to organise an event in your area, or you've already got one planned and want us to let people know, then [get in touch](/about/contact-us/).
