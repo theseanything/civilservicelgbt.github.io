@@ -21,7 +21,6 @@ As LGBT+ people, we are in a very small minority. That's also true in the Civil 
 So we've set up Allies week, to thank those doing their part and to encourage more colleagues to step up and be active allies in their organisations.
 
 <ul class="loop">
-{% for post in site.categories.alliesweek18 %}
 	<li>
 		<article>
 			<h2><a href="{{ site.url | append: site.baseurl | append: post.url }}" title="Read {{ post.title }}">{{ post.title }}</a></h2>
@@ -29,7 +28,6 @@ So we've set up Allies week, to thank those doing their part and to encourage mo
 			<p class="post-metadata">Published <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date  | date:'%-d %B %Y' }}</time> {% if post.author %}by {{ post.author }}{% endif %}</p>
 		</article>
 	</li>
-{% endfor %}
 </ul>
 
 [^1]: The People Survey included gender identity monitoring for the first time in 2017, but as this was an experimental question it doesn't provide a good basis to make a wider estimate at the moment.
