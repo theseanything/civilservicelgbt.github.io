@@ -16,7 +16,7 @@ categories:
 
 This week is Civil Service Allies Week. From 29 October to 2 November, we'll be recognising the important role of allies in making our workplaces more diverse and inclusive.
 
-As LGBT+ people, we are in a very small minority. That's also true in the Civil Service. Based on responses to the Civil Service People Survey, we estimate up to 20,000 civil servants are lesbian, gay, bisexual or 'other'[^2]. We see and hear about LGBT+ civil servants doing fantastic work to make things better for people like them at work every day, but we also know that they couldn't do all of that without support from people who don't identify as LGBT+. 
+As LGBT+ people, we are in a very small minority. That's also true in the Civil Service. Based on responses to the Civil Service People Survey, we estimate up to 20,000 civil servants are lesbian, gay, bisexual or 'other'[^1]. We see and hear about LGBT+ civil servants doing fantastic work to make things better for people like them at work every day, but we also know that they couldn't do all of that without support from people who don't identify as LGBT+. 
 
 So we've set up Allies week, to thank those doing their part and to encourage more colleagues to step up and be active allies in their organisations.
 
