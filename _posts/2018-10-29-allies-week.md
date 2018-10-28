@@ -21,7 +21,7 @@ As LGBT+ people, we are in a very small minority. That's also true in the Civil 
 So we've set up Allies week, to thank those doing their part and to encourage more colleagues to step up and be active allies in their organisations.
 
 <ul class="loop">
-{% for posts in site.categories.alliesweek18 %}
+{% for post in site.categories.alliesweek18 %}
 	<li>
 		<article>
 			<h2><a href="{{ site.url | append: site.baseurl | append: post.url }}" title="Read {{ post.title }}">{{ post.title }}</a></h2>
