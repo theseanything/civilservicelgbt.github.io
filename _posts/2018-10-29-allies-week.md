@@ -23,7 +23,7 @@ So we've set up Allies week, to thank those doing their part and to encourage mo
 		<article>
 			<h2><a href="/publication/civil-service-allies-week-posters" title="Read Civil Service Allies Week posters">Civil Service Allies Week posters</a></h2>
 			<p>We’ve created these posters for you to display in your office to help highlight Allies Week.</p>
-			<p class="post-metadata">Published <time datetime="2018-10-29">{{ post.date  | date:'%-d %B %Y' }}</time> {% if post.author %}by {{ post.author }}{% endif %}</p>
+			<p class="post-metadata">Published <time datetime="2018-10-29">29 October 2018</time> by Civil Service LGBT+ Network</p>
 		</article>
 	</li>
 </ul>
