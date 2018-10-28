@@ -1,8 +1,8 @@
 ---
 layout: news
-author: Civil Service LGBT+ Network
+author: Elaine Radburn
 date: '2018-10-29'
-preview: true
+preview: false
 published: true
 title: "Allies in Action: Elaine Radburn"
 excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people. Elaine works for the Ministry of Housing Communities and Local Government. Here's what Elaine is doing do be a brilliant ally."

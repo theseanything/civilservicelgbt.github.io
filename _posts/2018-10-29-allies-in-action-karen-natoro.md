@@ -1,8 +1,8 @@
 ---
 layout: news
-author: Civil Service LGBT+ Network
+author: Karen Notaro
 date: '2018-10-29'
-preview: true
+preview: false
 published: true
 title: "Allies in Action: Karen Notaro"
 excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people. Karen works for the Ministry of Justice. Here's why being an ally is important to Karen."

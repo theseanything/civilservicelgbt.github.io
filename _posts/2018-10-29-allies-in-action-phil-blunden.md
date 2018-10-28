@@ -1,8 +1,8 @@
 ---
 layout: news
-author: Civil Service LGBT+ Network
+author: Phil Blunden
 date: '2018-10-29'
-preview: true
+preview: false
 published: true
 title: "Allies in Action: Phil Blunden"
 excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people. Phil works for the Ministry of Defence. Here's Phil's thoughts on why allies are important."

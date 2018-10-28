@@ -2,7 +2,7 @@
 layout: news
 author: Civil Service LGBT+ Network
 date: '2018-10-29'
-preview: true
+preview: false
 published: true
 title: It’s Civil Service Allies Week
 excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people."
@@ -30,6 +30,38 @@ We'll be posting new blog posts and resources all week. Keep checking this page 
 			<h2><a href="/publication/civil-service-allies-week-posters" title="Read Civil Service Allies Week posters">Civil Service Allies Week posters</a></h2>
 			<p>We’ve created these posters for you to display in your office to help highlight Allies Week.</p>
 			<p class="post-metadata">Published <time datetime="2018-10-29">29 October 2018</time> by Civil Service LGBT+ Network</p>
+		</article>
+	</li>
+	
+	<li>
+		<article>
+			<h2><a href="/2018/10/29/allies-week-elaine-radburn" title="Read Allies in Action: Elaine Radburn">Allies in Action: Elaine Radburn</a></h2>
+			<p>Elaine works for the Ministry of Housing Communities and Local Government. Here's what Elaine is doing do be a brilliant ally.</p>
+			<p class="post-metadata">Published <time datetime="2018-10-29">29 October 2018</time> by Elaine Radburn</p>
+		</article>
+	</li>
+	
+	<li>
+		<article>
+			<h2><a href="/2018/10/29/allies-week-karen-notaro" title="Read Allies in Action: Karen Notaro">Allies in Action: Karen Notaro</a></h2>
+			<p>Karen works for the Ministry of Justice. Here's why being an ally is important to Karen.</p>
+			<p class="post-metadata">Published <time datetime="2018-10-29">29 October 2018</time> by Karen Notaro</p>
+		</article>
+	</li>
+	
+	<li>
+		<article>
+			<h2><a href="/2018/10/29/allies-week-phil-blunden" title="Read Allies in Action: Phil Blunden">Allies in Action: Phil Blunden</a></h2>
+			<p>Phil works for the Ministry of Defence. Here's Phil's thoughts on why allies are important.</p>
+			<p class="post-metadata">Published <time datetime="2018-10-29">29 October 2018</time> by Phil Blunden</p>
+		</article>
+	</li>
+	
+	<li>
+		<article>
+			<h2><a href="/2018/10/29/allies-week-raymond-jenner" title="Read Allies in Action: Raymond Jenner">Allies in Action: Raymond Jenner</a></h2>
+			<p>Raymond works for the Ministry of Defence. In this post, we asked Raymond to share some thoughts on why allies are important.</p>
+			<p class="post-metadata">Published <time datetime="2018-10-29">29 October 2018</time> by Raymond Jenner</p>
 		</article>
 	</li>
 </ul>
