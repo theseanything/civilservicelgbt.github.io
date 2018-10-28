@@ -10,6 +10,8 @@ permalink: /2018/10/17/we're-creating-an-allies-week
 redirect-from: /allies-week
 image: /assets/images/posts/allies-week-no-date.png
 image-alt: Civil Service Allies Week
+categories:
+- alliesweek18
 ---
 
 This week is Civil Service Allies Week. From 29 October to 2 November, we'll be recognising the important role of allies in making our workplaces more diverse and inclusive.
