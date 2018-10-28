@@ -25,7 +25,7 @@ We've created these posters for you to display in your office to help highlight 
 
 ## Download this publication
 
-This publication is available as a PDF.
+This publication is available as a PDF. Please be aware that this is a large file, and may not be suitable for download on slow or metered internet connections.
 
 [Download this publication](/assets/documents/2018-10-29-allies-week-posters.pdf)
 
