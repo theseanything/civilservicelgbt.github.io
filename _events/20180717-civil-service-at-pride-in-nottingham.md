@@ -3,7 +3,7 @@ layout: event
 preview: false
 published: true
 title: Civil Service at Pride in Nottingham
-event-date: '2018-07-28'
+event-date: 2018-07-28
 location: 'Meet at Castle Gate, Nottingham.'
 email: DAVID.WILSON1@dwp.gsi.gov.uk
 slug: /2018/07/28/pride-in-nottingham

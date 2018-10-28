@@ -3,7 +3,7 @@ layout: event
 preview: false
 published: true
 title: 'LGBT+ in the workplace: success and struggles'
-event-date: '2018-10-31 10:00'
+event-date: 2018-10-31 10:00
 location: 'Redgrave Court, Bootle, Merseyside'
 registration-close-date: '2018-10-31 10:00'
 email: LGBT@hse.gov.uk

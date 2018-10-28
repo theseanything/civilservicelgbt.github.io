@@ -3,7 +3,7 @@ layout: event
 preview: false
 published: true
 title: Civil Service at Leicester Pride
-event-date: '2018-09-01 11:30'
+event-date: 2018-09-01 11:30
 location: 'Curve Theatre, Leicester'
 email: Robert.Naylor@cqc.org.uk
 slug: /2018/09/01/civil-service-leicester-pride

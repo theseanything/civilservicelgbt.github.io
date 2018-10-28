@@ -3,7 +3,7 @@ layout: event
 preview: false
 published: true
 title: ‘Intersex Awareness Day’ Twitter chat
-event-date: '2018-10-26 18:00'
+event-date: 2018-10-26 18:00
 location: Twitter (@cslgbt)
 email: info@civilservice.lgbt
 slug: /2018/10/26/intersex-awareness-day-twitter-chat
