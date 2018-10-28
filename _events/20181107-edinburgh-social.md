@@ -5,7 +5,7 @@ excerpt: Join us for our social in Edinburgh.
 event-date: '2018-11-07 18:00:00'
 location: 'The Regent, 2 Montrose Terrace, Edinburgh, EH7 5DL'
 email: STEVEN.BRITTAIN@dwp.gsi.gov.uk
-slug: /edinburgh-social
+slug: /2018/11/07/edinburgh-social
 published: true
 preview: false
 link: >-
