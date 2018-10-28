@@ -8,7 +8,7 @@ link: 						https://www.eventbrite.co.uk/e/civil-service-lgbt-social-london-tick
 email: 						info@civilservice.lgbt
 
 layout: 						event
-slug:						/london-social
+slug:						/2018/04/05/london-social
 ---
 
 Our cross-government networking drinks are a chance for you to meet other LGBT+ civil servants from across government.

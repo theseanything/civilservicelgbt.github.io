@@ -8,7 +8,7 @@ link: 						https://www.eventbrite.com/e/civil-service-at-pride-in-london-regist
 email: 						info@civilservice.lgbt
 
 layout: 						event
-slug:						/pride-in-london
+slug:						/2018/07/07/pride-in-london
 ---
 
 Join us as we march in the parade at Pride in London.

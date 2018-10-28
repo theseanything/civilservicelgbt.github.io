@@ -6,7 +6,7 @@ excerpt: >-
 event-date: '2018-06-16 12:00'
 location: Edinburgh
 layout: event
-slug: /pride-edinburgh
+slug: /2018/06/16/pride-edinburgh
 email: info@civilservice.lgbt
 published: true
 ---

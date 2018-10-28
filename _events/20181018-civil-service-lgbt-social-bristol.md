@@ -8,7 +8,7 @@ location: 'The Phoenix, Bristol, BS2 9DB'
 link: >-
   https://www.eventbrite.co.uk/e/civil-service-lgbt-social-bristol-tickets-51541398711
 email: Dorion.GRIFFITHS@education.gov.uk
-slug: /bristol-social
+slug: /2018/11/06/bristol-social
 excerpt: We're holding a social in Bristol. Join us.
 ---
 Join us for a networking and social event in Bristol. This event is your chance to meet other LGBT+ civil servants from across government. Anyone can attend, so long as you work for a Civil Service organisation. It's usually free to attend.

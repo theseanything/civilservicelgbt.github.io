@@ -6,7 +6,7 @@ excerpt: >-
 event-date: '2018-07-14 12:00'
 location: Glasgow
 layout: event
-slug: /pride-in-glasgow
+slug: /2018/07/14/pride-in-glasgow
 email: info@civilservice.lgbt
 published: true
 ---

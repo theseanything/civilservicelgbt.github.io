@@ -8,7 +8,7 @@ link: 						https://www.eventbrite.co.uk/e/whats-next-for-csra-event-for-network
 email: 						info@civilservice.lgbt
 
 layout: 						event
-slug:						/whats-next-for-csra
+slug:						/2018/03/01/whats-next-for-csra
 ---
 
 **This event is for Civil Service LGBT network chairs and committee members.**

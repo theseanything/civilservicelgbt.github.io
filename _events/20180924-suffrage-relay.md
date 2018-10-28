@@ -6,7 +6,7 @@ title: Kings Pool Suffrage Celebration
 event-date: '2018-09-24 10:45'
 location: 'Kings Pool, York, CR 01, 02 & 03'
 email: kate.scott-hughes@cps.gov.uk
-slug: /suffrage-relay-york
+slug: /2018/09/24/suffrage-relay-york
 ---
 
 We're taking part in the celebrations marking the centenary of women's suffrage, as the suffrage relay comes to York.

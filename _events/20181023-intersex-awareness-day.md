@@ -6,7 +6,7 @@ title: ‘Intersex Awareness Day’ Twitter chat
 event-date: '2018-10-26 18:00'
 location: Twitter (@cslgbt)
 email: info@civilservice.lgbt
-slug: /intersex-awareness-day-twitter-chat
+slug: /2018/10/26/intersex-awareness-day-twitter-chat
 excerpt: We're hosting a Twitter chat to celebrate Intersex Awareness Day
 ---
 Intersex Awareness Day is observed on 26 October each year. It’s a chance to celebrate people who are born intersex, and to highlight the issues they face in their every day lives.

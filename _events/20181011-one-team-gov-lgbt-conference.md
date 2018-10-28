@@ -6,7 +6,7 @@ title: One Team Gov LGBT+ Conference
 event-date: '"2018-10-11 10:30"'
 location: 'Crown Plaza Oxford Road, 55 Booth Street West, Manchester M15 6PQ'
 link: 'https://www.eventbrite.co.uk/e/one-team-gov-lgbt-tickets-47708592685'
-slug: /one-team-gov-lgbt-manchester
+slug: /2018/10/11/one-team-gov-lgbt-manchester
 excerpt: DWPride is hosting OneTeamGov LGBT* on Thursday 11 October.
 ---
 DWP's LGBT Network - DWPride - and [One Team Gov](https://www.oneteamgov.uk/) are working together to host a one day event on 11 October aimed at LGBT inclusion in the Civil Service.

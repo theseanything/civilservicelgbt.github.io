@@ -6,7 +6,7 @@ title: If I Can, You Can - Senior Speaker Series
 event-date: '2018-09-27 17:30'
 location: 'HM Treasury, 1 Horse Guards Road, London, SW1'
 link: https://www.eventbrite.co.uk/e/question-time-championing-race-tickets-50390317797
-slug: /if-i-can-you-can
+slug: /2018/09/27/if-i-can-you-can
 ---
 
 On Thursday 27th September from 5:30pm to 7:00pm, the Cabinet Office Ethnic Diversity Programme will host the next instalment of our #IfiICanYouCan Senior Speaker Series, inpartnership with the SCS Race to the Top network.

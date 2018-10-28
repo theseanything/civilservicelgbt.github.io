@@ -7,7 +7,7 @@ event-date: '2018-10-31 10:00'
 location: 'Redgrave Court, Bootle, Merseyside'
 registration-close-date: '2018-10-31 10:00'
 email: LGBT@hse.gov.uk
-slug: /lgbt-in-the-workplace-merseyside
+slug: /2018/10/31/lgbt-in-the-workplace-merseyside
 excerpt: >-
   The Health and Safety Executive (HSE) and the Office for Nuclear Regulation
   (ONR) are joining forces to run an inaugural LGBT+ event.

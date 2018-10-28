@@ -6,7 +6,7 @@ title: BiSpace London
 event-date: '2018-09-20 12:30'
 location: 'BEIS Conference Centre (Room C19), Victoria Street, London'
 link: 'https://www.eventbrite.co.uk/e/bispace-london-tickets-49735592496'
-slug: /bispace-london
+slug: /2018/09/20/bispace-london
 ---
 BiSpace is a new initiative led by bi+ civil servants, for bi+ civil servants. These regular events are a chance for bi, pan and queer civil servants to meet each other in both formal and more informal settings. 
 
