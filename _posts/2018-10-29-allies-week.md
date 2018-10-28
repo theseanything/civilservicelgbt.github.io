@@ -10,8 +10,6 @@ permalink: /2018/10/29/its-allies-week
 redirect-from: /allies-week
 image: /assets/images/posts/allies-week-no-date.png
 image-alt: Civil Service Allies Week
-categories:
-- alliesweek18
 ---
 
 This week is Civil Service Allies Week. From 29 October to 2 November, we'll be recognising the important role of allies in making our workplaces more diverse and inclusive.
@@ -23,9 +21,9 @@ So we've set up Allies week, to thank those doing their part and to encourage mo
 <ul class="loop">
 	<li>
 		<article>
-			<h2><a href="{{ site.url | append: site.baseurl | append: post.url }}" title="Read {{ post.title }}">{{ post.title }}</a></h2>
-			<p>{{ post.excerpt }}</p>
-			<p class="post-metadata">Published <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date  | date:'%-d %B %Y' }}</time> {% if post.author %}by {{ post.author }}{% endif %}</p>
+			<h2><a href="/publication/civil-service-allies-week-posters" title="Read Civil Service Allies Week posters">Civil Service Allies Week posters</a></h2>
+			<p>We’ve created these posters for you to display in your office to help highlight Allies Week.</p>
+			<p class="post-metadata">Published <time datetime="2018-10-29">{{ post.date  | date:'%-d %B %Y' }}</time> {% if post.author %}by {{ post.author }}{% endif %}</p>
 		</article>
 	</li>
 </ul>
