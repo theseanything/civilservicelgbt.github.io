@@ -5,7 +5,7 @@ date: '2018-10-30'
 preview: false
 published: true
 title: "Allies in Action: Isobel Lowe-Zinola"
-excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people. Isobel works at the Department for Education. In this post, Isobel shares why being an ally is important to her.
+excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people. Isobel works at the Department for Education. In this post, Isobel shares why being an ally is important to her."
 permalink: /2018/10/30/allies-week-isobel-lowe-zinola
 image: /assets/images/posts/allies-week-no-date.png
 image-alt: Civil Service Allies Week
