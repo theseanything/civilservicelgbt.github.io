@@ -15,11 +15,11 @@ image-alt: Civil Service Allies Week
 
 I am a strategic communications manager in the Ministry of Housing, Communities and Local Government (MHCLG).
 
-## How long have you been an Ally?  
+## How long have you been an ally?  
 
 I've been an ally since April 2016, when I attended some Stonewall ally training and helped to set up our Ally Network here in MHCLG.
 
-## Why do you think it's important to be an Ally, and to have Allies within an office?  
+## Why do you think it's important to be an ally, and to have allies within an office?  
 
 An ally has a really important role in helping to create a workplace where everyone can bring their true self to work, whether they are lesbian, gay, bisexual, transgender, queer, questioning, intersex or asexual (LGBT+). You only have to read the latest research which highlights the shocking levels of hate crime and discrimination that LGBT+ people still face in Britain today. 
 

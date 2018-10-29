@@ -15,11 +15,11 @@ image-alt: Civil Service Allies Week
 
 I am the Squadron Quarter Master Sargent (SQMS) for 63 Works Group Royal Engineers.
 
-## How long have you been an Ally?  
+## How long have you been an ally?  
 
 I've been an ally for about 6 months.
 
-## Why do you think it's important to be an Ally, and to have Allies within an office?  
+## Why do you think it's important to be an ally, and to have allies within an office?  
 
 I think it's important to be an ally because even with society moving towards a non-prejudice climate, there are still barriers to individuals feeling accepted and comfortable being who they are.  Allies are just one way to demonstrate an organisations commitment to creating an environment free from discrimination, and also to promote diversity.
 
