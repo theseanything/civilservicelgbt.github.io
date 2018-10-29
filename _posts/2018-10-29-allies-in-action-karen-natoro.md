@@ -19,7 +19,7 @@ I work as an engagement and employee lifecycle expert and race ambassador in the
 
 I have been an LGBT+ ally since 2017.
 
-## Why do you think it's important to be an ally, and to have allies within an office?  
+## Why do you think it's important to be an ally, and to have allies within an office?  
 
 Allies are important as they can help people who are not intrinsic owners of the issues to see what life is like in someone else’s shoes. It’s important to have people who will act as advocates; to ensure that everybody is able to bring their whole, authentic self, to work.
 

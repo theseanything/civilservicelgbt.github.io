@@ -19,7 +19,7 @@ I am the Defence Cyber Protection Partnership Communications Manager, working in
 
 I became an ally about two and a half years ago.
 
-## Why do you think it's important to be an ally, and to have allies within an office?  
+## Why do you think it's important to be an ally, and to have allies within an office?  
 
 Being an ally is important because it sets the tone in the workplace environment to be one that encourages and values input. It welcomes people in, so a person isn’t fearful about who they are. I also think places that are ‘people positive’ are the best ones to be in.
 
