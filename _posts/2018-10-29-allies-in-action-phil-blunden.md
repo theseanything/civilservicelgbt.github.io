@@ -29,4 +29,4 @@ I use a signature block and include it in bios particularly when presenting to i
 
 > Civil Service Allies Week is a chance to highlight the important role of LGBT+ allies in the Civil Service. 
 >
-> **Find out more about [Allies Week(/allies-week)**
+> **Find out more about [Allies Week](/allies-week)**

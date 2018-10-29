@@ -29,4 +29,4 @@ I wear a rainbow pin on my lanyard at work and have built into the work I have b
 
 > Civil Service Allies Week is a chance to highlight the important role of LGBT+ allies in the Civil Service. 
 >
-> **Find out more about [Allies Week(/allies-week)**
+> **Find out more about [Allies Week](/allies-week)**

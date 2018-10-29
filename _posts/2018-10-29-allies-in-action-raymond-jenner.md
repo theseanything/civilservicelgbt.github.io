@@ -29,4 +29,4 @@ I have ‘Ally’ on my signature block and I distribute the monthly newsletter 
 
 > Civil Service Allies Week is a chance to highlight the important role of LGBT+ allies in the Civil Service. 
 >
-> **Find out more about [Allies Week(/allies-week)**
+> **Find out more about [Allies Week](/allies-week)**
