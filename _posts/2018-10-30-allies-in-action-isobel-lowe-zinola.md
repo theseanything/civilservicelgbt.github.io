@@ -1,6 +1,6 @@
 ---
 layout: news
-author: Isobel Lowe-Zinola
+author: 'Isobel Lowe-Zinola'
 date: '2018-10-30'
 preview: false
 published: true
