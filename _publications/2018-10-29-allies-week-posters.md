@@ -2,7 +2,7 @@
 layout: publication
 author: Civil Service LGBT+ Network
 date: '2018-10-29'
-preview: true
+preview: false
 published: true
 title: Civil Service Allies Week posters
 permalink: /publication/civil-service-allies-week-posters
