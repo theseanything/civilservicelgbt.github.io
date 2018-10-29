@@ -7,6 +7,6 @@ layout: page
 
 **Latest site build:** 		{{ "now" | date: "%d-%m-%Y %H:%M" }}
 
-**Version number:**			0.13.8
+**Version number:**			0.13.9
 
 **Latest major changes:** 	Fix event loop
