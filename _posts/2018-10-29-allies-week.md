@@ -64,6 +64,47 @@ We'll be posting new blog posts and resources all week. Keep checking this page 
 			<p class="post-metadata">Published <time datetime="2018-10-29">29 October 2018</time> by Raymond Jenner</p>
 		</article>
 	</li>
+	
+	<li>
+		<article>
+			<h2><a href="/2018/10/30/allies-week-caroline-hendrix" title="Read Allies in Action: Caroline Hendrix">Allies in Action: Caroline Hendrix</a></h2>
+			<p>Caroline works for the Department for International Trade. In this post, we asked Caroline tells us what being an ally means to her.</p>
+			<p class="post-metadata">Published <time datetime="2018-10-30">30 October 2018</time> by Caroline Hendrix</p>
+		</article>
+	</li>
+	
+	<li>
+		<article>
+			<h2><a href="/2018/10/30/allies-week-david-neale" title="Read Allies in Action: David Neale">Allies in Action: David Neale</a></h2>
+			<p>David works in the Ministry of Defence. In this post, David shares why he thinks being an ally is important.</p>
+			<p class="post-metadata">Published <time datetime="2018-10-30">30 October 2018</time> by David Neale</p>
+		</article>
+	</li>
+	
+	<li>
+		<article>
+			<h2><a href="/2018/10/30/allies-week-isobel-lowe-zinola" title="Read Allies in Action: Isobel Lowe-Zinola">Allies in Action: Isobel Lowe-Zinola</a></h2>
+			<p>Isobel works at the Department for Education. In this post, Isobel shares why being an ally is important to her.</p>
+			<p class="post-metadata">Published <time datetime="2018-10-30">30 October 2018</time> by Isobel Lowe-Zinola</p>
+		</article>
+	</li>
+	
+	<li>
+		<article>
+			<h2><a href="/2018/10/30/allies-week-keri-murphy" title="Read Allies in Action: Keri Murphy">Allies in Action: Keri Murphy</a></h2>
+			<p>Keri works for the Department for Work and Pensions. In this post, we asked Keri shares what she's doing to be an ally.</p>
+			<p class="post-metadata">Published <time datetime="2018-10-30">30 October 2018</time> by Keri Murphy</p>
+		</article>
+	</li>
+	
+	<li>
+		<article>
+			<h2><a href="/2018/10/30/allies-week-sam-forster" title="Read Allies in Action: Sam Forster">Allies in Action: Sam Forster</a></h2>
+			<p>Sam works in the Ministry of Justice. In this post, he talks about his role as an ally.</p>
+			<p class="post-metadata">Published <time datetime="2018-10-30">30 October 2018</time> by Sam Forster</p>
+		</article>
+	</li>
+	
 </ul>
 
 [^1]: The People Survey included gender identity monitoring for the first time in 2017, but as this was an experimental question it doesn't provide a good basis to make a wider estimate at the moment.
