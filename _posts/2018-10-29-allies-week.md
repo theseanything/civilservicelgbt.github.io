@@ -105,6 +105,46 @@ We'll be posting new blog posts and resources all week. Keep checking this page 
 		</article>
 	</li>
 	
+	<li>
+		<article>
+			<h2><a href="/2018/10/31/allies-week-jacky-lawrence" title="Read Allies in Action: Jacky Lawrence">Allies in Action: Jacky Lawrence</a></h2>
+			<p>Jacky works in the Asylum and Immigration Tribunal. In this post, Jacky shares what being an ally means to them.</p>
+			<p class="post-metadata">Published <time datetime="2018-10-31">31 October 2018</time> by Jacky Lawrence</p>
+		</article>
+	</li>
+	
+	<li>
+		<article>
+			<h2><a href="/2018/10/31/allies-week-nick-pett" title="Read Allies in Action: Nick Pett">Allies in Action: Nick Pett</a></h2>
+			<p>Nick works at the Ministry of Defence. In this blog post, he tells us why allies are important.</p>
+			<p class="post-metadata">Published <time datetime="2018-10-31">31 October 2018</time> by Nick Pett</p>
+		</article>
+	</li>
+	
+	<li>
+		<article>
+			<h2><a href="/2018/10/31/allies-week-pamela-rowlands" title="Read Allies in Action: Pamela Rowlands">Allies in Action: Pamela Rowlands</a></h2>
+			<p>Pamela works for HM Courts and Tribunals Service. In this post, Pam shares some quick thoughts on her role as an ally.</p>
+			<p class="post-metadata">Published <time datetime="2018-10-31">31 October 2018</time> by Pamela Rowlands</p>
+		</article>
+	</li>
+	
+	<li>
+		<article>
+			<h2><a href="/2018/10/31/allies-week-sam-oneill" title="Read Allies in Action: Sam O’Neill">Allies in Action: Sam O’Neill</a></h2>
+			<p>Sam works for the Department of Work and Pensions. Here, Sam shares their thoughts on being an ally.</p>
+			<p class="post-metadata">Published <time datetime="2018-10-31">31 October 2018</time> by Sam O’Neill</p>
+		</article>
+	</li>
+	
+	<li>
+		<article>
+			<h2><a href="/2018/10/31/allies-week-tom-read" title="Read Allies in Action: Tom Read">Allies in Action: Tom Read</a></h2>
+			<p>Tom works for the Ministry of Justice. In this post, he shares some of his work as an LGBT ally.</p>
+			<p class="post-metadata">Published <time datetime="2018-10-31">31 October 2018</time> by Tom Read</p>
+		</article>
+	</li>
+	
 </ul>
 
 [^1]: The People Survey included gender identity monitoring for the first time in 2017, but as this was an experimental question it doesn't provide a good basis to make a wider estimate at the moment.
