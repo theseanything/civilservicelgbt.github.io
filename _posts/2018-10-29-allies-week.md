@@ -145,6 +145,30 @@ We'll be posting new blog posts and resources all week. Keep checking this page 
 		</article>
 	</li>
 	
+	<li>
+		<article>
+			<h2><a href="/2018/11/01/allies-week-joanne-osborne" title="Read Allies in Action: Joanne Osborne">Allies in Action: Joanne Osborne</a></h2>
+			<p>Joanne works for the Department of Work and Pensions. In this post, Joanne shares some of her work as an LGBT ally.</p>
+			<p class="post-metadata">Published <time datetime="2018-11-01">1 November 2018</time> by Joanne Osborne</p>
+		</article>
+	</li>
+	
+	<li>
+		<article>
+			<h2><a href="/2018/11/01/allies-week-paul-wilson" title="Read Allies in Action: Paul Wilson">Allies in Action: Paul Wilson</a></h2>
+			<p>Paul works for the Ministry of Defence. In this post, Paul shares his experiences as an LGBT+ ally.</p>
+			<p class="post-metadata">Published <time datetime="2018-11-01">1 November 2018</time> by Paul Wilson</p>
+		</article>
+	</li>
+	
+	<li>
+		<article>
+			<h2><a href="/2018/11/01/allies-week-sara-daunton" title="Read Allies in Action: Sara Daunton">Allies in Action: Sara Daunton</a></h2>
+			<p>Sara works for the Ministry of Defence. In this post, Sara shares some insights being an ally in the RAF.</p>
+			<p class="post-metadata">Published <time datetime="2018-11-01">1 November 2018</time> by Sara Daunton</p>
+		</article>
+	</li>
+	
 </ul>
 
 [^1]: The People Survey included gender identity monitoring for the first time in 2017, but as this was an experimental question it doesn't provide a good basis to make a wider estimate at the moment.
