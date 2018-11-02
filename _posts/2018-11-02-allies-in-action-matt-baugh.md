@@ -1,12 +1,12 @@
 ---
 layout: news
-author: Matt from DExEU
+author: Matt Baugh
 date: '2018-11-02'
 preview: false
 published: true
-title: "Allies in Action: Matt from DExEU"
+title: "Allies in Action: Matt Baugh"
 excerpt: "This week, we’re celebrating the allies making the Civil Service a great place to work for LGBT+ people. Matt is a Director at the Department for Exiting the European Union, and an LGBT+ ally."
-permalink: /2018/11/02/allies-week-matt-dexeu
+permalink: /2018/11/02/allies-week-matt-baugh
 image: /assets/images/posts/allies-week-no-date.png
 image-alt: Civil Service allies Week
 ---

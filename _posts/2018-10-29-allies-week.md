@@ -169,6 +169,30 @@ We'll be posting new blog posts and resources all week. Keep checking this page 
 		</article>
 	</li>
 	
+	<li>
+		<article>
+			<h2><a href="/2018/11/02/allies-week-ian-moore" title="Read Allies in Action: Ian Moore">Allies in Action: Ian Moore</a></h2>
+			<p>Ian works for HM Prison and Probation Service. Here, Ian shares his thoughts on being an LGBT+ ally.</p>
+			<p class="post-metadata">Published <time datetime="2018-11-02">1 November 2018</time> by Ian Moore</p>
+		</article>
+	</li>
+	
+	<li>
+		<article>
+			<h2><a href="/2018/11/02/allies-week-matt-baugh" title="Read Allies in Action: Matt Baugh">Allies in Action: Matt Baugh</a></h2>
+			<p>Matt is a Director at the Department for Exiting the European Union, and an LGBT+ ally.</p>
+			<p class="post-metadata">Published <time datetime="2018-11-02">1 November 2018</time> by Matt Baugh</p>
+		</article>
+	</li>
+	
+	<li>
+		<article>
+			<h2><a href="/2018/11/02/allies-week-naomi-diver" title="Read Allies in Action: Naomi Diver">Allies in Action: Naomi Diver</a></h2>
+			<p>Naomi works for the Environment Agency, and in this post, tells us about why she took part in Pride as an ally.</p>
+			<p class="post-metadata">Published <time datetime="2018-11-02">1 November 2018</time> by Naomi Diver</p>
+		</article>
+	</li>
+	
 </ul>
 
 [^1]: The People Survey included gender identity monitoring for the first time in 2017, but as this was an experimental question it doesn't provide a good basis to make a wider estimate at the moment.
