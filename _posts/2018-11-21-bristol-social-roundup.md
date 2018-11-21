@@ -5,7 +5,7 @@ preview: false
 published: true
 title: "Our first Bristol social was a success: let's do it again"
 permalink: 2018/11/21/bristol-social-roundup
-date: '2018-11-15'
+date: '2018-11-21'
 excerpt: >-
   We held our first Bristol social in over 2 years this month; here's what we got up to.
 image: /assets/images/posts/november-2018-bristol-social.jpg
