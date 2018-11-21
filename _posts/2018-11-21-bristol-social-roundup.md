@@ -19,4 +19,4 @@ I’d like to thank Dorion and Richard for organising and ensuring that the even
 
 If you’re in Bristol or the South West join us for our next monthly social on Wednesday 5th December. You can find the details on the [Civil Service LGBT+ Network website](https://www.civilservice.lgbt/event/2018-12-05-bristol-social/).
 
-You can also (join our Facebook group)[https://www.facebook.com/groups/2409606785735978/] for updates and events.
+You can also [join our Facebook group](https://www.facebook.com/groups/2409606785735978/) for updates and events.
