@@ -8,7 +8,7 @@ permalink: 2018/11/21/bristol-social-roundup
 date: '2018-11-15'
 excerpt: >-
   We held our first Bristol social in over 2 years this month; here's what we got up to.
-image: /assets/posts/november-2018-bristol-social.jpg
+image: /assets/images/posts/november-2018-bristol-social.jpg
 ---
 
 On Tuesday 6th November the first, of what will hopefully be monthly, Civil Service LGBT+ network socials in Bristol took place. 
