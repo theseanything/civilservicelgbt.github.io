@@ -1,7 +1,7 @@
 ---
-title: 'Civil Service LGBT+ social, London'
+title: 'Civil Service LGBT+ social, Liverpool'
 excerpt: Our monthly social and networking event in London.
-event-date: 2018-12-06 18:00:00
+event-date: 2018-12-07 18:00:00
 location: The Lisbon 
 link: >-
   https://www.eventbrite.co.uk/e/civil-service-lgbt-social-liverpool-tickets-52899654290
