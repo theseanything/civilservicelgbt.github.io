@@ -2,7 +2,7 @@
 title: 'Civil Service LGBT+ social, Bristol'
 excerpt: Our monthly social and networking event in Bristol.
 event-date: 2018-12-05 17:00:00
-location: The Lisbon 
+location: The Phoenix, Bristol, BS2 9DB 
 link: >-
   https://www.eventbrite.co.uk/e/civil-service-lgbt-social-bristol-tickets-52899861911
 email: Dorion.GRIFFITHS@education.gov.uk
