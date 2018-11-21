@@ -1,7 +1,7 @@
 ---
 layout: news
 author: Matthew Walker
-preview: true
+preview: false
 published: true
 title: 'World AIDS Day: Matthew''s story'
 permalink: 2018/11/15/world-aids-day
@@ -11,7 +11,7 @@ excerpt: >-
   Day. Matthew, one of our volunteers based in Manchester, shares why he's marking
   the day.
 ---
-It's nearing that time of year: Christmas and religious festivals are approaching. It's also World AIDS Day next month, and to me it's a time of sadness and celebration. 
+It's nearing that time of year: Christmas and religious festivals are approaching. It's also [World AIDS Day](https://www.worldaidsday.org) next month, and to me it's a time of sadness and celebration. 
 
 Remembering friends, friends of friends, and ex-partners who have sadly lost the fight of HIV related illnesses, but also a celebration of the people and how far the treatment and prevention has come in the last few years.  
 
