@@ -1,6 +1,6 @@
 ---
 title: 'Civil Service LGBT+ social, Liverpool'
-excerpt: Our monthly social and networking event in London.
+excerpt: Our monthly social and networking event in Liverpool.
 event-date: 2018-12-07 18:00:00
 location: The Lisbon 
 link: >-
