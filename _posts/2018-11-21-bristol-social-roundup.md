@@ -4,7 +4,7 @@ author: Katherine Sendell
 preview: false
 published: true
 title: 'Our first Bristol social was a success: let's do it again'
-permalink: 2018/11/15/world-aids-day
+permalink: 2018/11/21/bristol-social-roundup
 date: '2018-11-15'
 excerpt: >-
   We held our first Bristol social in over 2 years this month; here's what we got up to.
