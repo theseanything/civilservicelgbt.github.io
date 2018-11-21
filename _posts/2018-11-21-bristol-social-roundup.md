@@ -3,7 +3,7 @@ layout: news
 author: Katherine Sendell
 preview: false
 published: true
-title: 'Our first Bristol social was a success: let's do it again'
+title: "Our first Bristol social was a success: let's do it again"
 permalink: 2018/11/21/bristol-social-roundup
 date: '2018-11-15'
 excerpt: >-
