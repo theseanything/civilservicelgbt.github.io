@@ -6,7 +6,6 @@ title: 'Civil Service LGBT+ social, Cardiff'
 link: 'https://www.eventbrite.com/e/cslgbt-social-cardiff-tickets-52257568795'
 location: 'The Dock, Cardiff Bay'
 event-date: '2018-11-23 18:00'
-date: '2018-11-21'
 slug: /2018/11/23/cardiff-social
 excerpt: Join us for a networking and social event in Cardiff.
 ---
