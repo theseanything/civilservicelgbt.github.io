@@ -24,7 +24,7 @@ We're currently holding 5 socials before Christmas: three in November, and one i
 ### December
 
 - **5 December 2018**: Bristol. More details can be found on [our event page](https://www.civilservice.lgbt/event/2018-12-05-bristol-social/), and you can [register on Eventbrite for updates](https://www.eventbrite.co.uk/e/civil-service-lgbt-social-bristol-tickets-52899861911).
-- **6 December 2018** -- Mini BiSpace London, before the wider LGBT+ Network social: London, location to be confirmed. More details can be found on [our event page](https://www.civilservice.lgbt/event/2018/12/06/bispace-london/).
+- **6 December 2018** -- Mini BiSpace London, before the wider LGBT+ Network social: London, location to be confirmed. More details can be found on [our event page](https://www.civilservice.lgbt/event/2018-12-06-bispace-london/).
 - **6 December 2018**: London, location to be confirmed. More details can be found on [our event page](https://www.civilservice.lgbt/event/2018/12/06/london-social/), and you can [register on Eventbrite for updates](https://www.eventbrite.co.uk/e/civil-service-lgbt-social-london-tickets-39611894242?ref=website).
 - **7 December 2018**: London, location to be confirmed. More details can be found on [our event page](https://www.civilservice.lgbt/event/2018-12-07-liverpool-social/), and you can [register on Eventbrite for updates](https://www.eventbrite.co.uk/e/civil-service-lgbt-social-liverpool-tickets-52899654290).
 
