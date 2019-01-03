@@ -3,9 +3,9 @@ layout: news
 author: John Peart
 preview: true
 published: true
-title: "Our first Bristol social was a success: let's do it again"
-permalink: 2019/01/03/2018-year-in-review
-date: '2019-01-03'
+title: "2018: A year in review"
+permalink: 2019/01/01/year-in-review
+date: '2019-01-01'
 excerpt: >-
   As civil servants across the UK go 'back to school' for the new year, we take a look back at what the Civil Service LGBT+ Network has done in 2018.
 image: /assets/images/posts/year-in-review/year-in-review.png
