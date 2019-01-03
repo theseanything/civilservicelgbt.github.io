@@ -3,7 +3,7 @@ layout: news
 author: Civil Service LGBT+ Network
 date: '2018-11-21'
 preview: false
-published: true
+published: false
 title: 'Updated: Upcoming events for November and December 2018'
 excerpt: >-
   Here's a quick round up of events happening across the UK before Christmas for
