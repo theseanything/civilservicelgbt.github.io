@@ -41,4 +41,5 @@ Our Allies Week helped us to publish more than 50 blog posts in 2018. We also ke
 
 ![Policy input](/assets/images/posts/year-in-review/sue-owen-review.png)
 
-We also 
+We also worked closely with Dame Sue Owen's LGBT Champion's group and with Civil Service Employee Policy (CSEP) as part of the Civil Service's review into bullying and harassment, and worked with the Civil Service Diversity and Inclusion team to ensure that the Civil Service was practicing what we preach as part of the Government's LGBT Action Plan.
+
