@@ -21,7 +21,7 @@ For the last few years, one of our volunteers -- Rebecca Cooper -- has done a br
 
 ### Bristol
 
-For 2019, we're introducing monthly socials in a new location: Bristol. Our volunteers in the area will be organising them for the **first Wednesday** of each month, with the exception of January which will be on the *second* Wednesday.
+For 2019, we're introducing monthly socials in a new location: Bristol. Our volunteers in the area will be organising them for the **first Wednesday** of each month, starting in February 2019.
 
 ### Edinburgh
 
