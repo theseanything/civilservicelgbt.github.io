@@ -15,7 +15,7 @@ It's 2019, and we've got *a lot* of events planned for this year already. We've 
 
 ### London
 
-As we always, we're holding regular socials in London from February 2019 through December 2019. They'll be on the **first Thursday** of each month. There's no need to register, you can just turn up. The location for each event will be published on our website around a week in advance.
+As we always, we're holding regular socials in London from January 2019 through December 2019. They'll be on the **first Thursday** of each month. There's no need to register, you can just turn up. The location for each event will be published on our website around a week in advance.
 
 For the last few years, one of our volunteers -- Rebecca Cooper -- has done a brilliant job of organising these monthly events. Rebecca has decided she'd like to focus on other things for 2019; so we're looking for a new party planner. If that sounds like you, [get in touch](/about/contact-us)!
 
