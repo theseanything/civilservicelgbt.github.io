@@ -12,7 +12,9 @@ excerpt: >-
 ---
 You might be aware that government email addresses that end in *.gsi.gov.uk* -- sometimes referred to as "GSI" emails -- are being phased out and replaced with just *gov.uk* email addresses.
 
-Individual departments are making the changes at their own pace, but at some point in the near future email address that end in *.gsi.gov.uk* will no longer receive emails. If you signed up for our newsletter using your GSI email address, you will need to update your details.
+Individual departments are making the changes at their own pace, but at some point in the near future email address that end in *.gsi.gov.uk* will no longer receive emails. Check with your departmental IT team to see when your emails are changing, and what they are changing to. 
+
+If your email address is changing, and you signed up for our newsletter using your GSI email address, you will need to update your details.
 
 ## How to update your email address
 
