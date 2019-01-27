@@ -1,5 +1,5 @@
 ---
-title: '“Love is Love”: Dame Sue Owen in conversation with Chris Smith'
+title: 'LGBT History Month event and social, Cardiff'
 excerpt: To mark LGBT+ History Month, Prism, DWPride and PiPP have teamed up to hold and LGBT History Month event and social
 event-date: 2019-02-20 16:00:00
 location: Caerdyyd 1 and 2, Cardiff
