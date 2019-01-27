@@ -12,6 +12,8 @@ Join us for our monthly a networking event in London. This event is your chance 
 
 Our London socials are on the first Thursday of each month, but the location changes each time.
 
+We will update the event location on this page a couple of days in advance of the event -- so be sure to check this page on the day, in case we have to move the venue.
+
 **Not based in London?** Don't worry, we also hold events in other parts of the UK too. You can find all our events on our website.
 
 If we don't have an event coming up in your area, why not run one yourself! [Contact us](/about/contact-us/) and we can help you promote it.
