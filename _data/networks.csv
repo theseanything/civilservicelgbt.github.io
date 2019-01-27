@@ -1,51 +1,51 @@
 Department,Network,Email,
-a:gender,a:gender,agender@homeoffice.gsi.gov.uk
-Bank of England,Bank of England,lgbt@bankofengland.gsi.gov.uk
-Cabinet Office,Cabinet Office LGBT Network,lgbt@cabinetoffice.gov.uk
-Care Quality Commission,LGBT+ Network,LGBTPlusNetwork@cqc.org.uk
-Crown Prosecution Service,CPS LGBT Network,lgbt.queries@cps.gsi.gov.uk
-"Department for Digital, Culture, Media and Sport",DCMS LGBT+ Network,lgbt-network@culture.gov.uk
-Department for Education,DfE LGBT network,dfe.lgbt@education.gsi.gov.uk
-Department for Exiting the European Union,Out and Proud,lgbtq@dexeu.gov.uk
-Department for International Development,LGBT network,
-Department for International Trade,DIT LGBT+ Network,lgbtnetwork@trade.gov.uk
-"Department for the Environment, Food and Rural Affairs","Defra Lesbian, Gay, Bisexual, Asexual and Transgender Staff Network",defra.lgbtn@defra.gsi.gov.uk
-Department for Transport,DfT National Staff Network,LGBTNetwork@dvla.gsi.gov.uk
-Department for Work and Pensions,DWPride,dw.pride@dwp.gsi.gov.uk
+a:gender,a:gender,agender@homeoffice.gsi.gov.uk,
+Bank of England,Bank of England,lgbt@bankofengland.gsi.gov.uk,
+Cabinet Office,Cabinet Office LGBT Network,lgbt@cabinetoffice.gov.uk,
+Care Quality Commission,LGBT+ Network,LGBTPlusNetwork@cqc.org.uk,
+Crown Prosecution Service,CPS LGBT Network,lgbt.queries@cps.gsi.gov.uk,
+"Department for Digital, Culture, Media and Sport",DCMS LGBT+ Network,lgbt-network@culture.gov.uk,
+Department for Education,DfE LGBT network,dfe.lgbt@education.gsi.gov.uk,
+Department for Exiting the European Union,Out and Proud,lgbtq@dexeu.gov.uk,
+Department for International Development,LGBT network,,
+Department for International Trade,DIT LGBT+ Network,lgbtnetwork@trade.gov.uk,
+"Department for the Environment, Food and Rural Affairs","Defra Lesbian, Gay, Bisexual, Asexual and Transgender Staff Network",defra.lgbtn@defra.gsi.gov.uk,
+Department for Transport,DfT National Staff Network,LGBTNetwork@dvla.gsi.gov.uk,
+Department for Work and Pensions,DWPride,dw.pride@dwp.gsi.gov.uk,
 "Department of Business, Environment and Industrial Strategy",BEIS LGBT+ Network,
-"Ministry of Housing, Communities and Local Government",The Communities Network,lgbtstaffnetwork@communities.gsi.gov.uk
-Department of Health,Prism,dh-prism@dh.gsi.gov.uk
-Department of Work and Pensions,DWPride,
-Driver & Vehicle Standards Agency,"Staff Network Group, Sexual Orientation",SNGsexualorientation@dsa.gsi.gov.uk
-Dstl,#Prism,
-Environment Agency,LGBT+ Network,lgbt.network@environment-agency.gov.uk
-Fast Stream,LGBT Fast Stream Network,lgbt.fast.stream@gmail.com
-Foreign & Commonwealth Office,FLAGG,flagg@fco.gsi.gov.uk
-GCHQ,Pride,pride@gchq.gsi.gov.uk
-Government Legal Department,GLD LGBT Network,LGBT@governmentlegal.gov.uk
-Government Legal Service,GLS LGBT Network,
-Health and Safety Executive,LGBT+ Network,lgbt@hse.gov.uk
-HM Prison and Probation Service,PiPP – Pride in Prison and Probation,PiPP@noms.gsi.gov.uk
-HM Revenue & Customs,HMRC PRISM LGBT Network,
-HM Treasury,LGB & T Network HM Treasury,lgbt@hmtreasury.gsi.gov.uk
-Home Office,Spectrum,spectrum@homeoffice.gsi.gov.uk
-Insolvency Service,LGBT Network,LGBTNetwork@insolvency.gsi.gov.uk
-Intellectual Property Office,iPride,ipride@ipo.gov.uk
-Land Registry,LGBT Network,
-Ministry of Defence,MoD LGBT Network,LGBT-GroupMailbox@MOD.UK
-Ministry of Justice,Spirit,spirit@justice.gsi.gov.uk
-National Archives,LGBT+ Network,lgbt.network@nationalarchives.gov.uk,
-National Audit Office,lgbtNAO,
-National Crime Agency,SONAR,sonar@nca.x.gsi.gov.uk
-Natural Resources Wales,LGBT+ Network,LGBT.network@cyfoethnaturiolcymru.gov.uk
-NHS England,NHS England LGBT Network,england.lgbt@nhs.net
-NHS Improvement,NHS Improvement LGBT Network,nhsi.lgbt@nhs.net
-Ofcom,Affinity Network,Affinity@ofcom.org.uk
-Office of National Statistics,Friends of Spectrum,friendsofspectrumtitchfield@ons.gov.uk
-Ofgem,Ofgem LGBT+ Network,lgbt-network@ofgem.gov.uk
-Ofsted,LGBT Network,EDI@ofsted.gov.uk
-Public Health England,Public Health England Rainbow Alliance,lgbt@phe.gov.uk
-Scottish Government,SG LGBT Network,LGBT@scotland.gsi.gov.uk
-UK Export Finance,UKEF LGBT Network,
-UK Parliament,ParliOUT,parliout@parliament.uk
-Welsh Government,PRISM,PRISM@wales.gsi.gov.uk
+"Ministry of Housing, Communities and Local Government",The Communities Network,lgbtstaffnetwork@communities.gsi.gov.uk,
+Department of Health,Prism,dh-prism@dh.gsi.gov.uk,
+Department of Work and Pensions,DWPride,,
+Driver & Vehicle Standards Agency,"Staff Network Group, Sexual Orientation",SNGsexualorientation@dsa.gsi.gov.uk,
+Dstl,#Prism,,
+Environment Agency,LGBT+ Network,lgbt.network@environment-agency.gov.uk,
+Fast Stream,LGBT Fast Stream Network,lgbt.fast.stream@gmail.com,
+Foreign & Commonwealth Office,FLAGG,flagg@fco.gsi.gov.uk,
+GCHQ,Pride,pride@gchq.gsi.gov.uk,
+Government Legal Department,GLD LGBT Network,LGBT@governmentlegal.gov.uk,
+Government Legal Service,GLS LGBT Network,,
+Health and Safety Executive,LGBT+ Network,lgbt@hse.gov.uk,
+HM Prison and Probation Service,PiPP – Pride in Prison and Probation,PiPP@noms.gsi.gov.uk,
+HM Revenue & Customs,HMRC PRISM LGBT Network,,
+HM Treasury,LGB & T Network HM Treasury,lgbt@hmtreasury.gsi.gov.uk,
+Home Office,Spectrum,spectrum@homeoffice.gsi.gov.uk,
+Insolvency Service,LGBT Network,LGBTNetwork@insolvency.gsi.gov.uk,
+Intellectual Property Office,iPride,ipride@ipo.gov.uk,
+Land Registry,LGBT Network,,
+Ministry of Defence,MoD LGBT Network,LGBT-GroupMailbox@MOD.UK,
+Ministry of Justice,Spirit,spirit@justice.gsi.gov.uk,
+National Archives,LGBT+ Network,lgbt.network@nationalarchives.gov.uk,,
+National Audit Office,lgbtNAO,,
+National Crime Agency,SONAR,sonar@nca.x.gsi.gov.uk,
+Natural Resources Wales,LGBT+ Network,LGBT.network@cyfoethnaturiolcymru.gov.uk,
+NHS England,NHS England LGBT Network,england.lgbt@nhs.net,
+NHS Improvement,NHS Improvement LGBT Network,nhsi.lgbt@nhs.net,
+Ofcom,Affinity Network,Affinity@ofcom.org.uk,
+Office of National Statistics,Friends of Spectrum,friendsofspectrumtitchfield@ons.gov.uk,
+Ofgem,Ofgem LGBT+ Network,lgbt-network@ofgem.gov.uk,
+Ofsted,LGBT Network,EDI@ofsted.gov.uk,
+Public Health England,Public Health England Rainbow Alliance,lgbt@phe.gov.uk,
+Scottish Government,SG LGBT Network,LGBTI@scotland.gsi.gov.uk,
+UK Export Finance,UKEF LGBT Network,,
+UK Parliament,ParliOUT,parliout@parliament.uk,
+Welsh Government,PRISM,PRISM@wales.gsi.gov.uk,
