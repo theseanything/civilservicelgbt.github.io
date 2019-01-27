@@ -18,9 +18,9 @@ Civil Service LGBT+ Network volunteers, and a number of local departmental netwo
 
 | Event                                                       | Location         | Date                   |
 |-------------------------------------------------------------|------------------|------------------------|
-| [BiSpace 2.0](/2019-02-05-bispace-london/)                  | London           | 5 February 2019        |
-| [BiSpace 2.0](/2019-02-05-bispace-manchester/)              | Manchester       | 5 February 2019        |
-| [BiSpace 2.0](/2019-02-06-bispace-bristol/)                 | Bristol          | 6 February 2019        |
+| [BiSpace 2.0](/event/2019-02-05-bispace-london/)                  | London           | 5 February 2019        |
+| [BiSpace 2.0](/event/2019-02-05-bispace-manchester/)              | Manchester       | 5 February 2019        |
+| [BiSpace 2.0](/event/2019-02-06-bispace-bristol/)                 | Bristol          | 6 February 2019        |
 | [History Month event](/event/2019-02-06-lgbt-history-month-bristol) | Bristol | 6 February 2019 | 
 | [Monthly social](/event/2019-02-06-bristol-social/)         | Bristol          | 6 February 2019        |
 | [Monthly social](/event/2019-02-06-edinburgh-social/)       | Edinburgh        | 6 February 2019        |
