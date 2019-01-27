@@ -13,7 +13,7 @@ Join us for our monthly a networking event in Manchester.
 
 This event is your chance to meet other LGBT+ civil servants from across government. Anyone can attend, so long as you work for a Civil Service organisation. It's usually free to attend.
 
-Our Manchester socials are on the second Thursday of each month.
+Our Manchester socials are on the second Tuesday of each month.
 
 Please contact [Matthew Walker](mailto:MATTHEW.WALKER1@DWP.GSI.GOV.UK)  if you need more information.
 
