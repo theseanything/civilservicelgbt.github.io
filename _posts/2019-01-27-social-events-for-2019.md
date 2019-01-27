@@ -10,7 +10,7 @@ date: '2019-01-27'
 excerpt: "We've updated our event listings for 2019; check them out."
 ---
 
-> **Update**: We've just added monthly events in Manchester. See the detaiuls below
+> **Update**: We've just added monthly events in Manchester. You can find the details below.
 
 It's 2019, and we've got *a lot* of events planned for this year already. We've updated out [event listings](/events) page with provisional dates already; here's a quick run down.
 
