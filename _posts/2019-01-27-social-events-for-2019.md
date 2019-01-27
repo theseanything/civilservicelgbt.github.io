@@ -6,7 +6,7 @@ published: true
 title: "Updated: Socials and other events for 2019"
 permalink: 2019/01/27/socials-and-events-for-2019
 redirect_from: 2019/01/03/socials-and-events-for-2019
-date: '2019-01-03'
+date: '2019-01-27'
 excerpt: "We've updated our event listings for 2019; check them out."
 ---
 
