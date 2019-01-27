@@ -2,7 +2,7 @@
 title: 'Civil Service LGBT+ social, Cardiff'
 excerpt: Our monthly social and networking event in Cardiff.
 event-date: 2019-02-20 17:00:00
-location: Mary's, Cardiff
+location: "Mary’s, 89 St Mary’s St, Cardiff, CF10 1DW"
 link: https://www.eventbrite.com/e/cardiff-cslgbt-social-tickets-55080755021?aff=ebdssbdestsearch
 email: prism@gov.wales
 layout: event
