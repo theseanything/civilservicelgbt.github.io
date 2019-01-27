@@ -11,7 +11,7 @@ excerpt: "These are some of the events taking place across government this LGBT 
 ---
 
 LGBT History Month is an annual celebration of LGBT history, culture and identities, marked each February in the UK.
-2019
+
 This year's theme is "Peace, Activism and Reconciliation", in recognition of 50 years since [the Stonewall riots](https://en.wikipedia.org/wiki/Stonewall_riots).
 
 Civil Service LGBT+ Network volunteers, and a number of local departmental networks, are organising events this February — some of them tied to History Month, and others just as part of our regular work. Come along and join the events. Here's a quick run down.
