@@ -1,5 +1,5 @@
 ---
-title: 'Civil Service LGBT History Month event, Bristol'
+title: 'LGBT History Month event, Bristol'
 excerpt: Join our event to mark LGBT History Month in Bristol.
 event-date: 2019-02-06 11:00
 location: Conference Room 7, 2 Rivergate, Temple Quay, Bristol BS1 6EH
