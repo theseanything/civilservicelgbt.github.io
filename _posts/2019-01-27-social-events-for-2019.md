@@ -30,7 +30,7 @@ As we always, we're holding regular socials in London from January 2019 through 
 
 ## NEW: Manchester
 
-We're now adding monthly socials in Manchester on the *second Tuesday* of each month, starting on 12 February 2019. Check out all the dates on our [events page](/events).
+We're now adding monthly socials in Manchester on the **second Tuesday** of each month, starting on 12 February 2019. Check out all the dates on our [events page](/events).
 
 ## Pride
 
