@@ -22,7 +22,7 @@ For 2019, we're introducing monthly socials in a new location: Bristol. Our volu
 
 ### Edinburgh
 
-We're slowly kicking off regular social events in Edinburgh. Our next one is on February -- and if there's strong demand, our volunteers are happy to keep organising them. You can check out the details and get in touch with our local organiser, Steven, on the [event page](https://www.civilservice.lgbt/event/2019-02-06-edinburgh-social/).
+We're slowly kicking off regular social events in Edinburgh. Our next one is on 6 February -- and if there's strong demand, our volunteers are happy to keep organising them. You can check out the details and get in touch with our local organiser, Steven, on the [event page](/event/2019-02-06-edinburgh-social/).
 
 ### London
 
