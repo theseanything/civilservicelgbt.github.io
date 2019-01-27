@@ -15,7 +15,7 @@ This event is your chance to meet other LGBT+ civil servants from across governm
 
 Our Manchester socials are on the second Thursday of each month.
 
-Please contact [Matthew Walker](MATTHEW.WALKER1@DWP.GSI.GOV.UK)  if you need more information.
+Please contact [Matthew Walker](mailto:MATTHEW.WALKER1@DWP.GSI.GOV.UK)  if you need more information.
 
 > **Not based in Manchester?** Don't worry, we also hold events in other parts of the UK too. You can find all our events on our website.
 > 
