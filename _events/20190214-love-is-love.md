@@ -3,7 +3,6 @@ title: '“Love is Love”: Dame Sue Owen in conversation with Chris Smith'
 excerpt: This year, to mark LGBT+ History Month, join Dame Sue Owen, DCMS Permanent Secretary and LGBT+ Champion for the Civil Service, in conversation with Chris Smith, Baron of Finsbury.
 event-date: 2019-02-14 18:00:00
 location: 100 Parliament Street, Westminster, London
-email: info@civilservice.lgbt
 link: https://www.eventbrite.co.uk/e/love-is-love-sue-owen-in-conversation-with-chris-smith-tickets-55165569704
 layout: event
 slug: /2019/02/14/love-is-love-sue-owen-chris-smith
