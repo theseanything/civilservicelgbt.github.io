@@ -25,4 +25,4 @@ The event is taking place at the government offices at 2 Rivergate, Temple Quay 
 
 Our BiSpace meet up will also be taking place in Bristol at lunch time; register for [BiSpace on our website](https://www.civilservice.lgbt/event/2019-02-06-bispace-bristol/). 
 
-Both events will be followed by the [Civil Service LGBT+ Network South West’s monthly social]()https://www.civilservice.lgbt/event/2019-02-06-bristol-social/) at The Phoenix from 5pm.
+Both events will be followed by the [Civil Service LGBT+ Network South West’s monthly social](https://www.civilservice.lgbt/event/2019-02-06-bristol-social/) at The Phoenix from 5pm.
