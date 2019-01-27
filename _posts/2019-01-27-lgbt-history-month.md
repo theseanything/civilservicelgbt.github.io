@@ -7,7 +7,7 @@ published: true
 title: 'Events for LGBT History Month 2019'
 permalink: /lgbt-history-month-2019
 redirect_from: /2019/01/27/lgbt-history-month
-excerpt: "These are some of the events taking place across government this LGBT History Month.
+excerpt: "These are some of the events taking place across government this LGBT History Month."
 ---
 
 LGBT History Month is an annual celebration of LGBT history, culture and identities, marked each February in the UK.
