@@ -10,7 +10,7 @@ date: '2019-01-27'
 excerpt: "We've updated our event listings for 2019; check them out."
 ---
 
-> **Update**: We've just added monthly events in Manchester. You can find the details below.
+> **Update**: We've just added monthly events in Manchester, and upcoming events in Cardiff. You can find the details below.
 
 It's 2019, and we've got *a lot* of events planned for this year already. We've updated out [event listings](/events) page with provisional dates already; here's a quick run down.
 
@@ -19,6 +19,10 @@ It's 2019, and we've got *a lot* of events planned for this year already. We've 
 ### Bristol
 
 For 2019, we're introducing monthly socials in a new location: Bristol. Our volunteers in the area will be organising them for the **first Wednesday** of each month, starting in February 2019.
+
+### NEW: Cardiff
+
+Social events are being planned in Cardiff too; the first of which is on 20 February. You can get the details on [the social event page](/event/2019-02-20-cardiff-social/). Details for future socials will be added soon.
 
 ### Edinburgh
 
