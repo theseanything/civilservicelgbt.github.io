@@ -1,13 +1,12 @@
 ---
-title: 'Monthly BiSpace Social, London'
-excerpt: Our monthly social and networking event in London.
-event-date: 2019-02-07 17:00:00
+title: "Monthly BiSpace Social, London"
+excerpt: "Our monthly social and networking event in London."
+event-date: 2019-02-07 17:00
 location: The Hub Lounge and Cafe (Premier Inn), London, SW1H 9LL
-link: >-
-  https://www.eventbrite.co.uk/e/monthly-bi-social-london-tickets-54657396745
+link: https://www.eventbrite.co.uk/e/monthly-bi-social-london-tickets-54657396745
 email: mary.peart@civilservice.lgbt
 layout: event
-slug: /2019/02/07/bispace-london
+slug: /2019/02/07/bispace-social-london
 published: true
 ---
 Join us for a monthly social event, run by bi+ civil servants, for bi+ civil servants. It is a chance to meet fellow bisexual, queer, pansexual and asexual civil servants over a cup of tea or glass of wine (completely up to you - this venue does both!)
