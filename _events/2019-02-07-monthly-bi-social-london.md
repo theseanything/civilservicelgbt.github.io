@@ -17,4 +17,4 @@ This venue is a chilled café/bar with sofas and comfy seats, hot drinks, snacks
 
 Mary Peart, our Bi Lead, [looks like this](https://www.linkedin.com/in/marypeart/) and if you can’t find her, text 07899954623 on the night.
 
-We will run this event every month on the same evening as the monthly [CS LGBT+ Network drinks](https://www.civilservice.lgbt/event/2018-12-06-london-social/) in Soho and we can go there afterwards.
+We will run this event every month on the same evening as the monthly [CS LGBT+ Network drinks](https://www.civilservice.lgbt/event/2019-02-07-london-social/) in Soho and we can go there afterwards.
