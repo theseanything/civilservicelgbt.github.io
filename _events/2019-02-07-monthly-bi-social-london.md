@@ -1,5 +1,5 @@
 ---
-title: 'Monthly Mini BiSpace, London'
+title: 'Monthly BiSpace Social, London'
 excerpt: Our monthly social and networking event in London.
 event-date: 2019-02-07 17:00:00
 location: The Hub Lounge and Cafe (Premier Inn), London, SW1H 9LL
