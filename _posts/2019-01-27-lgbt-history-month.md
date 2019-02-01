@@ -29,6 +29,7 @@ Civil Service LGBT+ Network volunteers, and a number of local departmental netwo
 | [Love Is Love](/event/2019-02-14-love-is-love-sue-owen-chris-smith/) | London         | 14 February 2019       |
 | [History Month event and social](/event/2019-02-20-lgbt-history-month-cardiff) | Cardiff | 20 February 2019 |
 | [Monthly social](/event/2019-02-20-cardiff-social/)         | Cardiff           | 20 February 2019        |
+| [LGBT History Month event, in conversation with Dame Sue Owen](/event/2019-02-27-lgbt-history-month-sue-owen/) | London         | 27 February 2019       |
 
 > **Want your event listed here?**
 >
