@@ -8,7 +8,7 @@ email: caroline.airs@cabinetoffice.gov.uk
 layout: event
 slug: /2019/02/27/lgbt-history-month-sue-owen
 published: true
-author: Civil Service Diversity and Inclusion Team, Civil Service LGBT+ Network, a:gender
+author: "Civil Service Diversity and Inclusion Team, Civil Service LGBT+ Network, a:gender"
 ---
 
 Join us for this two hour event reflecting on the changes inside the Civil Service over the past 30 years for LGBT History Month.
