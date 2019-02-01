@@ -33,4 +33,4 @@ Civil Service LGBT+ Network volunteers, and a number of local departmental netwo
 
 > **Want your event listed here?**
 >
-> If you or you're network is running an event, and it's not listed here, [get in touch](/about/contact-us/) and we'll be happy to add it to our website.
+> If you or your network is running an event, and it's not listed here, [get in touch](/about/contact-us/) and we'll be happy to add it to our website.
