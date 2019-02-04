@@ -1,9 +1,9 @@
 ---
-title: 'LGBT History Month event, Bristol'
-excerpt: Join our event to mark LGBT History Month in Bristol.
+title: "LGBT History Month event, Bristol"
+excerpt: "Join our event to mark LGBT History Month in Bristol."
 event-date: 2019-02-06 11:00
-location: Conference Room 7, 2 Rivergate, Temple Quay, Bristol BS1 6EH
-email: lgbt@ofsted.gov.uk
+location: "Conference Room 7, 2 Rivergate, Temple Quay, Bristol BS1 6EH"
+email: "lgbt@ofsted.gov.uk"
 layout: event
 slug: /2019/02/06/lgbt-history-month-bristol
 published: true
