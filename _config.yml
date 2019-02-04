@@ -151,6 +151,12 @@ collections:
     defaults:
       values:
         layout: event
+  past-events:
+    output: true
+    permalink: /event/:title/
+    defaults:
+      values:
+        layout: event
   manuals:
     output: true
     permalink: /manual/:title/
