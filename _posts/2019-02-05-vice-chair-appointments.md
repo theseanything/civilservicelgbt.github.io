@@ -4,8 +4,8 @@ author: Kate Hughes and John Peart
 preview: true
 published: true
 title: "Become a vice chair for the Civil Service LGBT+ Network"
-permalink: 2019/02/06/vice-chair-appointments
-date: '2019-02-06'
+permalink: 2019/02/05/vice-chair-appointments
+date: '2019-02-05'
 excerpt: "We’re opening up additional vice chair positions, and here’s how you can apply."
 ---
 
@@ -32,7 +32,7 @@ Your personal statement should:
 
 The deadline for applications is 1 March 2019. Late applications will not be accepted.
 
-Applications will be marked on a 1 to 7 scale, as used is standard Civil Service recruitment.
+Applications will be marked on a 1 to 7 scale, as used in standard Civil Service recruitment.
 
 If you score above the minimum pass mark, you will be invited to interview in late March and will commence the role from 1 April 2019.
 
