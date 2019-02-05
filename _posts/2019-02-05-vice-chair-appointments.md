@@ -48,4 +48,4 @@ The vice-chair role can be demanding, and you should expect to spend at least tw
 
 The role is entirely voluntary, but expenses can usually be paid for costs incurred whilst undertaking network activity. 
 
-If you have any questions, please contact [contact us](mailto:info@civilservice.lgbt).
+If you have any questions, please [contact us](mailto:info@civilservice.lgbt).
