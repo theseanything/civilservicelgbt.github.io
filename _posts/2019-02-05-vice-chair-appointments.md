@@ -1,7 +1,7 @@
 ---
 layout: news
 author: Kate Hughes and John Peart
-preview: true
+preview: false
 published: true
 title: "Become a vice chair for the Civil Service LGBT+ Network"
 permalink: 2019/02/05/vice-chair-appointments
