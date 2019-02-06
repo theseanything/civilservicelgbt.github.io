@@ -2,7 +2,7 @@
 title: 'Civil Service LGBT+ social, London'
 excerpt: Our monthly social and networking event in London.
 event-date: 2019-02-07 18:00:00
-location: London
+location: The Two Chairmen, 39 Dartmouth Street, Westminster, SW1H 9BP
 no-register: "You don't need to register for this event. Just turn up."
 layout: event
 slug: /2019/02/07/london-social

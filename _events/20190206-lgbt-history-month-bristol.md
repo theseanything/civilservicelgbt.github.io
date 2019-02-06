@@ -1,9 +1,9 @@
 ---
-title: 'LGBT History Month event, Bristol'
-excerpt: Join our event to mark LGBT History Month in Bristol.
+title: "LGBT History Month event, Bristol"
+excerpt: "Join our event to mark LGBT History Month in Bristol."
 event-date: 2019-02-06 11:00
-location: Conference Room 7, 2 Rivergate, Temple Quay, Bristol BS1 6EH
-email: lgbt@ofsted.gov.uk
+location: "Conference Room 7, 2 Rivergate, Temple Quay, Bristol BS1 6EH"
+email: "lgbt@ofsted.gov.uk"
 layout: event
 slug: /2019/02/06/lgbt-history-month-bristol
 published: true
@@ -20,6 +20,16 @@ Bristolian Michael Dillon, possibly the first trans man in the world to have a
 phalloplasty (3pm)
 
 There will be a bake sale at lunchtime (1-1:30pm) with all proceeds donated to an LGBT+ charity.
+
+Full list of sessions:
+
+- 11:00 to 11:15: Welcome and introductions
+- 11:15 to 12:00: Completing Stonewall’s Workplace Equality Index
+- 12:00 to 13:00: Being the parent of a trans child
+- 13:00 to 13:45: Networking lunch and charity bake sale
+- 13:45 to 14:30: Drop-in session
+- 14:30 to 15:00: Screening - Talking LGBT+ Bristol
+- 15:00 to 15:30: OutStories Bristol - Michael Dillon: Trans Pioneer
 
 The event is taking place at the government offices at 2 Rivergate, Temple Quay in Bristol between 11am and 3:30pm. Civil servants from all departments are welcome, but please contact [lgbt@ofsted.gov.uk](mailto:lgbt@ofsted.gov.uk) from your Civil Service email account to gain access if you do not work at 2 Rivergate and bring your government ID/building pass for reception. You are welcome to attend as many of the sessions throughout the day as you like.
 
