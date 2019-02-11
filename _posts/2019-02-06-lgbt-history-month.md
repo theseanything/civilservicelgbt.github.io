@@ -1,14 +1,17 @@
 ---
 layout: news
 author: Civil Service LGBT+ Network
-date: '2019-01-27 10:00'
+date: '2019-02-06 10:00'
 preview: false
 published: true
-title: 'Events for LGBT History Month 2019'
+title: 'Updated: Events for LGBT History Month 2019'
 permalink: /lgbt-history-month-2019
 redirect_from: /2019/01/27/lgbt-history-month
+redirect_from: /2019/02/06/lgbt-history-month
 excerpt: "These are some of the events taking place across government this LGBT History Month."
 ---
+
+> We’ve added an additional event on 27 February, working together with the Civil Service Diversity and Inclusion Team and a:gender.
 
 LGBT History Month is an annual celebration of LGBT history, culture and identities, marked each February in the UK.
 
