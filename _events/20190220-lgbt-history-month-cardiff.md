@@ -10,12 +10,14 @@ published: true
 author: PRISM, DWPride and PiPP
 ---
 
-You are invited to an event organsied by the Welsh Government, DWP and HMPPS LGBT networks to mark LGBT History Month. The speaker and social event on Wednesday 20th February starts at 4pm at Caerdyyd 1 and 2.
- 
-Prism, DWPride, Pride in Prisons and Probation (PiPP), and other Wales, and wider Networks are working together on a night to remember!
- 
-Holly Greenberry from Intersex UK will speaking about exactly what intersex means and how we can become advocates for, and allies to, our intersex colleagues, friends and family.
- 
-This will be followed by a social event at Mary’s in St Mary’s Street where we have secured an area and hope to provide a drink and a few nibbles.
- 
+Our South Wales Cross Network speaker and social event will take place on February 20th 2019.
+
+Join us at Cardiff University’s Main Building, Student Lecture Theatre at 5.10pm for Lloyd Llewellyn-Jones, "Alexander the Great – Boy Friend, Gay Warrior, Porn King.’
+
+After the Lecture, organised by the School of History, Archaeology and Religion we will then pop along to Mary’s in St Mary’s Street where we have secured an area and hope to provide a drink and a few nibbles.
+
+This event is part of LGBT (Lesbian, Gay. Bisexual, Trans) History Month  which takes place every year in February and celebrates the lives and achievements of the LGBT community. This year’s theme is Peace, Activism and Reconciliation.
+
+Welsh Government are proud to support the annual celebration and will be flying the Rainbow Flag from key buildings in Wales.
+
 The event is part of LGBT History Month.

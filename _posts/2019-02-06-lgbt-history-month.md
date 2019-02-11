@@ -34,6 +34,7 @@ Civil Service LGBT+ Network volunteers, and a number of local departmental netwo
 | [Monthly social](/event/2019-02-20-cardiff-social/)         | Cardiff           | 20 February 2019        |
 | [History month event at the National Army Museum](/event/2019-02-21-mod-shout-history-month/)         | London           | 21 February 2019        |
 | [LGBT History Month event,<br>in conversation with Dame Sue Owen](/event/2019-02-27-lgbt-history-month-sue-owen/) | London         | 27 February 2019       |
+| [History Month event](/event/2019-03-15-lgbt-history-month-cardiff) | Cardiff | 15 March 2019 |
 
 > **Want your event listed here?**
 >
