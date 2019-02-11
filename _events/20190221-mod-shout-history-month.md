@@ -2,7 +2,7 @@
 title: 'MOD Sh..OUT LGBT+ History Month Event'
 excerpt: An event for LGBT History Month led by the Ministry of Defence LGBT network.
 event-date: 2019-02-21 18:00:00
-location: National Army Museum, 
+location: National Army Museum, London 
 link: https://forms.office.com/Pages/ResponsePage.aspx?id=7WB3vlNZS0iuldChbfoJ5SvTP6rtpK1Kut42zebGiWZUMzkyV1ZBQUZNRkIyTldOOEwzSzVaVzVGRy4u
 layout: event
 slug: /2019/02/21/mod-shout-history-month
