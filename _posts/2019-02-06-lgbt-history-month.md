@@ -11,7 +11,7 @@ redirect_from: /2019/02/06/lgbt-history-month
 excerpt: "These are some of the events taking place across government this LGBT History Month."
 ---
 
-> We’ve added additional events on 21 February and 27 February.
+> We’ve added additional events on 21 February and 27 February, and amended some events in Cardiff.
 
 LGBT History Month is an annual celebration of LGBT history, culture and identities, marked each February in the UK.
 
