@@ -1,5 +1,5 @@
 ---
-title: 'LGBT History Month event and social, Cardiff'
+title: 'LGBT History Month event, Cardiff'
 excerpt: To mark LGBT+ History Month, Prism, DWPride and PiPP have teamed up to hold and LGBT History Month event
 event-date: 2019-03-15 12:00:00
 location: Room 4.27, Cathays Park, Cardiff
