@@ -1,12 +1,11 @@
 ---
-title: 'International Women's Day event, Cardiff'
+title: "International Women's Day event, Cardiff"
 excerpt: Join the Welsh Government LGBT+ Network, Prism, to celebrate International Women's Day in Cardiff.
 event-date: 2019-03-15 12:00:00
 location: Caerdydd 1 and 2, Cathays park, Cardiff
 email: prism@gov.wales
 layout: event
 slug: /2019/03/08/international-women's-day-cardiff
-published: true
 ---
 
 Please come and join us, and our Women Together Network on Friday March 8th from 12 noon to 2pm in Caerdydd 1 and 2, Cathays park, Cardiff
