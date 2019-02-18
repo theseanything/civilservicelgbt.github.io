@@ -10,4 +10,4 @@ The Civil Service Diversity and Inclusion Policy team is developing a Faith and 
 
 They are particularly keen to hear from people who identify as LGBT+ and hear how their departments have created an inclusive environment for staff with respect to faith and belief. 
 
-If you would like to contribute, please contact [Natalie Ogene](natalie.ogene@cabinetoffice.gov.uk), Faith and Belief Policy Adviser. 
+If you would like to contribute, please contact [Natalie Ogene](mailto:natalie.ogene@cabinetoffice.gov.uk), Faith and Belief Policy Adviser. 
