@@ -2,11 +2,14 @@
 layout: news
 author: Kate Hughes and John Peart
 published: true
-title: "Become a vice chair for the Civil Service LGBT+ Network"
-permalink: 2019/02/05/vice-chair-appointments
-date: "2019-02-05"
+title: "Applications extended: Become a vice chair for the Civil Service LGBT+ Network"
+permalink: 2019/03/01/vice-chair-appointments
+redirect_from: 2019/02/05/vice-chair-appointments
+date: "2019-03-01"
 excerpt: "We’re opening up additional vice chair positions, and here’s how you can apply."
 ---
+
+> We've extended the application window for these posts for another month. If you're interested, you now have until 1 April 2019 to apply.
 
 The Civil Service LGBT+ Network is led entirely by volunteers. Currently around 50 volunteers from across government are involved in delivering our projects, running our events, and representing your views to senior leaders in the Civil Service. 
 
@@ -29,11 +32,11 @@ Your personal statement should:
 
 ### Application deadline 
 
-The deadline for applications is 1 March 2019. Late applications will not be accepted.
+The deadline for applications is 1 April 2019. Late applications will not be accepted.
 
 Applications will be marked on a 1 to 7 scale, as used in standard Civil Service recruitment.
 
-If you score above the minimum pass mark, you will be invited to interview in late March and will commence the role from 1 April 2019.
+If you score above the minimum pass mark, you will be invited to interview in late April and will commence the role from 1 May 2019.
 
 ## Role description
 

@@ -4,7 +4,7 @@ excerpt:	  					"Join us in the Pride in London parade."
 
 event-date:	 					2019-07-06 12:00
 location: 					"London"
-email: 						info@civilservice.lgbt
+no-register: "Registration for this event will open in late March 2019."
 
 layout: 						event
 slug:						/2019/07/06/pride-in-london

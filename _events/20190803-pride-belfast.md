@@ -4,7 +4,7 @@ excerpt:	  					"Join us in the Pride Belfast parade."
 
 event-date:	 					2019-08-03
 location: 						"Belfast"
-email: 							info@civilservice.lgbt
+no-register: "Registration for this event will open in late March 2019."
 
 layout: 						event
 slug:							/2019/08/03/pride-belfast
