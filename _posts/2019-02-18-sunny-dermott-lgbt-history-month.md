@@ -1,7 +1,7 @@
 ---
 title: "Sharing my identity"
-author: "Sunny Dermott"
-excerpt: "Sunny works in the Central Gatekeeper Team at the RPA. In this post, they share why it's important for them to share their identity as a pansexual person."
+author: "Sunny Thompson"
+excerpt: "Sunny works in the Scheme Control Framework team at the RPA. In this post, they share why it's important for them to share their identity as a pansexual person."
 layout: news
 permalink: /2019-02-18-sunny-dermott-lgbt-history-month/
 ---
