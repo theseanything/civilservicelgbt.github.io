@@ -1,21 +1,25 @@
 ---
 title: "International Women's Day event, Cardiff"
 excerpt: Join the Welsh Government LGBT+ Network, Prism, to celebrate International Women's Day in Cardiff.
-event-date: 2019-03-15 12:00:00
-location: Caerdydd 1 and 2, Cathays park, Cardiff
-email: prism@gov.wales
+event-date: 2019-03-08 12:30:00
+location: Cardiff, with video-conference links to other sites.
+email: womentogether@gov.wales
 layout: event
-slug: /2019/03/08/international-women's-day-cardiff
+slug: /2019/03/08/international-womens-day-cardiff
 ---
 
-Please come and join us, and our Women Together Network on Friday March 8th from 12 noon to 2pm in Caerdydd 1 and 2, Cathays park, Cardiff
-
-Cindy will be with us to talk to us about the highs and lows of the women’s events on International Women’s Day.
-
-Cindy is the founder & festival director of L Fest, the UK’s only lesbian festival, Cindy set up L Fest in 2011 and now in its 9th year it has gone from 250 guests to over 1000 women enjoying a weekend festival. Within the success of L Fest, L Fest del Mar was born in south east Spain and has also seen success for the last 6 years, enabling women to experience a holiday surrounded by LGBT women.
-
-Cindy has more recently set up a farm barn wedding venue with partner Beki and they are home to 20 weddings per year.
-
-International Women's Day is annually held on March 8 to celebrate women's achievements throughout history and across nations. It is also known as the United Nations (UN) Day for Women's Rights and International Peace.
-
-The International Women's Day 2019 campaign theme of #BalanceforBetter is a call-to-action for driving gender balance across the world. How will you help make a difference?
+Welsh Government staff diversity networks are holding a joint International Women’s Day event on Friday 8 March.
+ 
+The event will be fro 12:30 to 14:00 in Caerdydd 1 and 2, Cardiff with video-conference links to Aberystwyth (Meeting Room 20), Llandudno Junction (Eifionydd), Merthyr (Gelli) and Treforest/QED (The Cedars).
+ 
+You will hear from some inspirational speakers including:
+ 
+- Uzo Iwobi; Chief Executive Officer of Race Council Cymru;
+- Rhian Davies; Chief Executive Disability Wales;
+- Cindy Edwards, founder and Director of the Lfest, UK's Award Winning Lesbian Music, Arts & Comedy Festival; and
+- Yasmin Khan; National Adviser Violence against Women, Domestic Abuse and Sexual Violence
+ 
+Come and help celebrate diversity in all its many forms.
+ 
+Everyone is welcome - please book your space by emailing
+[womentogether@gov.wales](mailto:womentogether@gov.wales). Please indicate where you will be attending: Cardiff, Merthyr, Llandudno Junction, Aberystwyth, or Treforest.
