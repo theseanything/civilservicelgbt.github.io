@@ -2,7 +2,7 @@
 title: 'Civil Service LGBT+ social, London'
 excerpt: Our monthly social and networking event in London.
 event-date: 2019-03-07 18:00:00
-location: London
+location: Little Ku (25 Frith St, Soho, London W1D 5LB)
 no-register: "You don't need to register for this event. Just turn up."
 layout: event
 slug: /2019/03/07/london-social
