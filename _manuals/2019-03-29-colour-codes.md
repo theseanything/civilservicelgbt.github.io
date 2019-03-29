@@ -1,5 +1,5 @@
 ---
-title:  				"Colours"
+title:  				"Use of colour"
 excerpt:	  			"This guidance includes information on the use of colour on Civil Service LGBT+ Network products"
 
 categories: 			volunteers
@@ -20,66 +20,28 @@ preview:				false
 <div id="page-content" markdown="1">
 <!-- Don't remove the line of code above -->
 
+## About this guidance
 
-Use the "Manual" document layout to publish guidance, policy and resources. Store these posts in the `_manuals` folder.
+**This guidance explains how to use colour when producing Civil Service LGBT+ Network products.**
 
-When these posts are printed using modern browsers like Microsoft Edge, Google Chrome or Mozilla Firefox, these manuals automatically print as properly formatted A4 documents.
+## Use of colour
 
-## File setup 
+In print design, designers work with 4 base colours - cyan, magenta, yellow and black - and combine them to make all the colours they need. Our use of colour in both digital and print products is based on the same idea: it reflects our belief that many parts come together to make a better, bolder whole.
 
-### Filenames
+Always use the colour palette below when designing your products.
 
-**Important!** Use this format for the filename: `YYYY-MM-DD-title-of-manual`.
+## Colour codes
 
-### Post front matter
+| Colour name			| Hex code			| RGB code				|
+|-----------------------|-------------------|-----------------------|
+| Black					| #000000			| rgb(0, 0, 0)			|
+| Magenta				| #e6007e			| rgb(230, 0, 126)		|
+| Cyan					| #009fe3			| rgb(0, 159, 227)		|
+| Yellow				| #ffed00			| rgb(255, 237, 0)		|
+| Red					| #e30613			| rgb(227, 6, 19)		|
+| Green					| #00853e			| rgb(0, 133, 62)		|
+| Green					| #312783			| rgb(49, 39, 131)		|
 
-You will need to include the following information in the post's front matter.
-
-``` liquid
-title:  "Manual template"
-date:   2000-01-01
-
-layout: manual
-```
-
-If you need to override the slug from the post's URL, add the following information to the post's front matter:
-
-``` liquid
-slug: manual-template
-```
-
-By default, the slug will be the same as the filename, without the date information.
-
-### Table of contents
-
-All manuals should have a Table of Contents. These are generated automatically from level 2 heading titles (i.e. `## Titles`).
-
-You **must** include the following at the beginning of each manual, **after the front matter**:
-
-``` html
-<!-- Include the following to generate a Table of Contents -->
-* Table of contents will generate here
-{:toc}
-<!-- Don't touch the Table of Contents above -->
-
-<!-- Include this line to process the Markdown and format the content properly -->
-<div id="page-content" markdown="1">
-<!-- Don't remove the line of code above -->
-```
-
-At the **end** of each post, **after your content** include the following:
-
-```
-<!-- Include this line to process the Markdown and format the content properly -->
-</div>
-<!-- Don't remove the line of code above -->
-```
-
-## Manual content
-
-Include your content as you do with any other post, using headings to separate sections. 
-
-When printing, level 2 headings (i.e. `## Titles`) will always start on a new page; all other headings stay in flow of the document.
 
 <!-- Include this line to process the Markdown and format the content properly -->
 </div>
