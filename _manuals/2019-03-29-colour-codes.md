@@ -30,17 +30,20 @@ In print design, designers work with 4 base colours - cyan, magenta, yellow and 
 
 Always use the colour palette below when designing your products.
 
+Use magenta, cyan and yellow as the primary colours, in conjunction with black or white in any products. Use red, green and purple colours if you need a wider palette.
+
 ## Colour codes
 
 | Colour name			| Hex code			| RGB code				|
 |-----------------------|-------------------|-----------------------|
 | Black					| #000000			| rgb(0, 0, 0)			|
+| White					| #ffffff			| rgb(255, 255, 255)	|
 | Magenta				| #e6007e			| rgb(230, 0, 126)		|
 | Cyan					| #009fe3			| rgb(0, 159, 227)		|
 | Yellow				| #ffed00			| rgb(255, 237, 0)		|
 | Red					| #e30613			| rgb(227, 6, 19)		|
 | Green					| #00853e			| rgb(0, 133, 62)		|
-| Green					| #312783			| rgb(49, 39, 131)		|
+| Purple				| #312783			| rgb(49, 39, 131)		|
 
 
 <!-- Include this line to process the Markdown and format the content properly -->
