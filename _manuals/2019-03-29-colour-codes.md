@@ -8,7 +8,7 @@ layout: 				manual
 slug:					/colours
 
 published:				true
-preview:				true
+preview:				false
 ---
 
 <!-- Include the following to generate a Table of Contents -->
