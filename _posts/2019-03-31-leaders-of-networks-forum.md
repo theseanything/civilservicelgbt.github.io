@@ -5,7 +5,7 @@ preview: false
 published: true
 title: "The next Leaders of Networks Forum is on 25 April 2019"
 permalink: 2019/03/31/call-for-agenda-items-leaders-of-networks-forum
-date: '2019-01-03'
+date: '2019-03-31'
 excerpt: "This month, we will hold our second 'Leaders of Networks Forum'. If you're a leader of a network, register to attend and submit your agenda items."
 ---
 
