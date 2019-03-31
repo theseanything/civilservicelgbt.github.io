@@ -4,7 +4,7 @@ author: "Civil Service LGBT+ Network"
 excerpt: "We're planning to take part in a number of Pride events across the UK again this year. Here's what we've got planned so far, and what you need to know."
 layout: news
 image: /assets/images/posts/pride-2019.png
-permalink: /2019/04/01/register-for-pride-2019/
+permalink: /2019/03/31/register-for-pride-2019/
 redirect_from: /register-pride-2019/
 ---
 
