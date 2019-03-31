@@ -12,6 +12,14 @@ slug:							/2019/07/20/northern-pride-newcastle
 
 Come and join the Civil Service at Northern Pride in Newcastle.
 
-**Registration for this event will open in March 2019**. You cannot register for a place yet.
+## How to register
+
+You can register to attend by [completing this registration form](https://forms.gle/23Trq8wuLa7VroJJ9).
+
+We will use the information you provide to send you details for the event and to monitor the diversity of our group.
+
+We aim to send final event information to you around 2 weeks before the event.
+
+## Find out more 
 
 Find out [more information about Northern Pride](https://www.northern-pride.com/pridefestival/) on their website.
