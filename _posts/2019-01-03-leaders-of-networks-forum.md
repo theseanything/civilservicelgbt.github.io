@@ -4,7 +4,7 @@ author: John Peart
 preview: false
 published: true
 title: "Creating a Leaders of Networks Forum"
-permalink: 2019/01/03/
+permalink: 2019/01/03/creating-a-leaders-of-networks-forum
 date: '2019-01-03'
 excerpt: "In our business plan, we committed to setting up a forum for network chairs and leaders. Here's what we're planning to do."
 ---
