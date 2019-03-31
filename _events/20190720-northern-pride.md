@@ -4,7 +4,7 @@ excerpt:	  					"Join us in the Pride in Newcastle."
 
 event-date:	 					2019-07-20
 location: 						"Preston"
-no-register: 					"Registration for this event will open in late March 2019."
+link:							"https://forms.gle/23Trq8wuLa7VroJJ9"
 
 layout: 						event
 slug:							/2019/07/20/northern-pride-newcastle
