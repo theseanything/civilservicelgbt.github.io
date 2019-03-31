@@ -9,7 +9,7 @@ date: "2019-03-01"
 excerpt: "We’re opening up additional vice chair positions, and here’s how you can apply."
 ---
 
-> We've extended the application window for these posts for another month. If you're interested, you now have until 1 April 2019 to apply.
+> This is your final reminder: we've extended the application window for these posts for another month. If you're interested, you now have until 11:59pm on 1 April 2019 to apply.
 
 The Civil Service LGBT+ Network is led entirely by volunteers. Currently around 50 volunteers from across government are involved in delivering our projects, running our events, and representing your views to senior leaders in the Civil Service. 
 
@@ -32,7 +32,7 @@ Your personal statement should:
 
 ### Application deadline 
 
-The deadline for applications is 1 April 2019. Late applications will not be accepted.
+The deadline for applications is 11:59pm on 1 April 2019. Late applications will not be accepted.
 
 Applications will be marked on a 1 to 7 scale, as used in standard Civil Service recruitment.
 
