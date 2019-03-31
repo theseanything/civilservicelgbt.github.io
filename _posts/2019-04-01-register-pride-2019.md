@@ -1,0 +1,37 @@
+---
+title: "Pride 2019: Everything you need to know"
+author: "Civil Service LGBT+ Network"
+excerpt: "We're planning to take part in a number of Pride events across the UK again this year. Here's what we've got planned so far, and what you need to know."
+layout: news
+image: /assets/images/posts/pride-2019.png
+permalink: /2019/04/01/register-for-pride-2019/
+redirect_from: /register-pride-2019/
+---
+
+This year, the Civil Service LGBT+ Network will be taking part in a number of Prides across the country. 
+
+You can find out more about which Pride events we're planning to attend in [our recent news post](/2019/03/01/pride-2019-what-you-need-to-know/).
+
+## Registrations are now open
+
+**Registrations for all Pride events are now open**. 
+
+### Pride events outside London 
+
+For Pride events taking place outside of London, just [complete this form](https://forms.gle/23Trq8wuLa7VroJJ9) and you will be registered to attend.
+
+We will send you final details for the event around 2 weeks in advance of the event date. We may also contact you before the event so that you can order t-shirts and other Pride materials for your local event.
+
+### Pride in London
+
+Places in the Civil Service group for Pride in London will be allocated via a lottery. This is because places are limited in the parade and we want to ensure everyone gets a fair chance to attend.
+
+To register your interest, [complete the registration form](https://forms.gle/23Trq8wuLa7VroJJ9) and make sure you tick 'London' when asked which events you want to attend.
+
+We will close registrations in May, and allocate places once registrations are closed. We expect to be able to confirm your place no less than 4 weeks before the event.
+
+## Questions
+
+If you have questions about this process, you can email <info@civilservice.lgbt>. Please note that this inbox is staffed by volunteers and we get a lot of email -- it might take a while to reply to you.
+
+**Only email us to ask for updates if the event you want to attend is less than 2 weeks away and you haven't heard from us.** The more emails we receive, the less time we have to organise things for you.
