@@ -32,8 +32,8 @@ The event is open to anyone who helps to lead a Civil Service LGBT+ staff networ
 
 There are no specific papers for this meeting, but you may wish to familiarise yourself with:
 
-1. [The Civil Service LGBT+ Network Business Plan]()
-2. [The results of the Stonewall Workplace Equality Index]()
+1. The Civil Service LGBT+ Network Business Plan
+2. The results of the Stonewall Workplace Equality Index
 
 ## Any other business
 
