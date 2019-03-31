@@ -1,7 +1,7 @@
 ---
-title: "Pride 2019: Everything you need to know"
+title: "Register to attend Civil Service Pride 2019 events"
 author: "Civil Service LGBT+ Network"
-excerpt: "We're planning to take part in a number of Pride events across the UK again this year. Here's what we've got planned so far, and what you need to know."
+excerpt: "Here's the information you need to register for Pride 2019 events with the Civil Service."
 layout: news
 image: /assets/images/posts/pride-2019.png
 permalink: /2019/03/31/register-for-pride-2019/
