@@ -1,11 +1,16 @@
 ---
-title: "Register to attend Civil Service Pride 2019 events"
-author: "Civil Service LGBT+ Network"
-excerpt: "Here's the information you need to register for Pride 2019 events with the Civil Service."
 layout: news
+title: Register to attend Civil Service Pride 2019 events
+author: Civil Service LGBT+ Network
+excerpt: >-
+  Here's the information you need to register for Pride 2019 events with the
+  Civil Service.
 image: /assets/images/posts/pride-2019.png
 permalink: /2019/03/31/register-for-pride-2019/
 redirect_from: /register-pride-2019/
+published: true
+date: '2000-01-01 00:00'
+preview: false
 ---
 
 This year, the Civil Service LGBT+ Network will be taking part in a number of Prides across the country. 
@@ -20,6 +25,8 @@ You can find out more about which Pride events we're planning to attend in [our 
 
 For Pride events taking place outside of London, just [complete this form](https://forms.gle/23Trq8wuLa7VroJJ9) and you will be registered to attend.
 
+**Please note:** This registration form may be blocked on some departmental IT systems -- if this is the case, you should try to access it on another system, like a smartphone or your home computer.
+
 We will send you final details for the event around 2 weeks in advance of the event date. We may also contact you before the event so that you can order t-shirts and other Pride materials for your local event.
 
 ### Pride in London
@@ -27,6 +34,8 @@ We will send you final details for the event around 2 weeks in advance of the ev
 Places in the Civil Service group for Pride in London will be allocated via a lottery. This is because places are limited in the parade and we want to ensure everyone gets a fair chance to attend.
 
 To register your interest, [complete the registration form](https://forms.gle/23Trq8wuLa7VroJJ9) and make sure you tick 'London' when asked which events you want to attend.
+
+**Please note:** This registration form may be blocked on some departmental IT systems -- if this is the case, you should try to access it on another system, like a smartphone or your home computer.
 
 We will close registrations in May, and allocate places once registrations are closed. We expect to be able to confirm your place no less than 4 weeks before the event.
 
