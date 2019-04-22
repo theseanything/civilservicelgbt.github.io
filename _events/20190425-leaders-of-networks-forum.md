@@ -13,7 +13,7 @@ The Leaders of Networks Forum is a new regular event that will help shape the wo
 
 The event is open to anyone who helps to lead a Civil Service LGBT+ staff network in a department, agency or arm's length body, or to anyone that volunteers with the Civil Service LGBT+ Network itself.
 
-**Registrations for this event have now closed.**. 
+**Registrations for this event have now closed.**
 
 ## Agenda
 
@@ -30,6 +30,4 @@ The agenda for this meeting is below. Please notify us in advance of any other b
 
 ## Google Hangouts video conferencing
 
-It is possible to attend this meeting remotely via Google Hangouts.
-
-If you would like to use this facility, please indicate this in your email.
+It is possible to attend this meeting remotely via Google Hangouts. Details for this have been sent to all registered attendees.
