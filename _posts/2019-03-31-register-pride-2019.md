@@ -9,7 +9,6 @@ image: /assets/images/posts/pride-2019.png
 permalink: /2019/03/31/register-for-pride-2019/
 redirect_from: /register-pride-2019/
 published: true
-date: '2000-01-01 00:00'
 preview: false
 ---
 
