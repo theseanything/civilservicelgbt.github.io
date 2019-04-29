@@ -19,7 +19,7 @@ Speaking about the award, Chief People Officer and Diversity and Inclusion Award
 > "It is a great privilege to launch the 2019 Civil Service Diversity & Inclusion Awards.  
 > 
 > The Awards are now in their 13th year, and it is incredibly inspiring to see the range of nominations each year, demonstrating all the passionate and creative work happening across government.  
- 
+>
 > One of my top priorities is for the Civil Service to be the UK’s most inclusive employer, representative of modern Britain and the public we serve. The Awards offer us a chance to recognise and champion those behaviours that build a more inclusive culture - ensuring fairness, making sure nothing holds our people back from making their best contribution, and making better decisions collectively.  
 >
 > Being nominated for the Diversity & Inclusion awards is recognition of the contribution and success of those colleagues who have gone out of their way to champion difference and make the Civil Service a better place to work. 
