@@ -12,6 +12,7 @@ image: /assets/images/posts/Civil-Service-Live-no-date.png
 image-alt: Civil Service Live
 ---
 
+
 ## Civil Service Live – we need your input!
 
 This year the Civil Service Diversity & Inclusion team are running sessions at each of the Civil Service Live events on Bullying Harassment and Discrimination and how it affects LGBTI people. They would like our help in two parts of this:
