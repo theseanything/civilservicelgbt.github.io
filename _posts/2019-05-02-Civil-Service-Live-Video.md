@@ -1,3 +1,7 @@
+This will hopefully tell you all you need to know about filming for the Civil Service Live events. If you have any questions please email info@civilservice.lgbt 
+
+Please submit your videos to us by 8th May 2019
+
 1. Please email us for a document with tips on how to shoot good video - it is worth whoever is going to do the filming having a look at it before they start. Particular points to note:
 - it's best to shoot horizontal - i.e landscape rather than portrait
 - it is easier for editing if the subject is to the side - i.e. off centre
