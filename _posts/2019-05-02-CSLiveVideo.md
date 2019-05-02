@@ -1,4 +1,4 @@
-1. Please see attached document with tips on how to shoot good video - it is worth whoever is going to do the filming having a look at it before they start. Particular points to note:
+1. Please email us for a document with tips on how to shoot good video - it is worth whoever is going to do the filming having a look at it before they start. Particular points to note:
 - it's best to shoot horizontal - i.e landscape rather than portrait
 - it is easier for editing if the subject is to the side - i.e. off centre
 - it's best if the subject is wearing block colours rather than checks or stripes
