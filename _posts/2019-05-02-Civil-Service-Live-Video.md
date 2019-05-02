@@ -1,4 +1,20 @@
-This will hopefully tell you all you need to know about filming for the Civil Service Live events. If you have any questions please email info@civilservice.lgbt 
+---
+layout: news
+author: Civil Service LGBT+ Network
+date: '2019-05-02'
+preview: false
+published: true
+title: Civil Service Live Video Clips
+excerpt: "This should tell you all you need to know about submitting a video for the Civil Service Live workshops."
+permalink: /2019/05/02/Civil-Service-Live-Video
+redirect_from: /Civil-Service-Live-Video/
+image: /assets/images/posts/Civil-Service-Live-Video-no-date.png
+image-alt: Civil Service Live Video
+---
+
+## This will hopefully tell you all you need to know about filming for the Civil Service Live events. 
+
+If you have any questions please email info@civilservice.lgbt 
 
 Please submit your videos to us by 8th May 2019
 
