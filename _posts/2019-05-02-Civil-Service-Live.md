@@ -6,7 +6,7 @@ Talking Heads
 They would like LGBTI civil servants to provide video clips of yourselves speaking about some of the micro-behaviours you have experienced at work which have made you feel excluded and the impact those behaviours have had. These will be edited into a short video which will be played as part of the workshop. 
 The videoing can be done on a mobile phone following guidance here
 
-_posts/CSLiveVideo
+_posts/2019-05-02-CSLiveVideo.md
 
 Facilitators
 They would also like LGBTI civil servants to help with facilitation at their local Civil Service Live event. This is to ensure the conversation is relevant to LGBTI issues and not based on cis-het assumptions of LGBTI experiences. As a facilitator you won’t need to lead the discussion, just re-focus it. 
