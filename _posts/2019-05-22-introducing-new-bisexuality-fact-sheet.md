@@ -13,7 +13,7 @@ preview: false
 Today, the bi+ inclusion volunteer team is proud to launch our [bisexuality factsheet](/publication/bi-fact-sheet).
 
 ## How can I use the factsheet?
- 
+
 The factsheet is designed to raise awareness of bisexuality and the experiences of bisexual people. You can help by distributing it with your colleagues and networks.
 You may like to:
 
