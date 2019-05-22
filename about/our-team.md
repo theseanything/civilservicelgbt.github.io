@@ -26,12 +26,12 @@ Our governance team runs our board and Heads of Networks forum, and maintains ou
 Our local organisers help us deliver work in places near you. This includes our events, campaigns and social activities.
 
 | East Midlands | [David Wilson](mailto:DAVID.WILSON1@dwp.gsi.gov.uk)         |
-|				| [Robert Naylor](mailto:robert.naylor@cqc.org.uk)            |
+|				        | [Robert Naylor](mailto:robert.naylor@cqc.org.uk)            |
 | North East    | [Lex Jurowscy](mailto:lex.jurowscy@hmrc.gsi.gov.uk)         |
-| Scotland		| [Derek Bradford](mailto:derek.bradford@hmrc.gsi.gov.uk)     |
+| North West    | [Matthew Waler](mailto:MATTHEW.WALKER1@dwp.gov.uk)          |
+| Scotland		  | [Derek Bradford](mailto:derek.bradford@hmrc.gsi.gov.uk)     |
+|               | [Steven Brittain](mailto:STEVEN.BRITTAIN@dwp.gov.uk)        |
 | South West    | [Andrew Cowler](mailto: Andrew.Cowler@ofsted.gov.uk)        |
-| Wales         | [Jack Stephens](mailto:jack.stephens2@wales.gov)            |
-|				| [Max Laking](mailto:Max.Laking@gov.wales)                   |
 | West Midlands | [Jo Forbes](mailto:Jo.FORBES@education.gov.uk)              | 
 
 ## Project leads
@@ -39,11 +39,8 @@ Our local organisers help us deliver work in places near you. This includes our 
 Our project leads help us to deliver the activities in our business plan. If you want to get involved, [send us an email](mailto:info@civilservice.lgbt).
 
 | Allies                 | We're setting up this team now.                             	|
-| Bi inclusion           | [Mary Peart](mailto:mary.peart@civilservice.lgbt)           	|
+| Bi inclusion           | [Mary Peart](mailto:mary.peart@civilservice.lgbt), Anne Ramsden, Sunny Thompson, Emma Altmann-Richer, Amy Gamaleldeen, Diana Reynolds |
 | Campaigns 	         | We're setting up this team now. 								|
-| Inclusive policy.      | [James Jefferson](mailto:james.jefferson@communities.gov.uk) |
-|                        | [Georgia Stokoe](mailto:GEORGIA.STOKOE@DWP.GSI.GOV.UK)       |
-|                        | [Mark Topper](mailto:Mark.Topper@dh.gsi.gov.uk)              |
-|                        | [Nikita Jurowscy](mailto:Nikita.JUROWSCY@education.gov.uk)   |
+| Inclusive policy      | [James Jefferson](mailto:james.jefferson@communities.gov.uk) |
 | Mentoring              | We're setting up this team now.					 			|
 | People Survey analysis | We're setting up this team now. 				         		|
