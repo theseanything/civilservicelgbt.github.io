@@ -39,7 +39,12 @@ Our local organisers help us deliver work in places near you. This includes our 
 Our project leads help us to deliver the activities in our business plan. If you want to get involved, [send us an email](mailto:info@civilservice.lgbt).
 
 | Allies                 | We're setting up this team now.                             	|
-| Bi inclusion           | [Mary Peart](mailto:mary.peart@civilservice.lgbt), Anne Ramsden, Sunny Thompson, Emma Altmann-Richer, Amy Gamaleldeen, Diana Reynolds |
+| Bi inclusion           | [Mary Peart](mailto:mary.peart@civilservice.lgbt) |
+|                        | Anne Ramsden |
+|                        | Sunny Thompson |
+|                        | Emma Altmann-Richer |
+|                        | Amy Gamaleldeen | 
+|                        | Diana Reynolds |
 | Campaigns 	         | We're setting up this team now. 								|
 | Inclusive policy      | [James Jefferson](mailto:james.jefferson@communities.gov.uk) |
 | Mentoring              | We're setting up this team now.					 			|
