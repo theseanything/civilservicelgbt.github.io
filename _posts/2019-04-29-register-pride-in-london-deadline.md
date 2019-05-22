@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Last chance to register for the Civil Service at Pride in London 2019
+title: "[Update: Registrations now closed] Last chance to register for the Civil Service at Pride in London 2019"
 author: Civil Service LGBT+ Network
 excerpt: >-
   As there are limited places in the parade, we're holding a lottery to attend. The deadline to enter the lottery 14 May 2019.
@@ -10,6 +10,8 @@ redirect_from: /register-pride-in-london-2019/
 published: true
 preview: false
 ---
+
+> Registrations are now closed for the Civil Service group at Pride in London 2019. If you entered into the lottery, we will contact you about whether you do or do not have a place by 6 June 2019.
 
 This year's Pride in London will be the biggest one yet, and we're organising the Civil Service group in the parade.
 
