@@ -6,6 +6,7 @@ excerpt: >-
   What’s it like to be bisexual in the Civil Service? We've produced a new fact 
   sheet on bisexuality to support bi+ inclusion in the Civil Service.
 image: /assets/images/posts/bi-fact-sheet.png
+image-alt: "The front cover of the new bisexuality fact sheet"
 permalink: /2019/05/22/introducing-new-bisexuality-fact-sheet/
 published: true
 preview: false
