@@ -183,9 +183,6 @@ baseurl: "" # e.g. /blog
 
 markdown: kramdown
 
-# theme: cslgbt-theme # If compiling locally (i.e. not on Github Pages)
-remote_theme: civilservicelgbt/cslgbt-theme # Github Pages specific
-
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
@@ -208,7 +205,7 @@ future: false
 #####################################################
 #####################################################
 #####											#####
-#####			PROSE CONTENT EDITOR				#####
+#####			PROSE CONTENT EDITOR			#####
 #####											#####
 #####################################################
 #####################################################
