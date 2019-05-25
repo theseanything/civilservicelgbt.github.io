@@ -4,7 +4,6 @@ title: What we've got planned for Pride 2018 (Updated)
 author: Civil Service LGBT+ Network
 excerpt: Here's an update on our Pride activities for the rest of the season.
 redirect_from:
-  - /pride/
   - /2018/03/26/civil-service-pride-2018/
 image: /assets/images/posts/pride-2018.png
 published: true
