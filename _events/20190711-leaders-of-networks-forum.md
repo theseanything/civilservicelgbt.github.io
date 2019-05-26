@@ -3,7 +3,7 @@ title: 'Leaders of Networks Forum'
 excerpt: Our regular meeting of departmental network chairs and volunteers.
 event-date: 2019-07-11 15:00:00
 location: Location to be confirmed
-email: info@civilservice.lgbt
+email: "info@civilservice.lgbt?subject=Leaders%20of%20Networks%20forum%20%E2%80%94%2011%20July%202019&body=I%20want%20to%20attend%20the%20Leaders%20of%20Networks%20forum.%0A%0ANAME%3A%20%3Cyour%20name%3E%0ADEPT%3A%20%3Cyour%20department%3E%0A%0AI%20will%20be%20attending%20%3Cin%20person%2Fby%20phone%3E%20(delete%20as%20appropriate)"
 layout: event
 slug: /2019/07/11/leaders-of-networks-forum
 published: true
