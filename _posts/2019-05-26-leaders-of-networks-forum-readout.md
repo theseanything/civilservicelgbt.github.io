@@ -13,6 +13,7 @@ Last month, we hosted our second Leaders of Networks Forum, this post shares som
 
 The Leaders of Networks Forum is open to anyone who helps to lead a Civil Service LGBT+ staff network, it exists to share news of what the Civil Service LGBT+ Network is doing and to give departmental LGBT+ network leaders a space to share experiences, frustrations, resources, ideas and solutions. 
 
+> The *next* Leaders of Networks Forum is on 11 July 2019. Find out more on our [events page](/event/2019-07-11-leaders-of-networks-forum/)
 
 ## Pride 2019
 
