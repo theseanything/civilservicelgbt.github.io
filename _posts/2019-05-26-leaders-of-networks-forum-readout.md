@@ -39,7 +39,7 @@ We’ll be putting details of the Pride celebrations that we are supporting on t
 Next we moved on to the survey that we are planning to run to get more information on the workplace experiences of LGBT+ civil servants. This builds upon the results of the Civil Service People Survey and the National LGBT Survey so we can get more information on exactly how LGBT+ civil servants feel and how we benchmark against the rest of the public sector (from the National LGBT Survey). There was an interesting discussion around what it would be useful to include from a cross-government perspective and from a departmental perspective, our next steps are to look at the survey questions and identify what we are going to include in the survey before launching it later in the year. 
 
 
-## Civil Service Awards
+## Civil Service Awards
 
 We discussed the Civil Service Diversity and Inclusion Awards; nominations for that closed 1st May. The D&I Awards give us a chance to remind ourselves of what we are really good at and celebrate the individuals, teams and networks up and down the country who are doing great work on LGBT+ issues. 
 
@@ -59,6 +59,6 @@ The last section of the meeting focussed on the Stonewall Workplace Equality Ind
 
 We held a Network Leaders meeting on 20th May to look at this from a CSLGBT+ Network and departmental networks perspective.
 
-## Honours
+## Honours
 
 We had a discussion around the Honours system and agreed that it would be good to nominate more LGBT+ civil servants and allies who have done work on LGBT+ issues through both their civil service roles and in a voluntary capacity. To nominate someone, visit [GOV.UK](https://www.gov.uk/honours/nominate-someone-in-the-uk).  
