@@ -120,71 +120,31 @@ main#page {
 		}
 	}
 	
-}
-
-main#networks {
-	@extend #page;
-	
-	@supports (display: grid) {
-		display: 					grid;
-
-		grid-template-rows: 			auto auto auto;
-		grid-template-columns: 		1fr;
-		grid-template-areas: 		"page-title"
-									"page-lead-paragraph"
-									"page-content";
-		
-		@include md-up {
-			grid-template-rows: 			auto auto auto;
-			grid-template-columns: 		2fr 1fr;
-			grid-column-gap: 			30px;
-			grid-template-areas: 		"page-title page-title"
-										"page-lead-paragraph ."
-										"page-content page-content";
-		}
-	}
-	
-	#page-title {
-		@supports (display: grid) {
-			grid-area:					page-title;
-		}
-
-		margin-top: 					45px;
-		margin-bottom: 				45px;
-		
-		h1.page-title {	
-			@include md-up {
-				font-size: 		$heading1-font-size-base * 2;
-			}
-		}
-	}
-	
-	#page-content {
-		@include md-up {
-			width: 100%;
-			float: left;
-			clear: left;
-		}
-
-		@supports (display: grid) {
-			width: 			100%;
-			float: 			none;
-			clear: 			none;
-			grid-area:		page-content;
-		}
-		
-		table {
+	tr {
+		td {
 			
-			tr {
+			&:first-child {
+				min-width: 75px;
+				vertical-align: top;
 				
-				td {
-					padding: 15px 0;
+				@include md-up {
+					min-width: 150px;
 				}
-				
 			}
 			
+			&:nth-child(2) {
+				h2 {
+					padding-top: 0px;
+					padding-bottom: 10px;
+				}
+			}
+			img {
+				margin-top: 10px;
+				max-width: 150px !important;
+			}
 		}
 	}
+	
 }
 
 main#networks {
@@ -680,27 +640,205 @@ main#profile-update {
 	}
 }
 
-tr {
-	td {
+body.pride nav#site-navigation {
+	
+	padding: 0;
+	
+	div#menu {
+		box-shadow: none !important;
+	}
+}
+
+header#pride {
+	
+	background:		$magenta;
+	color: 			$white;
+	
+}
+
+main#pride {
+	@extend #page;
+	
+	@supports (display: grid) {
+		display: 					grid;
+
+		grid-template-rows: 			auto auto auto;
+		grid-template-columns: 		1fr;
+		grid-template-areas: 		"page-title"
+									"page-lead-paragraph"
+									"page-content";
 		
-		&:first-child {
-			min-width: 75px;
-			vertical-align: top;
-			
+		@include md-up {
+			grid-template-rows: 			auto auto auto;
+			grid-template-columns: 		2fr 1fr;
+			grid-column-gap: 			30px;
+			grid-template-areas: 		"page-title page-title"
+										"page-lead-paragraph ."
+										"page-content page-content";
+		}
+	}
+	
+	#page-title {
+		@supports (display: grid) {
+			grid-area:					page-title;
+		}
+
+		margin-top: 					45px;
+		margin-bottom: 				45px;
+				
+		h1.page-title {	
 			@include md-up {
-				min-width: 150px;
+				font-size: 		$heading1-font-size-base * 1.25;
 			}
+		}
+	}
+	
+	#page-content {
+		@include md-up {
+			width: 100%;
+			float: left;
+			clear: left;
+		}
+
+		@supports (display: grid) {
+			width: 			100%;
+			float: 			none;
+			clear: 			none;
+			grid-area:		page-content;
 		}
 		
-		&:nth-child(2) {
-			h2 {
-				padding-top: 0px;
-				padding-bottom: 10px;
+		border-top: 		none !important;
+		
+		section#events-pride {
+				
+				&::after {
+				    content: "";
+				    clear: both;
+				    display: table;
+				    @supports (display: grid) {				
+						content: none;
+						clear: none;
+						display: none;
+					}
+				}
+				
+				padding-bottom: 		45px;
+				
+				@supports (display: grid) {
+					display: grid;
+					
+					grid-template-columns: 	1fr;
+					grid-template-rows: 		auto auto;
+					grid-row-gap: 			30px;
+					grid-template-areas: 	"title"
+											"posts";
+											
+					@include md-up {					
+						grid-template-columns: 	4fr 7fr;
+						grid-column-gap: 		30px;
+						grid-template-rows: 		auto;
+						grid-template-areas: 	"title posts";
+					}
+					
+					padding-bottom: 		15px;
+
+				}
+				
+				h2.section-title {
+
+					padding: 30px 0 0 0;
+					
+					@supports (display: grid) {
+						grid-area: 			title;
+					}
+					
+					@include md-up {
+						width: calc(40% - 50px);
+						float: left;
+						clear: left;
+						
+						margin-right: 50px;
+						padding-bottom: 30px;
+					}
+					
+				    @supports (display: grid) {				
+						width: 100%;
+						float: none;
+						clear: none;
+						margin-right: 0;
+					}
+										
+					font-size: 		$heading2-font-size-base;
+					border-top: 		2px solid $magenta;
+					
+					a {
+						color: 					$black;
+						text-decoration: 		none;
+						
+						&:hover,
+						&:focus {
+							color: 					$black;
+							text-decoration: 		underline;
+							-webkit-text-decoration-color:	$magenta;
+									text-decoration-color:	$magenta;
+						}
+					}
+					
+				}
+
+				ul {
+
+					@include md-up {
+						width: 60%;
+						float: left;
+						clear: none;
+					    @supports (display: grid) {							
+							width: 100%;
+							float: none;
+							clear: none;
+						}
+					}
+
+					@supports (display: grid) {
+						grid-area: 			posts;
+					}						
+					
+					list-style: none;
+					padding: 0;
+										
+					li {
+						
+						padding: 15px 0;
+						
+						border-top: 	1px solid $light-gray;
+						
+						&:first-of-type {
+							border-top: 	2px solid $light-gray;
+						}
+						
+						article {
+							
+							h2 {
+								padding: 0;
+								
+								font-size: 	$heading4-font-size-base;
+							}
+							
+							p {
+								font-size: 		$font-size-base - 2px;
+								margin:			5px 0 0 0;
+								
+								&.post-metadata {
+									font-size: 	$font-size-base - 4px;
+									color: 		$dark-gray;
+								}
+							}
+						}
+					}
+
+				}								
+									
 			}
-		}
-		img {
-			margin-top: 10px;
-			max-width: 150px !important;
-		}
+		
 	}
 }
