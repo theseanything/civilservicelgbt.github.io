@@ -221,16 +221,16 @@ prose:
   - README.md
   - _config.yml
   - archives.md
-  - consultations.md
-  - events.md
+  - /consultations
+  - /events
   - events.xml
   - feed.xml
   - index.md
-  - manuals.md
-  - networks.md
-  - news.md
-  - notices.md
-  - publications.md
+  - /manuals
+  - /networks
+  - /news
+  - /notices
+  - /publications
   - /_archives
   metadata:
     _posts:
