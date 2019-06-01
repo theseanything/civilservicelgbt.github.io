@@ -6,6 +6,8 @@ event-date:	 					2019-09-28
 location: 						"Preston"
 link:							"https://forms.gle/23Trq8wuLa7VroJJ9"
 
+category:						pride
+
 layout: 						event
 slug:							/2019/09/28/pride-preston
 ---

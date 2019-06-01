@@ -6,6 +6,8 @@ event-date:	 					2019-07-06 12:00
 location: 						"London"
 link:							"https://forms.gle/23Trq8wuLa7VroJJ9"
 
+category:						pride
+
 layout: 						event
 slug:							/2019/07/06/pride-in-london
 ---
@@ -13,6 +15,8 @@ slug:							/2019/07/06/pride-in-london
 Join us as we march in the parade at Pride in London.
 
 ## How to register
+
+> Registrations for our Pride in London group are now closed. We will contact you if you secured a place.
 
 Places in this year's Civil Service group for Pride in London are limited. We will allocate places in the parade via a lottery 6 to 8 weeks prior to the event.
 

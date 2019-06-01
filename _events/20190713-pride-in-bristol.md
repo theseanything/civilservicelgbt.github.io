@@ -6,6 +6,8 @@ event-date:	 					2019-06-13 12:00
 location: 						"Bristol"
 link:							"https://forms.gle/23Trq8wuLa7VroJJ9"
 
+category:						pride
+
 layout: 						event
 slug:							/2019/07/13/pride-in-bristol
 ---

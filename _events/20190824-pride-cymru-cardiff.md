@@ -6,6 +6,8 @@ event-date:	 					2019-08-24
 location: 						"Cardiff"
 link:							"https://forms.gle/23Trq8wuLa7VroJJ9"
 
+category:						pride
+
 layout: 						event
 slug:							/2019/08/24/pride-cymru-cardiff
 ---

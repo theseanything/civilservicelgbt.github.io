@@ -6,6 +6,8 @@ event-date:	 					2019-06-22 12:00
 location: 						"Edinburgh"
 link:							"https://forms.gle/23Trq8wuLa7VroJJ9"
 
+category:						pride
+
 layout: 						event
 slug:							/2019/06/22/pride-in-edinburgh
 redirect_from:		/event/2019-06-15-pride-in-edinburgh

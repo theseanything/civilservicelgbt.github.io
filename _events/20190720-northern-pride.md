@@ -6,6 +6,8 @@ event-date:	 					2019-07-20
 location: 						"Preston"
 link:							"https://forms.gle/23Trq8wuLa7VroJJ9"
 
+category:						pride
+
 layout: 						event
 slug:							/2019/07/20/northern-pride-newcastle
 ---
