@@ -5,6 +5,7 @@ author: Civil Service LGBT+ Network
 excerpt: >-
   As there are limited places in the parade, we're holding a lottery to attend. The deadline to enter the lottery 14 May 2019.
 image: /assets/images/posts/pride-2019.png
+category: pride
 permalink: /2019/04/29/register-for-pride-in-london-2019/
 redirect_from: /register-pride-in-london-2019/
 published: true

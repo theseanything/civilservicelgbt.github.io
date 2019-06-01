@@ -5,6 +5,7 @@ date: '2018-07-12'
 preview: false
 published: true
 title: Pride in London 2018 was our best yet
+category: pride
 permalink: 2017/07/12/pride-in-london-our-best-yet
 excerpt: Here's what we got up to in the Pride in London celebrations last weekend.
 video: 'https://www.youtube.com/embed/4nscwPVGvvY'

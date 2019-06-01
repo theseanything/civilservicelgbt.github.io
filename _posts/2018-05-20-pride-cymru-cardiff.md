@@ -4,6 +4,7 @@ author: 		"Civil Service LGBT+ Network"
 excerpt: 		"Pride Cymru is on 25 August and 26 August 2018."
 
 layout: 			news
+category: pride
 
 permalink: 		/2018/05/20/pride-cymru-cardiff
 ---
