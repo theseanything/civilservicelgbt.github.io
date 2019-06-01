@@ -39,6 +39,20 @@ You can register to attend these events by [completing our registration form](ht
 
 For Pride this year, we're reminding everyone why the Civil Service is an inclusive place to work.
 
+### Share your story
+
+This Pride season, we want you to share your story. Write a blog post for us, and tell us what an inclusive Civil Service looks like to you.
+
+Send your blog post and a picture of yourself to us at <info@civilservice.lgbt>. We'll post as many as we can over the next few weeks.
+
+### #CivilServicePride
+
+You can show your #CivilServicePride on social media too. 
+
+Share your pictures from Pride events, and tell us why the Civil Service is an inclusive place to work.
+
+> Follow us on Twitter [@cslgbt](https://twitter.com/cslgbt), on [Facebook](https://facebook.com/civilservicelgbt) and on Instagram [@civilservicelgbt](https://instagram.com/civilservicelgbt).
+
 ### Download our Pride posters
 
 ![Image of the posters](/assets/images/posts/pride-posters.png)
