@@ -12,6 +12,7 @@ excerpt: >-
 image: /assets/images/posts/pride-2019.png
 image-alt: Civil Service Pride
 ---
+
 50 years ago this month, a riot at a bar in New York — the Stonewall Inn — sparked a LGBT rights movement, and kickstarted annual pride protests around the world. This year, we're once again taking part in pride events across the UK — and celebrating this important milestone.
 
 ## Take part in Prides across the UK
@@ -38,11 +39,10 @@ You can register to attend these events by [completing our registration form](ht
 
 For Pride this year, we're reminding everyone why the Civil Service is an inclusive place to work.
 
-
 ### Download our Pride posters
 
 ![Image of the posters](/assets/images/posts/pride-posters.png)
 
 We've created a series of posters for this year's Pride season. 
 
-[Visit our publications page]() to download them.
+[Visit our publications page](/publication/pride-posters-2019) to download them.
