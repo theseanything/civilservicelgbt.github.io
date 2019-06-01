@@ -60,3 +60,7 @@ Share your pictures from Pride events, and tell us why the Civil Service is an i
 We've created a series of posters for this year's Pride season. 
 
 [Visit our publications page](/publication/pride-posters-2019) to download them.
+
+## Keep up to date
+
+You can keep up to date with all the latest news and information about Pride 2019 on our dedicated Pride page: [www.civilservice.lgbt/pride](/pride).
