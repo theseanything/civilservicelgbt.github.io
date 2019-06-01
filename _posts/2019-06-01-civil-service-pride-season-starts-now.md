@@ -34,5 +34,15 @@ You can register to attend these events by [completing our registration form](ht
 
 > If you're organising a walking group at a Pride event, and it isn't listed above, please [contact us](/about/contact-us/) and we'll be happy to add it to our website.
 
+## An inclusive place to work
+
+For Pride this year, we're reminding everyone why the Civil Service is an inclusive place to work.
 
 
+### Download our Pride posters
+
+![Image of the posters](/assets/images/posts/pride-posters.png)
+
+We've created a series of posters for this year's Pride season. 
+
+[Visit our publications page]() to download them.
