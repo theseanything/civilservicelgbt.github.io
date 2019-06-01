@@ -3,7 +3,7 @@ layout: news
 author: Civil Service LGBT+ Network
 date: '2019-06-01 09:00'
 preview: true
-published: false
+published: true
 title: Civil Service Pride season starts now
 permalink: /2019/06/01/pride-starts-now
 excerpt: >-
