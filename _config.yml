@@ -254,9 +254,9 @@ prose:
         field:
           element: "text"
           type: "text"
-          value: "2000-01-01 00:00"
+          value: "2000-01-01"
           label: "Post date"
-          placeholder: "2000-01-01 00:00"
+          placeholder: "2000-01-01"
       - name: "permalink"
         field:
           element: "text"
