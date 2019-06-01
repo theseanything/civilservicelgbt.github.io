@@ -37,9 +37,9 @@ This publication is available as a series of PDF files.
 
 ## Preview of posters
 
-![](/assets/images/posts/preview-pride-posters-2019.png")
+![](/assets/images/posts/preview-pride-posters-2019.png)
 
-![](/assets/images/posts/preview-pride-posters-2019-2.png")
+![](/assets/images/posts/preview-pride-posters-2019-2.png)
 
 <!-- Include this line to process the Markdown and format the content properly -->
 </div>
