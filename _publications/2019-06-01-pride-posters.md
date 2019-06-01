@@ -29,7 +29,7 @@ For Pride this year, we're reminding everyone why the Civil Service is an inclus
 This publication is available as a series of PDF files. 
 
 1. [Download "A proud Civil Service" posters (PDF, 1MB)](/assets/documents/pride-posters/2019-06-01-a-proud-civil-service.pdf)
-2. [Download "An inclusive place to work" posters (PDF, 1MB)](/assets/documents/pride-posters/2019-06-01-50-an-inclusive-place-to-work.pdf)
+2. [Download "An inclusive place to work" posters (PDF, 1MB)](/assets/documents/pride-posters/2019-06-01-an-inclusive-place-to-work.pdf)
 3. [Download "50 years of Pride (with blurb)" posters (PDF, 1MB)](/assets/documents/pride-posters/2019-06-01-50-years-proud-with-blurb.pdf)
 4. [Download "50 years of Pride" posters (PDF, 1MB)](/assets/documents/pride-posters/2019-06-01-50-years-proud.pdf)
 5. [Download "LGBT+ and proud" posters (PDF, 2MB)](/assets/documents/pride-posters/2019-06-01-and-proud.pdf)
