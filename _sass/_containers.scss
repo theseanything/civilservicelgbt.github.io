@@ -1,5 +1,9 @@
 // Grid containers
 
+.wrapper {
+	background: 		$wrapper-background;
+}
+
 .container {
 	
 	display: block;
@@ -31,7 +35,7 @@
 	@include xl {
 		max-width: $container-xl !important;
 	}
-
+	
 	&::after {
 	    content: "";
 	    clear: both;
@@ -45,4 +49,3 @@
 	}
 
 }
-
