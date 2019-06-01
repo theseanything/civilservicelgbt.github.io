@@ -32,8 +32,8 @@ This publication is available as a series of PDF files.
 2. [Download "An inclusive place to work" posters (PDF, 1MB)](/assets/documents/pride-posters/2019-06-01-50-an-inclusive-place-to-work.pdf)
 3. [Download "50 years of Pride (with blurb)" posters (PDF, 1MB)](/assets/documents/pride-posters/2019-06-01-50-years-proud-with-blurb.pdf)
 4. [Download "50 years of Pride" posters (PDF, 1MB)](/assets/documents/pride-posters/2019-06-01-50-years-proud.pdf)
-5. [Download "LGBT+ and proud" posters (PDF, 2MB)](/assets/documents/pride-posters/2019-06-01-50-and-proud.pdf)
-6. [Download "Delivering public services with pride" posters (PDF, 1MB)](/assets/documents/pride-posters/2019-06-01-50-delivering-with-pride.pdf)
+5. [Download "LGBT+ and proud" posters (PDF, 2MB)](/assets/documents/pride-posters/2019-06-01-and-proud.pdf)
+6. [Download "Delivering public services with pride" posters (PDF, 1MB)](/assets/documents/pride-posters/2019-06-01-delivering-with-pride.pdf)
 
 ## Preview of posters
 
