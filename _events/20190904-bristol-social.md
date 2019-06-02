@@ -3,7 +3,7 @@ title: 'Civil Service LGBT+ social, Bristol'
 excerpt: Our monthly social and networking event in Bristol.
 event-date: 2019-09-04 17:00:00
 location: To be confirmed
-email: info@civilservice.lgbt
+email: southwest@civilservice.lgbt
 layout: event
 slug: /2019/09/04/bristol-social
 published: true
