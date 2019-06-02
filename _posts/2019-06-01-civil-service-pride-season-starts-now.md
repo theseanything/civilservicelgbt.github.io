@@ -19,7 +19,7 @@ image-alt: Civil Service Pride
 
 We've secured funding to take part in 6 pride events across the UK, organised by us at the Civil Service LGBT+ Network. They are:
 
-- [Edinburgh](https://www.civilservice.lgbt/event/2019-06-15-pride-in-london/): 22 June 2019
+- [Edinburgh](https://www.civilservice.lgbt/event/2019-06-15-pride-in-edinburgh/): 22 June 2019
 - [London](https://www.civilservice.lgbt/event/2019-07-06-pride-in-london/): 6 July 2019 (Currently full)
 - [Newcastle](https://www.civilservice.lgbt/event/2019-07-20-northern-pride-newcastle/): 20 July 
 - [Belfast](https://www.civilservice.lgbt/event/2019-08-03-pride-belfast/): 3 August 2019
