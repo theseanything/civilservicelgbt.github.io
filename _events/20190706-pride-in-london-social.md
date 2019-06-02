@@ -1,5 +1,5 @@
 ---
-title:  						"Pride in London social"
+title:  						"Pride in London post-parade social"
 excerpt:	  					"Join us after the Pride in London parade at the Civil Service Club."
 
 event-date:	 					2019-07-06 16:00
