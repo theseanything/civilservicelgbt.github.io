@@ -11,6 +11,7 @@ excerpt: >-
   Service's Pride season.
 image: /assets/images/posts/pride-2019.png
 image-alt: Civil Service Pride
+category: pride
 ---
 
 50 years ago this month, a riot at a bar in New York — the Stonewall Inn — sparked a LGBT rights movement, and kickstarted annual pride protests around the world. This year, we're once again taking part in pride events across the UK — and celebrating this important milestone.
@@ -34,6 +35,12 @@ Some departmental networks are also organising attendance at other pride events,
 You can register to attend these events by [completing our registration form](https://forms.gle/23Trq8wuLa7VroJJ9). All events, except Pride in London, still have spaces and registrations are open until 2 weeks prior to each event.
 
 > If you're organising a walking group at a Pride event, and it isn't listed above, please [contact us](/about/contact-us/) and we'll be happy to add it to our website.
+
+### T-shirts, banners and placards
+
+If you are joining us at one of the events listed above, we will be able to provide you with a Civil Service Pride t-shirt, free of charge. We will email you to ask for your size and your address around 2 weeks before the event.
+
+We will also be able to loan banners and placards to you if you're organising a walking group at these locations or elsewhere. Just [get in touch](/about/contact-us).
 
 ## An inclusive place to work
 
