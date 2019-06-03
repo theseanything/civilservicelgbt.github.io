@@ -2,7 +2,7 @@
 title: 'Civil Service LGBT+ social, London'
 excerpt: Our monthly social and networking event in London.
 event-date: 2019-06-06 18:00:00
-location: London
+location: "Tattershall Castle (room: the Main Wardroom), Victoria Embankment Westminster, London, SW1A 2HR"
 no-register: "You don't need to register for this event. Just turn up."
 layout: event
 slug: /2019/06/06/london-social
