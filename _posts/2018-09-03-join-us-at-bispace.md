@@ -8,6 +8,8 @@ title: Join us at BiSpace
 excerpt: 'A new initiative led by bi+ civil servants, for bi+ civil servants.'
 permalink: /2018/08/03/join-us-at-bispace
 image: /assets/images/posts/BiSpace.png
+category: 
+- bispace
 redirect_from: /2018/08/30/join-us-at-bispace
 permalink: /2018/09/30/join-us-at-bispace
 image: /assets/images/posts/BiSpace-WithCSLogo.png

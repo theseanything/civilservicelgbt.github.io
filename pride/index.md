@@ -2,7 +2,7 @@
 title: "Civil Service Pride"
 excerpt: "Everything you need to know about this year's Civil Service Pride activities."
 
-layout: pride
+layout: topic
 collection: events
 category: pride
 permalink: /pride/index.html

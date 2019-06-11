@@ -7,6 +7,7 @@ layout: 			news
 category: pride
 
 permalink: 		/2018/05/20/pride-cymru-cardiff
+published: false
 ---
 
 The Welsh Government LGBT+ network, PRISM, is organising this year's participation in Pride Cymru in Cardiff.

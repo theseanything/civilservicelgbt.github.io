@@ -17,7 +17,7 @@ preview: false
 
 This year, the Civil Service LGBT+ Network will be taking part in a number of Prides across the country. 
 
-You can find out more about which Pride events we're planning to attend in [our recent news post](/2019/03/01/pride-2019-what-you-need-to-know/).
+You can find out more about which Pride events we're planning to attend in [our recent news post](/pride/).
 
 ## Registrations are now open
 

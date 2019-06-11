@@ -640,7 +640,7 @@ main#profile-update {
 	}
 }
 
-body.pride nav#site-navigation {
+body.topic nav#site-navigation {
 	
 	padding: 0;
 	
@@ -656,7 +656,14 @@ header#pride {
 	
 }
 
-main#pride {
+header#bispace {
+	
+	background:		$yellow;
+	color: 			$black;
+	
+}
+
+main#topic {
 	@extend #page;
 	
 	@supports (display: grid) {
@@ -709,7 +716,7 @@ main#pride {
 		
 		border-top: 		none !important;
 		
-		section#events-pride {
+		section#topic-section {
 				
 				&::after {
 				    content: "";

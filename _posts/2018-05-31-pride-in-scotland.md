@@ -5,7 +5,7 @@ excerpt: 'Pride Edinburgh is on 16 June, and Pride in Glasgow is on 14 July.'
 layout: news
 category: pride
 permalink: /2018/05/31/pride-in-scotland
-published: true
+published: false
 ---
 
 The Scottish Government LGBTI network and the HMRC LGBT+ network, Prism, are working together to organise this year's participation in Pride events in Scotland.

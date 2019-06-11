@@ -8,6 +8,7 @@ excerpt: >-
 image: /assets/images/posts/bi-fact-sheet.png
 image-alt: "The front cover of the new bisexuality fact sheet"
 permalink: /2019/05/22/introducing-new-bisexuality-fact-sheet/
+category: bispace
 published: true
 preview: false
 ---
