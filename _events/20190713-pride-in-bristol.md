@@ -10,6 +10,8 @@ category:						pride
 
 layout: 						event
 slug:							/2019/07/13/pride-in-bristol
+
+published: false
 ---
 
 Join us as we march in the parade at Pride in Bristol.
