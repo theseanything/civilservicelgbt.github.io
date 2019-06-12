@@ -1,4 +1,0 @@
----
----
-
-{% include rss/news.html %}
