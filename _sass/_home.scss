@@ -418,23 +418,11 @@ body.home {
 						
 						a {
 							display: block;
-							
-							@supports (display: grid) {
-								display: grid;
-								
-								grid-template-rows: auto;
-								grid-template-columns: 60px auto;
-							}
 				
 							&::after {
 							    content: "";
 							    clear: both;
-							    display: table;							    
-							    @supports (display: grid) {				
-									content: none;
-									clear: none;
-									display: none;
-								}
+							    display: table;		
 							}
 						}
 						
@@ -482,12 +470,6 @@ body.home {
 							height: 40px;
 							line-height: 40px;
 							vertical-align: middle;
-							
-							@supports (display: grid) {
-								height: auto;
-								align-self: center;
-								line-height: $font-line-height;
-							}
 								
 						}
 					}
