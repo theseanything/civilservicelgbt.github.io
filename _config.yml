@@ -319,18 +319,16 @@ prose:
           placeholder: "Enter the short summary for the post here."
       - name: "preview"
         field: 
-          element: "button"
+          element: "checkbox"
           label: "Publish as preview?"
           help: "If this is set to 'true' this post won't show up on the site loop, but will be accessible with the direct URL."
-          on: true
-          off: false
+          value: false
       - name: "published"
         field: 
-          element: "button"
+          element: "checkbox"
           label: "Publish post?"
           help: "If this is set to 'true' this post will show up on the site loop."
-          on: true
-          off: false
+          value: true
     _notices:
       - name: "layout"
         field:
@@ -417,18 +415,16 @@ prose:
           placeholder: "Enter the short summary for the post here."
       - name: "preview"
         field: 
-          element: "button"
+          element: "checkbox"
           label: "Publish as preview?"
           help: "If this is set to 'true' this post won't show up on the site loop, but will be accessible with the direct URL."
-          on: true
-          off: false
+          value: false
       - name: "published"
         field: 
-          element: "button"
+          element: "checkbox"
           label: "Publish post?"
           help: "If this is set to 'true' this post will show up on the site loop."
-          on: true
-          off: false
+          value: true
     _publications:
       - name: "layout"
         field:
@@ -515,18 +511,16 @@ prose:
           placeholder: "Enter the short summary for the publication here."
       - name: "preview"
         field: 
-          element: "button"
+          element: "checkbox"
           label: "Publish as preview?"
           help: "If this is set to 'true' this post won't show up on the site loop, but will be accessible with the direct URL."
-          on: true
-          off: false
+          value: false
       - name: "published"
         field: 
-          element: "button"
+          element: "checkbox"
           label: "Publish post?"
           help: "If this is set to 'true' this post will show up on the site loop."
-          on: true
-          off: false
+          value: true
     _events:
       - name: "layout"
         field:
@@ -630,18 +624,16 @@ prose:
           placeholder: "Enter the short summary for the event here."
       - name: "preview"
         field: 
-          element: "button"
+          element: "checkbox"
           label: "Publish as preview?"
           help: "If this is set to 'true' this post won't show up on the site loop, but will be accessible with the direct URL."
-          on: true
-          off: false
+          value: false
       - name: "published"
         field: 
-          element: "button"
+          element: "checkbox"
           label: "Publish post?"
           help: "If this is set to 'true' this post will show up on the site loop."
-          on: true
-          off: false
+          value: true
     _consultations:
       - name: "layout"
         field:
@@ -740,15 +732,13 @@ prose:
           placeholder: "Enter the short summary for the consultation here."
       - name: "preview"
         field: 
-          element: "button"
+          element: "checkbox"
           label: "Publish as preview?"
           help: "If this is set to 'true' this post won't show up on the site loop, but will be accessible with the direct URL."
-          on: true
-          off: false
+          value: false
       - name: "published"
         field: 
-          element: "button"
+          element: "checkbox"
           label: "Publish post?"
           help: "If this is set to 'true' this post will show up on the site loop."
-          on: true
-          off: false
+          value: true
