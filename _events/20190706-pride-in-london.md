@@ -7,6 +7,7 @@ location: 						"London"
 link:							"https://forms.gle/23Trq8wuLa7VroJJ9"
 
 category:						pride
+regions: london
 
 layout: 						event
 slug:							/2019/07/06/pride-in-london

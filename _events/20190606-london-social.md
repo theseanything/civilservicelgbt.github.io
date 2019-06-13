@@ -5,6 +5,7 @@ event-date: 2019-06-06 18:00:00
 location: "Tattershall Castle (room: the Main Wardroom), Victoria Embankment Westminster, London, SW1A 2HR"
 no-register: "You don't need to register for this event. Just turn up."
 layout: event
+regions: london
 slug: /2019/06/06/london-social
 published: true
 ---

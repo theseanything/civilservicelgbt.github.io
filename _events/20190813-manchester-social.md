@@ -3,8 +3,9 @@ title: 'Civil Service LGBT+ social, Manchester'
 excerpt: Our monthly social and networking event in Manchester.
 event-date: 2019-08-13 18:00:00
 location: The Goose, 21 Bloom Street, Manchester, M1 3JE
-email: MATTHEW.WALKER1@DWP.GSI.GOV.UK
+email: northwest@civilservice.lgbt
 layout: event
+regions: northwest
 slug: /2019/08/13/manchester-social
 published: true
 ---

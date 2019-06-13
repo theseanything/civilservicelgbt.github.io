@@ -5,6 +5,7 @@ event-date: 2019-08-08 18:00:00
 location: London
 no-register: "You don't need to register for this event. Just turn up."
 layout: event
+regions: london
 slug: /2019/08/08/london-social
 published: true
 ---

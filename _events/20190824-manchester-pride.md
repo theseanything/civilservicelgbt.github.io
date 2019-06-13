@@ -7,6 +7,7 @@ location: 					"London"
 link:							"https://forms.gle/23Trq8wuLa7VroJJ9"
 
 category:						pride
+regions: northwest
 
 layout: 						event
 slug:							/2019/08/24/pride-in-manchester

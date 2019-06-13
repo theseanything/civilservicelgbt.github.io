@@ -7,6 +7,7 @@ location: 						"Civil Service Club, Westminster, London"
 link:							"https://forms.gle/oQ5fy4fr69ZC53Kr9"
 
 category:						pride
+regions: london
 
 layout: 						event
 slug:							/2019/07/06/pride-in-london-social
