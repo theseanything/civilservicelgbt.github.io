@@ -3,6 +3,7 @@ title: 'Civil Service LGBT+ social, Bristol'
 excerpt: Our monthly social and networking event in Bristol.
 event-date: 2019-07-11 17:00:00
 location: The Phoenix, Bristol, BS2 9DB
+regions: southwest
 email: southwest@civilservice.lgbt
 layout: event
 slug: /2019/07/11/bristol-social
