@@ -29,7 +29,7 @@ We will assemble at 11:30am. The march will commence at 12:30pm.
 
 ### Meeting point
 
-![](/assets/images/posts/edinburgh-pride-2019-meeting-point.png)
+![](https://www.civilservice.lgbt/assets/images/posts/edinburgh-pride-2019-meeting-point-map.png)
 
 The meeting point is **Parliament Green** (in front of the Scottish Parliament building).
 
