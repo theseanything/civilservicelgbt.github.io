@@ -6,6 +6,7 @@ preview: false
 published: true
 title: "Some changes to our social events in the South West"
 permalink: /2019/06/13/socials-in-the-south-west
+regions: southwest
 image: /assets/images/posts/november-2018-bristol-social.jpg
 excerpt: "We asked what you wanted; and here’s what you told us."
 ---
