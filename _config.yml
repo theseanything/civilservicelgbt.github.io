@@ -267,7 +267,7 @@ prose:
             - name: "South West"
               value: "southwest"
             - name: "Yorkshire and Humber"
-      - name: "topics"
+      - name: "category"
         field:
           element: "multiselect"
           label: "Add topics this post applies to"
@@ -363,7 +363,7 @@ prose:
             - name: "South West"
               value: "southwest"
             - name: "Yorkshire and Humber"
-      - name: "topics"
+      - name: "category"
         field:
           element: "multiselect"
           label: "Add topics this post applies to"
@@ -459,7 +459,7 @@ prose:
             - name: "South West"
               value: "southwest"
             - name: "Yorkshire and Humber"  
-      - name: "topics"
+      - name: "category"
         field:
           element: "multiselect"
           label: "Add topics this post applies to"
@@ -555,7 +555,7 @@ prose:
             - name: "South West"
               value: "southwest"
             - name: "Yorkshire and Humber"   
-      - name: "topics"
+      - name: "category"
         field:
           element: "multiselect"
           label: "Add topics this post applies to"
@@ -668,7 +668,7 @@ prose:
             - name: "South West"
               value: "southwest"
             - name: "Yorkshire and Humber"
-      - name: "topics"
+      - name: "category"
         field:
           element: "multiselect"
           label: "Add topics this post applies to"
