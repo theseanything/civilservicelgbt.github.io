@@ -4,7 +4,6 @@ excerpt: Our monthly social and networking event in Bristol.
 event-date: 2019-10-10 17:00:00
 location: To be confirmed
 email: southwest@civilservice.lgbt
-regions: southwest
 layout: event
 slug: /2019/10/10/bristol-social
 published: true

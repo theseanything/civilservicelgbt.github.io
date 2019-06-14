@@ -1,6 +1,6 @@
 ---
 title: 'Civil Service LGBT+ social, Leeds'
-excerpt: Our new social and networking event in Bristol.
+excerpt: Our new social and networking event in Leeds.
 event-date: 2019-06-28 19:30:00
 location: Neon Cactus, 35 Call Lane, LS1 7BT
 email: dale.sturrock@hmrc.gov.uk
