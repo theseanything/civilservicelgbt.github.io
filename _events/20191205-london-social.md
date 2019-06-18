@@ -5,7 +5,6 @@ event-date: 2019-12-05 18:00:00
 location: London
 email: info@civilservice.lgbt
 layout: event
-regions: london
 slug: /2019/12/05/london-social
 published: true
 ---
