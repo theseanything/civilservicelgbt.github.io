@@ -7,7 +7,7 @@ location: 'Atrium, London Nobel House, 17 Smith Square, Westminster, London, SW1
 link: https://www.eventbrite.co.uk/e/bi-visibility-intersectionality-event-london-tickets-63466656478
 email: amy.gamaleldeen@defra.gov.uk
 slug: /2019/07/10/bi-visibility-event
-topics: bisexuality
+categories: bisexuality
 published: true
 preview: false
 ---
