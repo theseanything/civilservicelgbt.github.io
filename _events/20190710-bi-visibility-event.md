@@ -2,7 +2,7 @@
 layout: event
 title: 'Bi Visibility & Intersectionality event, London'
 excerpt: Join us for our social in Edinburgh.
-event-date: 2019-07-10 18:00:00
+event-date: 2019-07-10 11:00:00
 location: 'Atrium, London Nobel House, 17 Smith Square, Westminster, London, SW1P 3JR'
 link: https://www.eventbrite.co.uk/e/bi-visibility-intersectionality-event-london-tickets-63466656478
 email: amy.gamaleldeen@defra.gov.uk
