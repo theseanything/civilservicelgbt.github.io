@@ -4,7 +4,7 @@ title: 'LGBT+ parenting talk, hosted by the Cabinet Office'
 excerpt: Join the Cabinet Office for a pride quiz night in London.
 event-date: 2019-07-04 10:00:00
 location: 'Press Lightwell (G/12), 1 Horse Guards Road, London'
-event-link: https://www.eventbrite.co.uk/e/lgbt-parenting-talk-tickets-63481197972?aff=COLGBT
+link: https://www.eventbrite.co.uk/e/lgbt-parenting-talk-tickets-63481197972?aff=COLGBT
 slug: /2019/07/04/cabinet-office-parenting-talk
 regions: london
 published: true

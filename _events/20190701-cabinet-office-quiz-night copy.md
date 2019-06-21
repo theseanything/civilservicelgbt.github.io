@@ -4,7 +4,7 @@ title: 'Pride Quiz Night, hosted by the Cabinet Office'
 excerpt: Join the Cabinet Office for a pride quiz night in London.
 event-date: 2019-07-01 18:00:00
 location: 'Canteen, 1 Horse Guards Road, London'
-event-link: https://www.eventbrite.co.uk/e/pride-quiz-night-tickets-62710849840
+link: https://www.eventbrite.co.uk/e/pride-quiz-night-tickets-62710849840
 slug: /2019/07/01/cabinet-office-quiz-night
 regions: london
 published: true
