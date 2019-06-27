@@ -65,7 +65,7 @@ We will leave our Regent’s Park pre-parade meeting point at 1:30pm.
 
 We aim to arrive on Portland Place at the meeting point no later than 2:00pm.
 
-> <h3>Stay informed</h3>
+> **Stay informed**
 > 
 > We will be setting up a WhatsApp broadcast list for attendees this year. This will be used to provide updates to all attendees during the event. 
 > In order to receive these messages you must add [+447392 136 444](tel:+447392136444) to your address book.
@@ -132,7 +132,7 @@ We encourage you to share your experience on social media with us.
 
 Please take photos and videos and send them to us [@cslgbt](//twitter.com/cslgbt) on Twitter and [@civilservicelgbt](//instagram.com/civilservicelgbt) on Instagram, and use the hashtag #CivilServicePride. 
 
-> <h3>Help us out</h3>
+> **Help us out**
 > 
 > We need a few more people to help us carry placards and banners over to the parade area at the start of the day, and return them to an office at the end. If you can help, email <info@civilservice.lgbt>. 
 
