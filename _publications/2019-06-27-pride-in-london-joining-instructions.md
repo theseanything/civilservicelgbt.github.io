@@ -33,7 +33,7 @@ See this location on [Apple Maps](https://maps.apple.com/?q=Marked%20Location&ll
 
 You will be able to identify us by the Civil Service LGBT+ Network banners and placards. They look like this:
 
-![](/assets/images/pride-banners.png)
+![](/assets/images/posts/pride-2019.png)
 
 ### Time
 
