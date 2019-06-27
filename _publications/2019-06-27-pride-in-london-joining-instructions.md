@@ -2,7 +2,7 @@
 layout: publication
 author: Civil Service LGBT+ Network
 date: '2019-06-27'
-preview: true
+preview: false 
 published: true
 title: "Civil Service at Pride in London 2019: Joining instructions"
 permalink: /publication/pride-in-london-joining-instructions
