@@ -6,6 +6,7 @@ location: Retro Bar, 2 George Ct, Charing Cross, London WC2N 6HH
 email: mary.peart@civilservice.lgbt
 layout: event
 regions: London
+categories: bisexuality
 slug: /2019/07/04/bispace-social
 published: true
 ---
