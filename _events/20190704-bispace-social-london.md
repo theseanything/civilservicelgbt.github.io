@@ -1,5 +1,5 @@
 ---
-title: 'Monthly BiSpace social'
+title: 'Monthly BiSpace social, July 2019'
 excerpt: Our monthly social and networking event in London for bi+ civil servants.
 event-date: 2019-07-04 18:00:00
 location: Retro Bar, 2 George Ct, Charing Cross, London WC2N 6HH
