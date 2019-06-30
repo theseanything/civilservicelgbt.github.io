@@ -31,7 +31,7 @@ This is always an interesting discussion. I explain that we are not asking for a
 
 ## "Do you dress up as a rainbow?"
 
-No, seriously; I someone did ask this! Sadly I have never felt the need to dress up as a rainbow.
+No, seriously; someone did ask this! Sadly I have never felt the need to dress up as a rainbow.
 
 ## It's not all bad!
 
