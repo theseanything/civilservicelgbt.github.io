@@ -2,14 +2,13 @@
 title:  						"Civil Service at MardiGla, Glasgow"
 excerpt:	  					"Join us in the MardiGla parade."
 
-event-date:	 					2019-07-20 12:00
-location: 						"Parliament Green, Horse Wynd, Edinburgh"
+event-date:	 					2019-07-20 11:30
+location: 						"Kelvingrove Park, Glasgow"
 email:							derek.bradford@hmrc.gov.uk
 link:							"https://forms.gle/23Trq8wuLa7VroJJ9"
 
-categories:						
-- pride
-- scotland
+category:						pride
+regions:					 	scotland
 
 layout: 						event
 slug:							/2019/07/20/pride-in-glasdow
