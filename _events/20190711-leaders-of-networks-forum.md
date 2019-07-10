@@ -1,5 +1,5 @@
 ---
-title: 'Leaders of Networks Forum'
+title: '[Cancelled] Leaders of Networks Forum'
 excerpt: Our regular meeting of departmental network chairs and volunteers.
 event-date: 2019-07-11 15:00:00
 location: Location to be confirmed
@@ -8,6 +8,8 @@ layout: event
 slug: /2019/07/11/leaders-of-networks-forum
 published: true
 ---
+
+> Unfortunately, due to circumstances beyond our control, this meeting has been cancelled.
 
 The Leaders of Networks Forum is a new regular event that will help shape the work of the Civil Service LGBT+ Network and give the leaders of local LGBT+ networks a space to share experiences, frustrations, resources, ideas and solutions.
 
