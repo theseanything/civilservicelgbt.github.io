@@ -2,7 +2,7 @@
 title:  						"Civil Service at MardiGla, Glasgow"
 excerpt:	  					"Join us in the MardiGla parade."
 
-event-date:	 					2019-07-20 11:30
+event-date:	 					2019-07-20 11:00
 location: 						"Kelvingrove Park, Glasgow"
 email:							derek.bradford@hmrc.gov.uk
 link:							"https://forms.gle/23Trq8wuLa7VroJJ9"
