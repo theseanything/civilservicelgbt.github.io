@@ -9,7 +9,7 @@ link:							"https://www.eventbrite.com/e/civil-service-lgbt-newtwork-social-car
 category:						pride
 
 layout: 						event
-slug:							/2019/08/24/pride-cymru-cardiff
+slug:							/2019/08/23/pride-cymru-cardiff-party
 ---
 
 You are cordially invited to join us at our pre Pride Cymru Party Social at Mary’s, St Mary’s Street, Cardiff on Friday 23 August 2019.
