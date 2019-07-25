@@ -4,6 +4,7 @@ author: "Emma Altmann-Richer"
 excerpt: "Emma Altmann-Richer from the network's Bi Inclusion team updates on our recent event."
 
 layout: news
+category: bisexuality
 
 permalink: /2019/07/25/bi-visibility-event/
 image: /assets/images/posts/bi-visibility-event.png
