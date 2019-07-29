@@ -7,7 +7,7 @@ layout: news
 category: bisexuality
 
 permalink: /2019/07/25/bi-visibility-event/
-image: /assets/images/posts/bi-visibility-event.png
+image: /assets/images/posts/bi-visibility-event.jpg
 ---
 
 On 10th July we had the pleasure of hosting a Bi+ Visibility and Intersectionality event in London. The event was well attended, including by senior guest speakers Emily Miles and Jonathan Slater. 
