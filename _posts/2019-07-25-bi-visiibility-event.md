@@ -29,7 +29,7 @@ We shared our own stories and challenges around feeling visible in spaces that a
 If you are interested in similar events and resources, please find:
 
 - Our [Bisexuality Factsheet](https://www.civilservice.lgbt/2019/05/22/introducing-new-bisexuality-fact-sheet/?fbclid=IwAR3uTXQNjbH79cgOP2h8XOVnoozgvO3TECeolCx9dHo6pxEqjZpjN0rbQO8), designed to raise awareness of bisexuality and the experiences of bisexual people
-- Our [Facebook group](https://www.facebook.com/groups/429133567651392/_ which you can also find by searching “Civil Service BiSpace Online” into Facebook
+- Our [Facebook group](https://www.facebook.com/groups/429133567651392/) which you can also find by searching “Civil Service BiSpace Online” into Facebook
 - Our [mailing list sign-up page](https://www.civilservice.lgbt/join-us/) (please tick the box indicating your interest in bi issues) 
 
 
