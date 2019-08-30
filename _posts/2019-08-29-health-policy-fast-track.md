@@ -4,6 +4,7 @@ author: "Hannah Dormor"
 excerpt: "Apply for the September 2020 cohort in October 2019."
 
 layout: news
+permalink: /2019/08/29/health-policy-fast-track-scheme/
 ---
 
 The Health Policy Fast Track Scheme (HPFTS) is DHSC’s accelerated development scheme for high potential staff with an interest in health policy. The Scheme launched in 2018 with an internally-recruited Pilot cohort, and the first externally-recruited cohort are due to join the department in September 2019. Participants are selected on ability, potential and passion for improving health and social care policy, and as such represent the health and social care leaders of the future. The Scheme has some similarities to Fast Stream but focuses more on the specific health and social care policy skills needed and how we work the NHS and our Arm’s Length Bodies.
