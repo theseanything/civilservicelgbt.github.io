@@ -1,6 +1,6 @@
 ---
 title: "Network vice-chair stepping down"
-author: "John"
+author: "John Peart"
 excerpt: "Our vice-chair, John Peart, will be stepping down in September."
 
 layout: news
