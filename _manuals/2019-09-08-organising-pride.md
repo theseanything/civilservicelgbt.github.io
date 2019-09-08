@@ -56,6 +56,13 @@ Your business case will need to cover things like:
 - registration fees for each event
 - purchase of items for the events like placards, t-shirts and floats
 
+
+### Register your groups
+
+You will need to register each group for each parade. There is usually, but not always, a fee for this. 
+
+Pride in London is one of the earliest to open registrations and they fill up very quickly; so as soon as the registrations open, make sure you register to ensure we don’t miss out.
+
 ### Participant registrations
 
 **How will you get people to register to attend each event?**
