@@ -21,9 +21,6 @@ preview:				false
 <!-- Don't remove the line of code above -->
 
 
-
-# Organising the Civil Service’s engagement in Pride events
-
 This guidance explains how previous volunteers have organised the Civil Service’s participation in Pride events in recent years. The processes specific to each Pride event and location, as determined by their organising committees, change each year; sometimes substantially. This guidance should be read in conjunction with the specific instructions provided by each Pride organisation about their event.
 
 
