@@ -2,7 +2,7 @@ name: Rebuild the site daily
 
 on:
   schedule:
-  - cron: '0 2 * * 1-7'
+  - cron: '0 22 * * * ....'
 
 jobs:
   build:
