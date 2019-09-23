@@ -2,7 +2,7 @@
 title: 'Civil Service LGBT+ social, London'
 excerpt: Our monthly social and networking event in London.
 event-date: 2019-10-03 18:00:00
-location: Simmons Bar, 2 Bateman Street, London
+location: 'Simmons Bar, 2 Bateman Street, London (Area reserved is under "Jordan")'
 no-register: "You don't need to register for this event. Just turn up."
 layout: event
 slug: /2019/10/03/london-social
