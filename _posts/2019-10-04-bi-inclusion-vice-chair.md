@@ -1,5 +1,5 @@
 ---
-title: "Bi+ Inlclusion Lead: become a vice chair for the Civil Service LGBT+ Network"
+title: "Bi+ Inclusion Lead: become a vice chair for the Civil Service LGBT+ Network"
 author: "Kate Hughes"
 excerpt: "We’re opening up one additional vice chair position to lead our work on bi+ inclusion, and other minority sexual identities."
 
