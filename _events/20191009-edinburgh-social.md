@@ -4,6 +4,7 @@ title: 'Civil Service LGBT+ social, Edinburgh'
 excerpt: Join us for our social in Edinburgh.
 event-date: 2019-10-09 18:00:00
 location: 'The Regent, 2 Montrose Terrace, Edinburgh, EH7 5DL'
+link: https://www.eventbrite.co.uk/e/cs-lgbti-social-edinburgh-tickets-71355759999
 email: STEVEN.BRITTAIN@dwp.gsi.gov.uk
 slug: /2019/10/09/edinburgh-social
 published: true

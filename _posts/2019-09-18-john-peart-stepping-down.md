@@ -4,10 +4,10 @@ author: "John Peart"
 excerpt: "Our vice-chair, John Peart, will be stepping down in September."
 
 layout: news
-permalink: /2019/08/29/john-peart-stepping-down/
+permalink: /2019/09/18/john-peart-stepping-down/
 
 published: true
-preview: true
+preview: false 
 ---
 
 At the end of this month, I'll be stepping down from my role as vice-chair of the Civil Service LGBT+ Network. 
