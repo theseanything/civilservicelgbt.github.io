@@ -25,7 +25,7 @@ This guidance contains links to commonly used resources and repositories that mi
 
 ## Social media
 
-- [Image Maker](https://civilservice.lgbt/image-maker) - A custom image maker for use on Civil Service LGBT+ social media.
+- **[Image Maker](https://civilservice.lgbt/image-maker)** - A custom image maker for use on Civil Service LGBT+ social media.
 - **[Twitter](https://www.twitter.com/cslgbt)**: Our Twitter account is `@cslgbt`.
 - **[Facebook](https://www.twitter.com/civilservicelgbt)**: Our Facebook Page is at `/civilservicelgbt`. We also administrate a number of private Facebook Groups linked to this page.
 - **[Instagram](https://www.instagram.com/civilservicelgbt)**: Our Instagram account is `@civilservicelgbt`.
