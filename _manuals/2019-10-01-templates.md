@@ -27,7 +27,7 @@ These templates do not explain how to publish content; for that, [read the 'Post
 ## Links
 
 1. [News posts template](https://github.com/civilservicelgbt/civilservicelgbt.github.io/blob/master/_templates/2000-01-01-news-template.md)
-2. [Events listings template](https://github.com/civilservicelgbt/civilservicelgbt.github.io/blob/master/_templates/20000101-events-template.md)
+2. [Events listings template](https://github.com/civilservicelgbt/civilservicelgbt.github.io/blob/master/_templates/20000101-event-template.md)
 3. [Publication template](https://github.com/civilservicelgbt/civilservicelgbt.github.io/blob/master/_templates/2000-01-01-publication-template.md)
 4. [Consultation template](https://github.com/civilservicelgbt/civilservicelgbt.github.io/blob/master/_templates/2000-01-01-consultation-template.md)
 5. [Manual template](https://github.com/civilservicelgbt/civilservicelgbt.github.io/blob/master/_templates/2000-01-01-manual-template.md)
