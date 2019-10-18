@@ -18,7 +18,7 @@ Note, unlike our previous website, these events can be listed from anywhere - yo
 
 ### Filenames
 
-**Important!** Use this format for the filename: `YYYY-MM-DD-title-of-event`.
+**Important!** Use this format for the filename: `YYYYMMDD-title-of-event.md`.
 
 ### Post setup
 
