@@ -1,11 +1,11 @@
 ---
 title: 'Monthly BiSpace social, November 2019'
 excerpt: Our monthly social and networking event in London for bi+ civil servants.
-event-date: 2019-11-06 18:00:00
+event-date: 2019-11-07 18:00:00
 location: Retro Bar, 2 George Ct, Charing Cross, London WC2N 6HH
 email: mary.peart@civilservice.lgbt
 layout: event
-slug: /2019/09/05/bispace-social
+slug: /2019/11/07/bispace-social
 published: true
 ---
 
