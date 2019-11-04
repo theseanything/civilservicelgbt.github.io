@@ -1,11 +1,11 @@
 ---
 title: 'Civil Service LGBT+ social, London'
 excerpt: Our monthly social and networking event in London.
-event-date: 2019-11-06 18:00:00
-location: London
+event-date: 2019-11-07 18:00:00
+location: "Sanctuary House, 33 Tothill St, London, SW1H 9LA"
 no-register: "You don't need to register for this event. Just turn up."
 layout: event
-slug: /2019/11/06/london-social
+slug: /2019/11/07/london-social
 published: true
 ---
 Join us for our monthly a networking event in London. This event is your chance to meet other LGBT+ civil servants from across government. Each month we're somewhere different - just to keep things interesting. Anyone can attend, so long as you work for a Civil Service organisation. It's usually free to attend.
