@@ -2,7 +2,7 @@
 title: 'Civil Service LGBT+ social, London'
 excerpt: Our monthly social and networking event in London.
 event-date: 2019-12-05 18:00:00
-location: The Yard, 57 Rupert Street, Soho, London, W1D 7PL
+location: The Yard, 57 Rupert Street, Soho, London, W1D 7PL (Area reserved for 'Jordan')
 email: info@civilservice.lgbt
 layout: event
 slug: /2019/12/05/london-social
