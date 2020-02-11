@@ -1,6 +1,6 @@
 ---
 title: "Civil Service LGBT+ social, Cardiff"
-excerpt: "Our monthly social and networking event in Bristol." 
+excerpt: "Our bimonthly social and networking event in Bristol." 
 event-date: "2020-02-12 17:00:00"
 location: "Mary's, St Mary Street, Cardiff"
 email: "no email"
