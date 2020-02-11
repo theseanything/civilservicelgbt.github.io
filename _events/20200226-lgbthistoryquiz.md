@@ -8,6 +8,7 @@ layout: event
 slug: /2020/02/26/historymonth-quiz
 published: true
 ---
+
 With a special thanks to Spirit, the MoJ's LGBT+ network, who have taken the lead and got everything organised, registration for the cross-government LGBT+ History Month Quiz is now open.
 
 For teams based outside London, there will also be the option to take part remotely.
