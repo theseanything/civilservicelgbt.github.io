@@ -1,7 +1,7 @@
 ---
 title: "Civil Service LGBT+ social, Cardiff"
 excerpt: "Our bimonthly social and networking event in Bristol." 
-event-date: "2020-02-12 17:00:00"
+event-date: "2020-02-28 17:00:00"
 location: "Mary's, St Mary Street, Cardiff"
 email: "https://www.eventbrite.co.uk/e/civil-service-lgbt-network-social-cardiff-tickets-93508222611"
 layout: event
