@@ -2,7 +2,7 @@
 title: 'Civil Service LGBT+ social, Liverpool'
 excerpt: Our monthly social and networking event in Liverpool.
 event-date: 2020-02-27 18:00:00
-location: FOLK, 12 Tithebarn Street, Liverpool, L3 2DT
+location: Brasco Lounge, 27A Mann Island, Liverpool, L3 1BP
 email: northwest@civilservice.lgbt
 layout: event
 regions: northwest
@@ -17,7 +17,7 @@ This event is your chance to meet other LGBT+ civil servants from across governm
 
 Our Liverpool socials are on the forth Thursday of each month.
 
-Please contact [Matthew Walker](mailto:MATTHEW.WALKER1@DWP.GSI.GOV.UK) if you need more information.
+Please contact [Ross Starkie](mailto:ross.starkie@hmrc.gov.uk) if you need more information.
 
 **Not based in Liverpool?** Don't worry, we also hold events in other parts of the UK too. You can find all our events on our website. 
  
