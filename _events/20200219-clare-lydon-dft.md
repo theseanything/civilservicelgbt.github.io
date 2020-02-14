@@ -2,7 +2,7 @@
 title: "Lunchtime discussion with author Clare Lydon "
 excerpt: "The DfT LGBT+ committee is pleased to announce that lesbian author Clare Lydon will be joining us for a talk." 
 event-date: "2020-02-19 12:00:00"
-location: "Department for trasnport, Great Minster House, 33 Horseferry Road, Westminster, London, SW1P 4DR"
+location: "Department for Transport, Great Minster House, 33 Horseferry Road, Westminster, London, SW1P 4DR"
 link: https://www.eventbrite.com/e/lgbt-history-month-lunchtime-discussion-with-author-clare-lydon-tickets-91547479977
 layout: event
 slug: /2020/02/19/clare-lydon-dft
