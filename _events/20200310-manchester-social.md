@@ -20,6 +20,6 @@ Our Manchester socials are on the second Tuesday of each month.
 
 Please contact [Matthew Walker](mailto:MATTHEW.WALKER1@DWP.GSI.GOV.UK)  if you need more information.
 
-> **Not based in Manchester?** Don't worry, we also hold events in other parts of the UK too. You can find all our events on our website.
-> 
-> If we don't have an event coming up in your area, why not run one yourself! [Contact us](/about/contact-us/) and we can help you promote it.
+**Not based in Manchester?** Don't worry, we also hold events in other parts of the UK too. You can find all our events on our website.
+
+If we don't have an event coming up in your area, why not run one yourself! [Contact us](/about/contact-us/) and we can help you promote it.
