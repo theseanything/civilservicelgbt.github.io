@@ -5,11 +5,11 @@ preview: false
 published: true
 title: "What happened at our latest Leaders of Networks Forum"
 permalink: 2020/02/17/leaders-of-networks-forum-readout
-date: 2020-02-04
+date: 2020-02-17
 excerpt: We recently held our Leaders of Networks Forum. This is what happened.
 ---
 
-Thank you to the Department Network Leads who attended or dialled in to our Network of Leaders forum last Thursday. It was a useful discussion and we look forward to working with you over the next year. 
+Thank you to the Department Network Leads who attended or dialled in to our Network of Leaders forum on Thursday 4th February. It was a useful discussion and we look forward to working with you over the next year. 
 
 The Leaders of Networks Forum is open to anyone who helps to lead a Civil Service LGBT+ staff network, it exists to share news of what the Civil Service LGBT+ Network is doing and to give departmental LGBT+ network leaders a space to share experiences, frustrations, resources, ideas and solutions. 
 
