@@ -22,7 +22,7 @@ In addition, the network attended a meeting with the No10 policy unit in Decembe
 In 2020, the network plans to expand our pride presence throughout the regions, develop the WEI work with the CSD&I team, focus on intersectionality and launch a Civil Service version of the GEO LGBT survey. 
 
 ## Stonewall Workplace Equality Index
-The network congratulated the Ministry of Justice and Welsh Government for their top 10 place in the Workplace Equality Index. A further congratulations was extended to the other networks with departments/agencies placed in the top 100, a full list can be found here. 
+The network congratulated the Ministry of Justice and Welsh Government for their top 10 place in the Workplace Equality Index. A further congratulations was extended to the other networks with departments/agencies placed in the top 100, a full list can be found [here.](https://www.stonewall.org.uk/full-list-top-100-employers-2019) 
 The group were updated on the work going on around Stonewall WEI. It was noted that an analysis had been undertaken using departments feedback from the 2019 submissions. This piece of work has been useful in sharing good practice amongst departments, while also collating useful data to assist other departments in seeking guidance from others. 
 The group discussed the inconsistencies with scores of the submissions and the value of the WEI amongst the different departments. It was noted that there is a variance between departments on who completes the submission (the network and HR). The group were advised on the on-going working group led by Civil Service HR on common issues across the board such as procurement and learning and development. 
 
