@@ -2,7 +2,7 @@
 title: 'Civil Service LGBT+ social, Manchester'
 excerpt: Our monthly social and networking event in Manchester.
 event-date: 2020-03-10 18:00:00
-location: The Richard Team Room, 46 Sackville Street, Manchester, M1 3WF
+location: Richardmond Tea Rooms, 46 Sackville Street, Manchester, M1 3WF
 email: northwest@civilservice.lgbt
 layout: event
 regions: northwest
@@ -18,7 +18,7 @@ This event is your chance to meet other LGBT+ civil servants from across governm
 
 Our Manchester socials are on the second Tuesday of each month.
 
-Please contact [Matthew Walker](mailto:MATTHEW.WALKER1@DWP.GSI.GOV.UK)  if you need more information.
+Please contact [Matthew Walker](mailto:MATTHEW.WALKER1@DWP.GOV.UK)  if you need more information.
 
 **Not based in Manchester?** Don't worry, we also hold events in other parts of the UK too. You can find all our events on our website.
 
