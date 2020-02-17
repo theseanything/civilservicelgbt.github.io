@@ -11,8 +11,6 @@ excerpt: We recently held our Leaders of Networks Forum. This is what happened.
 
 Thank you to the Department Network Leads who attended or dialled in to our Network of Leaders forum on Thursday 4th February. It was a useful discussion and we look forward to working with you over the next year. 
 
-The Leaders of Networks Forum is open to anyone who helps to lead a Civil Service LGBT+ staff network, it exists to share news of what the Civil Service LGBT+ Network is doing and to give departmental LGBT+ network leaders a space to share experiences, frustrations, resources, ideas and solutions. 
-
 Please find below a brief note of the meeting. The team will be in contact with attendees to follow up on any actions. 
 
 ## Civil Service LGB&TI Champion update
@@ -42,3 +40,5 @@ The network notified other network leads that they could bid for Pride in London
 
 ## AOB
 The network is looking to provide more focused support for allies. Therefore, we are interested to hear from departmental networks about their thoughts and ideas on how we can work towards this goal. We will also be bringing back Allies Week in the coming months with more details to follow soon. 
+
+> The Leaders of Networks Forum is open to anyone who helps to lead a Civil Service LGBT+ staff network, it exists to share news of what the Civil Service LGBT+ Network is doing and to give departmental LGBT+ network leaders a space to share experiences, frustrations, resources, ideas and solutions. 
