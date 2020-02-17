@@ -9,7 +9,7 @@ date: 2020-02-17
 excerpt: We recently held our Leaders of Networks Forum. This is what happened.
 ---
 
-Thank you to the Department Network Leads who attended or dialled in to our Network of Leaders forum on Thursday 4th February. It was a useful discussion and we look forward to working with you over the next year. 
+Thank you to the Department Network Leads who attended or dialled in to our Leaders of Networks forum on Thursday 4th February. It was a useful discussion and we look forward to working with you over the next year. 
 
 Please find below a brief note of the meeting. The team will be in contact with attendees to follow up on any actions. 
 
