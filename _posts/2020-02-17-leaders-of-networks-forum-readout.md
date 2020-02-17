@@ -3,7 +3,7 @@ layout: news
 author: James Jefferson
 preview: false
 published: true
-title: "What happened at latest Leaders of Networks Forum"
+title: "What happened at our latest Leaders of Networks Forum"
 permalink: 2020/02/17/leaders-of-networks-forum-readout
 date: 2020-02-04
 excerpt: We recently held our Leaders of Networks Forum. This is what happened.
