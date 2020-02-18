@@ -2,7 +2,7 @@
 title: 'Civil Service LGBT+ social, London'
 excerpt: Our monthly social and networking event in London.
 event-date: 2020-03-05 18:00:00
-location: "Please check back a couple of days in advance of the event"
+location: "Rupert Street Bar, 50 Rupert St, Soho, London W1D 6DR"
 no-register: "You don't need to register for this event. Just turn up."
 layout: event
 slug: /2020/03/05/london-social
