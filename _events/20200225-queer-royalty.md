@@ -8,6 +8,7 @@ layout: event
 slug: /2020/02/25/queer-royalty
 published: true
 ---
+
 As part of LGBT History Month, the DCMS LGBT+ Network is delighted to be welcoming Matthew Storey, Curator at Historic Royal Palaces (a DCMS ALB), for a lunchtime talk. He will be sharing his research on queer love in the Royal Palaces. The talk is open to all civil servants who have CTC clearance or above - we hope to see you there!
 
 **Not based in London?** Don't worry, we also hold events in other parts of the UK too. You can find all our events on our website.
