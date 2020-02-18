@@ -1,6 +1,6 @@
 ---
 title: 'Queer Royalty: Hidden stories from the Historic Royal Places, London'
-excerpt: 'Join DCMS for their LGBT+ History Month event.
+excerpt: Join DCMS for their LGBT+ History Month event.
 event-date: 2020-02-25 12:30:00
 location: Churchill Room, 100 Parliament Street, Westminster, London SW1A 2NP
 link: https://www.eventbrite.co.uk/e/queer-royalty-hidden-stories-from-the-historic-royal-palaces-tickets-94815215863
