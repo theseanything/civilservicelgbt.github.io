@@ -1,5 +1,5 @@
 ---
-title: "Intesectionality and Allies Panel"
+title: "Intersectionality and Allies Panel"
 excerpt: "A panel of Civil Servants who have an LGBT+ identity that ‘intersects’ across ethnicity, gender, disability and more" 
 event-date: "2020-02-25 11:00:00"
 location: "Government Shared Services (GSS) Collaboration Zone, 5th floor, 151 Buckingham Palace Road, Victoria, London, SW1W 9SZ"
