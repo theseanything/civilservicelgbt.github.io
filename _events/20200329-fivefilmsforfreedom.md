@@ -5,7 +5,6 @@ event-date: 2020-03-29 18:00
 location: [Online](https://film.britishcouncil.org/about/work/fivefilmsforfreedom)
 email: 
 layout: event
-regions: 
 slug: /2020/03/29-fivefilmsforfreedom
 published: true
 ---
