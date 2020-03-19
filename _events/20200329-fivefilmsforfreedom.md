@@ -3,13 +3,13 @@ title: "#FiveFilmsforFreedom from the British Council and the BFI"
 excerpt: "Powerful stories from around the world in support of love and equality – that's what #FiveFilmsForFreedom is all about."
 event-date: "2020-03-29 18:00"
 location: "Online"
-no-register: "The films are available free online untill 29th March 2020."
+no-register: "The films are available free online until 29th March 2020."
 layout: event
 slug: /2020/03/29/fivefilmsforfreedom
 published: true
 ---
 
-## Free [online](https://film.britishcouncil.org/about/work/fivefilmsforfreedom) untill 29th March 2020.
+## Free [online](https://film.britishcouncil.org/about/work/fivefilmsforfreedom) until 29th March 2020.
 
 Support our creative friends during this difficult time by getting involved with the British Council’s and BFI Flare’s London LGBTIQ+ Film Festival: #FiveFilmsForFreedom. 
 
