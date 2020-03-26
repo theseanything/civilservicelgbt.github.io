@@ -5,7 +5,7 @@ event-date: "2020-03-31 12:00:00"
 location: "Online"
 email: lgbt.network@environment-agency.gov.uk
 layout: event
-slug: /2020/03/31/EALGBT_Sophie_Cook
+slug: /2020/03/31/sophiecook-tdov-ealgbt
 published: true
 ---
 
