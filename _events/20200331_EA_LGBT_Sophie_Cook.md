@@ -3,7 +3,7 @@ title: "Join writer, speaker, activist and broadcaster Sophie Cook via YouTube l
 excerpt: "The Environment Agency LGBT+ Network is pleased to host a talk by Sophie Cook via YouTube live streaming to mark Transgender Day of Visibility." 
 event-date: "2020-03-31 12:00:00"
 location: "Online"
-register: [email](mailto:lgbt.network@environment-agency.gov.uk)
+email: lgbt.network@environment-agency.gov.uk
 layout: event
 slug: /2020/03/31/EALGBT_Sophie_Cook
 published: true
