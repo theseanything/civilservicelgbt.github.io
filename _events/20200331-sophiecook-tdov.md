@@ -9,7 +9,7 @@ slug: /2020/03/31/sophiecook-tdov-ealgbt
 published: true
 ---
 
-Transgender Day of Visibility (TODV) is an annual event which is dedicated to celebrating transgender people and raising awareness of the discrimination faced by the trans community worldwide.
+Transgender Day of Visibility (TDOV) is an annual event which is dedicated to celebrating transgender people and raising awareness of the discrimination faced by the trans community worldwide.
 
 To mark the occasion, the Enviroment Agency LGBT+ Network will be hosting a talk by writer, speaker, activist and broadcaster Sophie Cook via YouTube live streaming.  Sophie will talk about her personal story, vulnerability and building resilience.  It will take place from 12-1pm on Tuesday 31 March and promises to be a great event, so please save the date.  
 
