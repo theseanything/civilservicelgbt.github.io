@@ -23,7 +23,7 @@ If you haven't already, please follow our social media channels to keep engaged.
 
 Is your departmental network hosting an online event that is open to all civil servants? Please [let us know](mailto:info@civilservice.lgbt) and we will share it on our website. 
 
-For all the latest digital events, please check out our [events page](wwww.civilservice.lgbt/events) 
+For all the latest digital events, please check out our [events page](https://www.civilservice.lgbt/events/) 
 
 
 
