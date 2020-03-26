@@ -16,4 +16,3 @@ To mark the occasion, the Enviroment Agency LGBT+ Network will be hosting a talk
 To find out more about Sophie, please visit her [website](http://www.sophiecook.me.uk/).
 
 The EA LGBT+ Network will provide you with a link to access the event on your work or personal phone. If you are interested, please register above.
-
