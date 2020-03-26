@@ -19,3 +19,11 @@ You will have seen that many prides around the country are being postponed durin
 
 If you haven't already, please follow our social media channels to keep engaged. We are looking at using these more in the coming weeks: [Facebook](http://www.facebook.com/civilservicelgbt), [Twitter](http://www.twitter.com/cslgbt), [Instagram](http://instagram.com/civilservicelgbt). We also have a [Facebook group](https://www.facebook.com/groups/civilservicelgbt/?ref=pages_profile_groups_tab&source_id=1407804409469176) that you can request to join. 
 
+## Online events 
+
+Is your departmental network hosting an online event that is open to all civil servants? Please [let us know](mailto:info@civilservice.lgbt) and we will share it on our website. 
+
+For all the latest digital events, please check out our [events page](wwww.civilservice.lgbt/events) 
+
+
+
