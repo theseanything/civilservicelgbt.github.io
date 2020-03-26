@@ -3,7 +3,7 @@ layout: news
 author: James Jefferson
 preview: false
 published: true
-title: "March update"
+title: "March Update"
 permalink: 2020/03/26/march-update
 date: 2020-03-26
 excerpt: An update from the Civil Service LGBT+ Network.
