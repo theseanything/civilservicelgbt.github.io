@@ -3,7 +3,7 @@ title: "Join activist Sophie Cook's live via Periscope to mark Transgender Day o
 excerpt: "The Environment Agency LGBT+ Network is pleased to host an informative talk with Sophie Cook." 
 event-date: "2020-03-31 12:00:00"
 location: "Online"
-no-register: "You don't need to register for this event. Just visit @sophiecooktalks twitter on the day for the link."
+no-register: "You don't need to register for this event. Just visit Sophie's [Twitter](https://twitter.com/sophiecooktalks) on the day for the link."
 layout: event
 slug: /2020/03/31/sophiecook-tdov-ealgbt
 published: true
@@ -17,6 +17,6 @@ To find out more about Sophie, please visit her [website](http://www.sophiecook.
 
 If you are interested, please follow the below steps: 
 
-Go to @sophiecooktalks via Twitter shortly before midday on Tuesday 31 March, where Sophie Cook will put a link to a live streaming application called Periscope. This should be viewable on any device.
+Go to [@sophiecooktalks](https://twitter.com/sophiecooktalks) via [Twitter](https://twitter.com/sophiecooktalks) shortly before midday on Tuesday 31 March, where Sophie Cook will put a link to a live streaming application called Periscope. This should be viewable on any device.
 
 There will be the opportunity to ask Sophie written questions live but please note that if you are using a mobile phone you will need to install the Periscope application ahead of time. We are told this is not required on a PC.
