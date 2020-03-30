@@ -3,7 +3,7 @@ title: "Join activist Sophie Cook's live via live streaming to mark Transgender 
 excerpt: "The Environment Agency LGBT+ Network is pleased to host an informative talk with Sophie Cook." 
 event-date: "2020-03-31 12:00:00"
 location: "Online"
-no register:
+no-register: "You don't need to register for this event. Just visit @sophiecooktalks twitter on the day for the link."
 layout: event
 slug: /2020/03/31/sophiecook-tdov-ealgbt
 published: true
