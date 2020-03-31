@@ -1,5 +1,5 @@
 ---
-title: "Join activist Sophie Cook's live via Periscope to mark Transgender Day of Visibility"
+title: "Join activist Sophie Cook live via Periscope to mark Transgender Day of Visibility"
 excerpt: "The Environment Agency LGBT+ Network is pleased to host an informative talk with Sophie Cook." 
 event-date: "2020-03-31 12:00:00"
 location: "Online"
