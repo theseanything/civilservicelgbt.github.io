@@ -1,6 +1,6 @@
 ---
 title: 'Civil Service LGBT+ digital social'
-excerpt: Our first digital social, the LGBTQUIZ+.
+excerpt: Our first digital social, the LGBTQuiz+.
 event-date: 2020-04-09 18:30:00
 location: "Online (via Zoom)"
 link: "https://www.eventbrite.co.uk/e/civil-service-lgbt-network-digital-quiz-tickets-101877147290?ref=elink"
