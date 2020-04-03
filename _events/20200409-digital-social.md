@@ -16,7 +16,7 @@ This quiz is open to all network members and allies. You do not need a team as t
 
 While our socials usually take place in different locations across the country, this digital social will be the opportunity to virtually meet members from far and wide. 
 
-Joining instructions will be sent out in advance of the event to those registered. If you are unable to participate vocally, please let us know and we will make sure you can still join in. 
+Joining instructions will be sent out in advance of the event to those registered. If you are unable to participate vocally, please let us know and we will make sure you can still join in safely. 
 
 Please sign up for the event, using the above [link](https://www.eventbrite.co.uk/e/civil-service-lgbt-network-digital-quiz-tickets-101877147290?ref=elink). 
 
