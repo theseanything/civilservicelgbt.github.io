@@ -1,16 +1,16 @@
 ---
-title: 'Civil Service LGBT+ social, Digital'
+title: 'Civil Service LGBT+ digital social'
 excerpt: Our first digital social, the LGBTQUIZ+.
 event-date: 2020-04-09 18:30:00
 location: "Online (via Zoom)"
-register: https://www.eventbrite.co.uk/e/civil-service-lgbt-network-digital-quiz-tickets-101877147290?ref=elink
+register: "https://www.eventbrite.co.uk/e/civil-service-lgbt-network-digital-quiz-tickets-101877147290?ref=elink"
 layout: event
 slug: /2020/04/09/digital-social
 published: true
 ---
 With all 'physical' socials suspended, we are missing our network family. 
 
-Join us on Thursday 9th March at 18:30 for our very first digital LGBT+ quiz. 
+Join us on Thursday 9th April at 18:30 for our very first digital LGBT+ quiz. 
 
 This quiz is open to all network members and allies. You do not need a team as the technology of Zoom will allow us to create virtual ones. 
 
