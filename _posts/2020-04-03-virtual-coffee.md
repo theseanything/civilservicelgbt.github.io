@@ -3,7 +3,7 @@ layout: news
 author: James Jefferson
 preview: false
 published: true
-title: "LGBT+ Virtual Coffee Club"
+title: "Virtual Coffee Club"
 permalink: 2020/04/03/virtual-coffee
 date: 2020-04-03
 excerpt: The Ofgem LGBT+ Network is setting up a LGBT+ virtual coffee club that you can join!
