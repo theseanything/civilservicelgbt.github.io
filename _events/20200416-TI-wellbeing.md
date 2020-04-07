@@ -3,7 +3,7 @@ title: 'Trans & Intersex experiences in COVID-19'
 excerpt: An online discussion for T&I colleagues on wellbeing during COVID-19.
 event-date: "2020-04-16 14:00:00"
 location: "Online (via Google Hangouts). Contact suzanne.van-rossengberg@geo.gov.uk for dial-in details"
-no-register: ""
+no-register: " "
 layout: event
 slug: /2020/04/16/trans-wellbeing
 published: true
