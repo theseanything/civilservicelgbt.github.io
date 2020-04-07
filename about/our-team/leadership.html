@@ -1,3 +1,4 @@
+---
 layout: page
 title: 'Leadership team'
 excerpt: 'We are a volunteer-led network, made up of members from across the UK.'
@@ -7,16 +8,16 @@ published: true
 
 <table>
 
-{% for volunteer in site.data.team %}{% if volunteer.SubTeam == "Bi+ inclusion" %}
+{% for volunteer in site.data.team %}{% if volunteer.SubTeam == "Leadership" %}
 
 <tr>
 	<td>
-		{% if volunteer.Picture %}<img src="{{ site.url | append: site.baseurl | append: volunteer.Picture }}">{% endif %} 
+		{% if volunteer.Picture %}<img src="{{ site.url | append: site.baseurl | append: volunteer.Picture }}">{% endif %}
 	</td>
 	<td>
 		<h2>
 			{% if volunteer.Email %}<a href="{{ volunteer.Email | prepend: "mailto:" }}">{{ volunteer.Name }}</a>{% else %}{{ volunteer.Name }}{% endif %}</h2>
-			
+
 			<p>{{ volunteer.Bio }}</p>
 	</td>
 </tr>
