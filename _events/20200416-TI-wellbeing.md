@@ -3,7 +3,6 @@ title: 'Trans & Intersex experiences in COVID-19'
 excerpt: An online discussion for T&I colleagues on wellbeing during COVID-19.
 event-date: 2020-04-16 14:00:00
 location: "Online"
-link: "https://www.eventbrite.co.uk/e/civil-service-lgbt-network-digital-quiz-tickets-101877147290?ref=elink"
 layout: event
 slug: /2020/04/16/trans-wellbeing
 published: true
