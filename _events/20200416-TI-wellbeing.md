@@ -16,7 +16,9 @@ The objective of this initiative is to support trans, non-binary and intersex st
 
 If you don’t identify as trans, non-binary or intersex yourself, but you are in a position of supporting colleagues who are (through Diversity and Inclusion roles or as a line-manager), you are very welcome to join the conversation. 
 
-We are using Cabinet Office Google Hangouts software, which you can join from outside the Cabinet Office by copy-pasting the HangOuts link into a browser (with or without video), or dialing in via a telephone number and pin. Email suzanne.van-rossenberg@geo.gov.uk to receive the calendar invitation and dial-in details.
+This will be hosted on Google Hangouts, but will also have dial-in options via a telephone number and pin. 
+
+Email suzanne.van-rossenberg@geo.gov.uk to receive the calendar invitation and dial-in details.
 
 In the meeting, we will follow the Chatham House Rule: all participants are asked to not attribute any information shared by participants to their identity and affiliation outside the meeting.
 
