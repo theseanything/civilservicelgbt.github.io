@@ -1,13 +1,14 @@
 ---
 title: 'Trans & Intersex experiences in COVID-19'
 excerpt: An online discussion for T&I colleagues on wellbeing during COVID-19.
-event-date: 2020-04-16 14:00:00
+event-date: "2020-04-16 14:00:00"
 location: "Online"
 link: "Contact: suzanne.van-rossenberg@geo.gov.uk"
 layout: event
 slug: /2020/04/16/trans-wellbeing
 published: true
 ---
+
 Are you transgender, non-binary, gender fluid or genderqueer? Are you intersex or have an intersex condition or variation in sex characteristics?
 
 Please join the Government Equalities Office and Cabinet Office for a cross-gov virtual meeting on Thursday 16 April, 2 - 3pm, facilitating a conversation about how Covid-19 and self-isolation have impacted you.
