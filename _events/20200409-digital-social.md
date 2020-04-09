@@ -8,6 +8,9 @@ layout: event
 slug: /2020/04/09/digital-social
 published: true
 ---
+
+THIS EVENT HAS SOLD OUT. PLEASE EMAIL US TO SEE IF ANY LAST MINUTE TICKETS BECOME AVAILABLE!
+
 With all 'physical' socials suspended, we are missing our network family. 
 
 Join us on Thursday 9th April at 18:30 for our very first digital LGBT+ quiz. 
