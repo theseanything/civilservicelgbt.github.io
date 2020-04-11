@@ -1,0 +1,40 @@
+<span id="cookies-exist" style="display: none;">You have enabled cookies on civilservice.lgbt. You can <a onclick="deleteAllCookies()">delete all cookies from civilservice.lgbt</a>.</span>
+
+<span id="cookies-none" style="display: none;">You have not enabled cookies on civilservice.lgbt.</span>
+
+<noscript>
+<p>We use Javascript to set most of our cookies. Unfortunately Javascript is not running on your browser, so you cannot change your settings. You can try:</p>
+
+<ul>
+<li>reloading the page</li>
+<li>turning on Javascript in your browser</li>
+</ul>
+</noscript>
+
+<script>
+  function readCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+    }
+    return null;
+}
+
+      if(readCookie('cookie-policy')=='true') {
+          document.getElementById("cookies-exist").style.display="inline";
+      }
+      else {
+        document.getElementById("cookies-none").style.display="inline";
+      }
+
+  function deleteAllCookies() {
+    var cookies = document.cookie.split(";");
+for (var i = 0; i < cookies.length; i++)
+eraseCookie(cookies[i].split("=")[0]);
+location.reload();
+return false;
+};
+</script>

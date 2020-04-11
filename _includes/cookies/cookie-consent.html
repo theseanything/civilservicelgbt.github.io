@@ -1,0 +1,81 @@
+<noscript>
+  <div id="cookie-notice-nojs">
+  <div class="container">
+  <div id="cookie-choice-nojs">
+    <p><strong>Tell us whether you accept cookies</strong></p>
+    <p>We use <a href="/about/your-data">cookies to collect information</a> about how you use this website to improve the functionality.</p>
+  </div>
+  </div>
+  </div>
+</noscript>
+
+<div id="cookie-notice">
+<div class="container">
+
+  <div id="cookie-choice">
+    <p><strong>Tell us whether you accept cookies</strong></p>
+    <p>We use <a href="/about/your-data">cookies to collect information</a> about how you use this website to improve the functionality.</p>
+    <button class="cookie-button" id="cookie-choice-accept">Accept</button>
+    <button class="cookie-button" id="cookie-choice-decline">Decline</button>
+  </div>
+
+  <div id="cookie-choice-confirmation">
+    <p>You've accepted cookies. You can <a href="/about/your-data">change your cookie options</a> and get more information on how they're used at any time.</p>
+    <button class="cookie-button" id="cookie-choice-hide">Hide</button>
+  </div>
+
+</div>
+</div>
+
+<script>
+  function createCookie(name,value,days) {
+      var expires = "";
+      if (days) {
+          var date = new Date();
+          date.setTime(date.getTime() + (days*24*60*60*1000));
+          expires = "; expires=" + date.toUTCString();
+      }
+      document.cookie = name + "=" + value + expires + "; path=/";
+  }
+  function readCookie(name) {
+      var nameEQ = name + "=";
+      var ca = document.cookie.split(';');
+      for(var i=0;i < ca.length;i++) {
+          var c = ca[i];
+          while (c.charAt(0)==' ') c = c.substring(1,c.length);
+          if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+      }
+      return null;
+  }
+  function eraseCookie(name) {
+      createCookie(name,"",-1);
+  }
+
+  if(readCookie('cookie-policy')=='true') {
+      {% include ga.js %}
+  }
+  else if(readCookie('cookie-policy-declined')=='true') {
+  }
+  else {
+      document.getElementById('cookie-notice').style.display = 'block';
+      document.getElementById('cookie-choice').style.display = 'block';
+      document.getElementById('cookie-choice-confirmation').style.display = 'none';
+
+  }
+
+  document.getElementById('cookie-choice-accept').addEventListener("click",function() {
+      createCookie('cookie-policy','true',31);
+      document.getElementById('cookie-choice').style.display = 'none';
+      document.getElementById('cookie-choice-confirmation').style.display = 'block';
+  })
+
+  document.getElementById('cookie-choice-decline').addEventListener("click",function() {
+    createCookie('cookie-policy-declined','true',31);
+      document.getElementById('cookie-notice').style.display = 'none';
+  })
+
+  document.getElementById('cookie-choice-hide').addEventListener("click",function() {
+      document.getElementById('cookie-notice').style.display = 'none';
+      location.reload()
+  })
+</script>
