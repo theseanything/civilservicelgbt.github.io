@@ -73,14 +73,24 @@ For further information visit [www.aboutcookies.org](https://www.aboutcookies.or
 
 You can set your browser not to accept cookies and the above websites tell you how to remove cookies from your browser. However, in a few cases, some of our website features may not function as a result.
 
+### Cookies that measure website use
+
 We use Google Analytics to measure how you use the website so we can improve it based on user needs.
 
 Google Analytics sets the following cookies.
 
-| Name | Purpose | Expries |
+| Name | Purpose | Expires |
 |-------|--------|---------|
 | _ga | To help us count how many people visit the website by tracking if you’ve visited before | 2 years |
 | _gid | To help us count how many people visit the website by tracking if you’ve visited before | 24 hours |
+
+### Strictly necessary cookies
+
+You may see a banner when you visit civilservice.lgbt asking you to either accept or decline cookies. Once you've chosen, we'll set a cookie so your device knows you've seen the banner and not to show it again as well as save your cookie setting.
+
+| Name | Purpose | Expires |
+|-------|--------|---------|
+| cookie-policy | Saves your cookie consent settings | 1 month |
 
 ### Your cookie choices on civilservice.lgbt
 

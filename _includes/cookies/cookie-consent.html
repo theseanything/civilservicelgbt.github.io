@@ -54,7 +54,7 @@
   if(readCookie('cookie-policy')=='true') {
       {% include ga.js %}
   }
-  else if(readCookie('cookie-policy-declined')=='true') {
+  else if(readCookie('cookie-policy')=='false') {
   }
   else {
       document.getElementById('cookie-notice').style.display = 'block';
@@ -70,7 +70,7 @@
   })
 
   document.getElementById('cookie-choice-decline').addEventListener("click",function() {
-    createCookie('cookie-policy-declined','true',31);
+    createCookie('cookie-policy','false',31);
       document.getElementById('cookie-notice').style.display = 'none';
   })
 

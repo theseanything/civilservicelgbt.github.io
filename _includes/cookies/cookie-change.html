@@ -1,6 +1,8 @@
 <span id="cookies-exist" style="display: none;">You have enabled cookies on civilservice.lgbt. You can <a onclick="deleteAllCookies()">delete all cookies from civilservice.lgbt</a>.</span>
 
-<span id="cookies-none" style="display: none;">You have not enabled cookies on civilservice.lgbt.</span>
+<span id="cookies-essential" style="display: none;">You have chosen not to enable measurement cookies on civilservice.lgbt. You can <a onclick="deleteAllCookies()">delete all cookies from civilservice.lgbt</a>, including your cookie perferences.</span>
+
+<span id="cookies-none" style="display: none;">You have chosen not to enable cookies on civilservice.lgbt.</span>
 
 <noscript>
 <p>We use Javascript to set most of our cookies. Unfortunately Javascript is not running on your browser, so you cannot change your settings. You can try:</p>
@@ -25,6 +27,9 @@
 
       if(readCookie('cookie-policy')=='true') {
           document.getElementById("cookies-exist").style.display="inline";
+      }
+      else if(readCookie('cookie-policy')=='false') {
+        document.getElementById("cookies-essential").style.display="inline";
       }
       else {
         document.getElementById("cookies-none").style.display="inline";
