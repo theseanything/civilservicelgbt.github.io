@@ -1,6 +1,6 @@
 ---
 title: 'Bi Visibility at Work'
-excerpt: Our first digital social, the LGBTQuiz+.
+excerpt: Join our workshop on being bi and visible at work.
 event-date: 2020-04-20 17:00:00
 location: "Online (via Zoom)"
 link: "https://www.eventbrite.co.uk/e/being-bi-and-visible-at-work-tickets-102683404828"
