@@ -36,3 +36,7 @@ I had so much fun (with just little bit of stress) organising this quiz with Ast
 I know that feeling anxious, or depressed, or lonely are things we in the LGBT+ community have to face more than other people at the best of times. At the moment, many of us may feel cut off from our usual support networks, and I know a quiz won’t solve everything, but I hope it helped and I hope you all made new friends too.  
 
 I look forward to doing more virtual socials in the coming weeks. If you have any ideas that you think people might enjoy - please do reach out to us.
+
+>Is your departmental network hosting an online event that is open to all civil servants? Please [let us know](mailto:info@civilservice.lgbt) and we will share it on our website. 
+
+>For all the latest digital events, please check out our [events page](https://www.civilservice.lgbt/events/) 
