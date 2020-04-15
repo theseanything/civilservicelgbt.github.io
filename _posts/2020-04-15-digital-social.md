@@ -5,7 +5,7 @@ date: '2020-04-15'
 preview: false
 published: true
 title: We held our first digital social...
-excerpt: 'Find out what happened at our first digital social and read the relections of the event organisers.'
+excerpt: 'Find out what happened at our first digital social and read the relections from the event organisers.'
 permalink: /2020/04/15/digital-social-blog
 image: /assets/images/posts/mailchimp.PNG
 ---
