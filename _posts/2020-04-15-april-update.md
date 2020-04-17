@@ -27,7 +27,6 @@ Run by the DIVA Media Group, Europe’s biggest LGBTQI media group, Lesbian Visi
 
 It is essential that Lesbian Visibility Week is a voice for unity and lifts up ALL women, especially those who come from marginalised communities. Recent research (Pride Matters survey, conducted by Pride In London 2018) has shown that gay women are almost twice as unlikely to be out in the workplace as gay male colleagues.
 
-[Find out more](https://www.lesbianvisibilityweek.com/#/). 
 
 ## Calling all Network chairs! 
 
