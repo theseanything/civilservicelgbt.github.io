@@ -5,7 +5,7 @@ date: '2020-04-20'
 preview: false
 published: true
 title: Let's get visible... meet Rachael
-excerpt: 'To mark Lesbian Visibility Week, we’re celebrating the lesbians who make the Civil Service a great place to work for all colleagues. Rachael is a Policy Advisor in the Department for Transport.'
+excerpt: 'To mark Lesbian Visibility Week, we’re celebrating the lesbians who make the Civil Service a great place to work for all colleagues. Rachael is a Policy Advisor at the Department for Transport.'
 permalink: /2020/04/20/lesbian-vis-week-rachael
 image: /assets/images/posts/lvw-rachael.png
 ---
