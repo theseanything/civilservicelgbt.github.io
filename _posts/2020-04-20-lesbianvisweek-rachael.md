@@ -5,10 +5,12 @@ date: '2020-04-20'
 preview: false
 published: true
 title: Let's get visible... meet Rachael
-excerpt: 'To mark Lesbian Visibility Week, we’re celebrating the lesbians who make the Civil Service a great place to work for all colleagues. Rachael is a Policy Advisor at the Department for Transport and she's just got engaged.'
+excerpt: 'To mark Lesbian Visibility Week, we’re celebrating the lesbians who make the Civil Service a great place to work for all colleagues.'
 permalink: /2020/04/20/lesbian-vis-week-rachael
 image: /assets/images/posts/lvw-rachael.png
 ---
+
+## Rachael is a Policy Advisor at the Department for Transport and she's just got engaged.
 
 What does it say about me, who has been a card-carrying member of the lesbian club for the last nine years, that I didn’t even realise there was a lesbian visibility week? I’ve been quite fortunate to be blessed with the confidence to never shut up about being a lesbian, it’s one of the first things I say when I’m introduced to people. 
 
