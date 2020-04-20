@@ -7,8 +7,9 @@ published: true
 title: Let's get visible: Rachael
 excerpt: 'To mark Lesbian Visibility week, we are profiling our lesbian members: meet Rachael.'
 permalink: /2020/04/20/lesbian-visibility-week-rachael
-image: /assets/images/posts/lvw_rachael.png
+image: /assets/images/posts/lvw-rachael.png
 ---
+
 
 What does it say about me, who has been a card-carrying member of the lesbian club for the last nine years, that I didn’t even realise there was a lesbian visibility week? I’ve been quite fortunate to be blessed with the confidence to never shut up about being a lesbian, it’s one of the first things I say when I’m introduced to people. 
 
