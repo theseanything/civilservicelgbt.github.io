@@ -7,7 +7,6 @@ published: true
 title: Let's get visible... meet Caroline
 excerpt: 'To mark Lesbian Visibility Week, we’re celebrating the lesbians who make the Civil Service a great place to work for all colleagues.'
 permalink: /2020/04/21/lesbian-vis-week-caroline
-image: /assets/images/posts/lvw-caroline.jpg
 ---
 
 ## Caroline is a Policy Advisor in the Civil Service Diversity & Inclusion team. She shares her personal story. 
