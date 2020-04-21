@@ -28,10 +28,12 @@
 </div>
 
 <script>
-if (readCookie("cookie-policy") == "true") {
-  initGoogleAnalytics("{{ site.google-analytics }}")
-} else if (readCookie("cookie-policy") == "false") {
+if (getCookie("cookie-policy") == "true") {
+  startGA("{{ site.google-analytics }}");
+} else if (getCookie("cookie-policy") == "false") {
+  stopGA("{{ site.google-analytics }}");
 } else {
+  stopGA("{{ site.google-analytics }}");
   document.getElementById("cookie-notice").style.display = "block";
   document.getElementById("cookie-choice").style.display = "block";
   document.getElementById("cookie-choice-confirmation").style.display = "none";
@@ -40,7 +42,7 @@ if (readCookie("cookie-policy") == "true") {
 document
   .getElementById("cookie-choice-accept")
   .addEventListener("click", function () {
-    createCookie("cookie-policy", "true", 31);
+    setCookie("cookie-policy", "true", 31);
     document.getElementById("cookie-choice").style.display = "none";
     document.getElementById("cookie-choice-confirmation").style.display = "block";
   });
@@ -48,7 +50,7 @@ document
 document
   .getElementById("cookie-choice-decline")
   .addEventListener("click", function () {
-    createCookie("cookie-policy", "false", 31);
+    setCookie("cookie-policy", "false", 31);
     document.getElementById("cookie-notice").style.display = "none";
   });
 
