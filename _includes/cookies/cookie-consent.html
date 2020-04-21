@@ -29,7 +29,7 @@
 
 <script>
 if (readCookie("cookie-policy") == "true") {
-  {% include ga.js %}
+  initGoogleAnalytics("{{ site.google-analytics }}")
 } else if (readCookie("cookie-policy") == "false") {
 } else {
   document.getElementById("cookie-notice").style.display = "block";

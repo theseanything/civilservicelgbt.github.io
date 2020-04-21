@@ -29,3 +29,14 @@ function createCookie(name, value, days) {
 function eraseCookie(name) {
   createCookie(name, "", -1);
 }
+
+function gtag() {
+  dataLayer.push(arguments);
+}
+
+function initGoogleAnalytics(trackingId){
+  window.dataLayer = window.dataLayer || [];
+  gtag("js", new Date());
+
+  gtag("config", trackingId);
+}
