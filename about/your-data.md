@@ -84,7 +84,9 @@ Google Analytics sets the following cookies.
 | _ga | To help us count how many people visit the website by tracking if you’ve visited before | 2 years |
 | _gid | To help us count how many people visit the website by tracking if you’ve visited before | 24 hours |
 
-You can [opt out of Google Analytics](https://tools.google.com/dlpage/gaoptout).
+Set your preference for cookies:
+
+{% include cookies/measurement-cookies-change.html %}
 
 ### Strictly necessary cookies
 
@@ -93,10 +95,6 @@ You may see a banner when you visit civilservice.lgbt asking you to either accep
 | Name | Purpose | Expires |
 |-------|--------|---------|
 | cookie-policy | Saves your cookie consent settings | 1 month |
-
-### Your cookie choices on civilservice.lgbt
-
-{% include cookies/cookie-change.html %}
 
 ## Other websites
 
