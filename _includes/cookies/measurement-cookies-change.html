@@ -24,4 +24,18 @@ if (getCookie("cookie-policy") == "true") {
 } else {
   document.getElementById("disable-measurement-cookies").checked = true;
 }
+
+
+document
+  .getElementById("enable-measurement-cookies")
+  .addEventListener("click", function () {
+    setCookie("cookie-policy", "true", 31);
+  });
+
+document
+  .getElementById("disable-measurement-cookies")
+  .addEventListener("click", function () {
+    setCookie("cookie-policy", "false", 31);
+    stopGA("{{ site.google-analytics }}");
+  });
 </script>
