@@ -4,7 +4,7 @@ author: Civil Service LGBT+ Network
 date: '2020-04-22'
 preview: false
 published: true
-title: Asexual fact sheet
+title: Asexuality fact sheet
 permalink: /publication/ace-fact-sheet
 excerpt: "What’s it like to be asexual (ace) in the Civil Service? We've produced a new fact sheet on asexuality to support ace inclusion in the Civil Service."
 ---
