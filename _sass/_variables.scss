@@ -3,14 +3,13 @@
 // Variables should follow the `$component-state-property-size` formula for
 // consistent naming. Ex: $nav-link-disabled-color and $modal-content-box-shadow-xs.
 
-
 //
 // Color system
 //
 
 // stylelint-disable
 $white:    		#ffffff !default;
-$light-gray:		#DEE0E2 !default;
+$light-gray:	#DEE0E2 !default;
 $gray:			#BFC1C3	!default;
 $dark-gray:		#6F777B !default;
 $black:    		#0B0C0C !default;
@@ -21,7 +20,7 @@ $red:     		#e30613 !default;
 $yellow:  		#ffed00 !default;
 $green:   		#00853e !default;
 $cyan:    		#009fe3 !default;
-$purple:			#312783	!default;
+$purple:		#312783	!default;
 
 // Default colors
 
@@ -34,18 +33,18 @@ $body-background:				$black;
 $wrapper-background:			$white;
 $body-color:					$black;
 
-$link-color:						$blue;
+$link-color:					$blue;
 $link-hover-color:				$cyan;
 $link-font-weight:				400;
 $link-outline:					none;
 $link-text-decoration:			none;
-$link-text-decoration-hover:		underline;
+$link-text-decoration-hover:	underline;
 
 $heading-color:					$black;
 
-$code-color:						darken($magenta, 10%);
+$code-color:					darken($magenta, 10%);
 
-$font-size-base:					19px;
+$font-size-base:				19px;
 $font-line-height:				1.35;
 $font-weight:					normal;
 
