@@ -31,7 +31,7 @@ We collect information about you so that we can:
 - send you tickets to events you register for, and keep you informed about changes to event details
 - send you information we think might be of interest to you about LGBT+ issues in the Civil Service through our regular newsletter
 - follow up with you when you submit information to consultations or similar activities
-- understand who our members are so we can plan our work to be relevant to our membership 
+- understand who our members are so we can plan our work to be relevant to our membership
 - improve our website and newsletters
 
 So that we can provide you with services, we use your data when:
@@ -47,7 +47,7 @@ Where we collect sensitive personal data, like information about your sexual ori
 
 [^special-cat-data]: We process this data on the basis of Article 9(2)(a) and 9(2)(d) of the General Data Protection Regulation of the European Union.
 
-We will not share your personal information with other organisations for marketing purposes. 
+We will not share your personal information with other organisations for marketing purposes.
 
 We use several third party services to store and use data you provide to us, so that we can provide our services to you. These include MailChimp (for our newsletters), Eventbrite (for our events management), Typeform and SurveyMonkey (for our surveys and consultations) and Google Apps (for our email and office software).
 
@@ -59,7 +59,7 @@ If you no longer want to receive these emails, [you can unsubscribe](https://lgb
 
 ## Access to your information and correction
 
-All our membership information is stored in our newsletter service, provided by MailChimp. To access the information we hold about you, click the “update preferences” link at the bottom of any of our newsletters sent to you. 
+All our membership information is stored in our newsletter service, provided by MailChimp. To access the information we hold about you, click the “update preferences” link at the bottom of any of our newsletters sent to you.
 
 Information you provide to us as part of registering for events is stored by Eventbrite. You can access data held by Eventbrite by contacting [privacy@eventbrite.com](mailto:privacy@eventbrite.com).
 
@@ -72,6 +72,29 @@ Cookies are text files placed on your computer to collect standard internet log 
 For further information visit [www.aboutcookies.org](https://www.aboutcookies.org).
 
 You can set your browser not to accept cookies and the above websites tell you how to remove cookies from your browser. However, in a few cases, some of our website features may not function as a result.
+
+### Cookies that measure website use
+
+We use Google Analytics to measure how you use the website so we can improve it based on user needs.
+
+Google Analytics sets the following cookies.
+
+| Name | Purpose | Expires |
+|-------|--------|---------|
+| _ga | To help us count how many people visit the website by tracking if you’ve visited before | 2 years |
+| _gid | To help us count how many people visit the website by tracking if you’ve visited before | 24 hours |
+
+Set your preference for cookies:
+
+{% include cookies/measurement-cookies-change.html %}
+
+### Strictly necessary cookies
+
+You may see a banner when you visit civilservice.lgbt asking you to either accept or decline cookies. Once you've chosen, we'll set a cookie so your device knows you've seen the banner and not to show it again as well as save your cookie setting.
+
+| Name | Purpose | Expires |
+|-------|--------|---------|
+| cookie-policy | Saves your cookie consent settings | 1 month |
 
 ## Other websites
 
